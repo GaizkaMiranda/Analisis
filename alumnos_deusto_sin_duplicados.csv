@@ -1,4 +1,4 @@
-﻿DNI,Nombre,Asignatura,Nota
+DNI,Nombre,Asignatura,Nota
 5390,Charo Beltrán,Matematicas,5
 6805,Flora Marti,Programacion,6
 3029,Rosa María Lara,Programacion,5
@@ -127,7 +127,6 @@
 1265,Miriam Alberdi,Fisica,6
 4335,Baldomero Barrio,Fisica,5
 6709,Gaspar Agullo,Programacion,7
-1730,Ángela Cámara,Programacion,5
 8376,Gastón Serna,Matematicas,2
 6869,Cándida Córdoba,Fisica,7
 8956,Ainoa Morales,Matematicas,4
@@ -273,7 +272,6 @@
 8210,Luisina Herranz,Fisica,5
 3805,Juan Pablo Aroca,Programacion,6
 8200,Pío Cordero,Matematicas,5
-1357,Román Acuña,Programacion,6
 3596,Cristóbal Mata,Fisica,5
 9079,Ibán Rocamora,Matematicas,5
 3250,Balduino Carnero,Programacion,7
@@ -316,10 +314,8 @@
 4534,Leire Ferrándiz,Matematicas,2
 5769,Carmela Pardo,Programacion,6
 8557,Alfredo Vara,Programacion,6
-1654,José Luis Ríos,Fisica,9
 9112,Isaías Camacho,Fisica,6
 5206,Adelina Araujo,Matematicas,9
-4433,Carmelita Céspedes,Fisica,6
 5024,Rosendo Vallés,Fisica,5
 5857,Calixto Solano,Fisica,6
 9540,Eva Alcaraz,Programacion,6
@@ -328,13 +324,11 @@
 8102,Lorenzo Valera,Fisica,5
 3789,Jaime Pascual,Programacion,5
 4231,Valeria Sanjuan,Programacion,2
-2420,Teobaldo Ariza,Programacion,9
 8428,Martin Valderrama,Programacion,5
 6532,Marina Cabello,Fisica,5
 3519,Valentín Macias,Matematicas,8
 1791,Mercedes Collado,Matematicas,5
 3225,Cándido Borja,Programacion,5
-2850,Pastor Ortega,Programacion,8
 5490,Noelia Talavera,Fisica,5
 8910,Bernardo Capdevila,Fisica,3
 2169,Loreto Valderrama,Matematicas,5
@@ -378,21 +372,18 @@
 2526,Dolores Pinilla,Programacion,8
 4808,Roldán Serrano,Matematicas,8
 9158,Natalia Planas,Programacion,6
-2322,Marisa Oliveras,Fisica,6
 8031,Agustín Ariño,Matematicas,3
 7292,Bibiana Montaña,Fisica,1
 6445,Evaristo Arcos,Programacion,5
 2869,Camilo Zabala,Programacion,5
 4854,Maristela Saavedra,Fisica,9
 8842,Rolando Huertas,Programacion,6
-9703,Bibiana Blasco,Matematicas,7
 5394,Renato Alarcón,Fisica,6
 7758,Emilio Ponce,Programacion,5
 7177,Adelaida Anglada,Matematicas,5
 1461,Griselda Aguilera,Fisica,6
 5172,Mireia Estevez,Fisica,6
 6299,Ana Sofía Pla,Fisica,7
-8813,Lorena Padilla,Matematicas,5
 6860,Joan Núñez,Fisica,5
 8099,Javi Rosa,Matematicas,5
 9141,Emiliana Mateos,Programacion,9
@@ -448,12 +439,10 @@
 7613,María Teresa Molins,Matematicas,6
 4685,Visitación Iborra,Fisica,6
 1189,Fernando Parejo,Fisica,7
-3309,Ileana Bermejo,Fisica,5
 4606,Bienvenida Solera,Programacion,5
 8310,Claudia Varela,Fisica,9
 5794,Leocadio Vergara,Fisica,4
 3381,Luis Casado,Fisica,10
-6736,Florencio Ordóñez,Matematicas,6
 6903,Dominga Porcel,Programacion,5
 7944,Nazaret Viana,Fisica,7
 2979,Jovita Mascaró,Matematicas,7
@@ -470,7 +459,6 @@
 6570,Anastasio Báez,Fisica,9
 7291,Celestina Melero,Matematicas,10
 6653,Albino Mate,Fisica,7
-1173,Gabriela Morán,Matematicas,3
 7475,Celso Ferrero,Programacion,6
 2914,Flor Soto,Programacion,5
 9750,Carla Pedro,Fisica,5
@@ -479,33 +467,27 @@
 1948,Alejo Salvà,Matematicas,8
 7749,Griselda Hernando,Programacion,6
 8320,Abilio Cantero,Matematicas,6
-9271,Máximo Sanchez,Matematicas,3
 1425,Aureliano Zabaleta,Programacion,5
 9177,Juliana Millán,Matematicas,7
 9150,Yésica Cortina,Matematicas,3
 8318,Néstor Rebollo,Fisica,5
 3942,Renata Bonet,Programacion,10
 1700,Ema Ortiz,Fisica,5
-2519,Dionisio Benitez,Fisica,5
 9599,Eladio Herrero,Fisica,10
 9541,Cleto Ortuño,Fisica,8
 2201,Cintia Valls,Programacion,4
 7777,Julio Checa,Matematicas,5
 4571,Nicolás Conesa,Programacion,6
 2412,Dan Marí,Matematicas,5
-2477,Ainoa Trillo,Programacion,4
 9932,Noelia Carrera,Fisica,10
 3352,Jovita Aranda,Fisica,7
 3705,Teófilo Company,Programacion,5
 7140,Renata Checa,Fisica,5
 2604,Purificación Lladó,Matematicas,6
 1214,Dan Vizcaíno,Programacion,5
-9158,Zaira Seguí,Matematicas,6
 9497,Rita Mendizábal,Programacion,6
 4023,Eulalia García,Matematicas,1
 3949,Evaristo Chamorro,Fisica,7
-5921,Amando Laguna,Matematicas,6
-6992,Tomás Cañizares,Matematicas,1
 1427,Carolina Francisco,Programacion,6
 3271,Nico Cañete,Fisica,5
 5191,Eliseo Morcillo,Programacion,10
@@ -523,7 +505,6 @@
 9160,Lázaro Aragón,Programacion,5
 5765,Bernardino Manso,Fisica,2
 2237,Vito Fabra,Programacion,5
-4954,Paulino Iriarte,Fisica,8
 5182,Gustavo Benavente,Programacion,6
 1219,Dominga Zurita,Programacion,8
 1209,Modesta Solano,Fisica,3
@@ -543,7 +524,6 @@
 3880,Isabela Solana,Programacion,6
 9570,Francisco Javier Olmedo,Fisica,5
 5916,Geraldo Solana,Matematicas,9
-2278,Montserrat Canals,Fisica,5
 2636,Fabricio Sastre,Programacion,6
 8369,Vito Viñas,Programacion,6
 4131,Federico Raya,Matematicas,2
@@ -551,11 +531,9 @@
 1329,Amalia Vázquez,Fisica,3
 1238,Abilio Verdugo,Programacion,5
 4313,Amalia Alcántara,Programacion,5
-8872,Dionisio Cisneros,Matematicas,5
 9415,Nilo Mercader,Fisica,7
 2403,Iker Ibáñez,Matematicas,4
 2148,Virgilio Castañeda,Programacion,5
-5948,Fortunato Araujo,Matematicas,6
 4239,Reyna Escrivá,Fisica,7
 4573,Candelas Peral,Matematicas,10
 9532,Elba Landa,Matematicas,5
@@ -579,12 +557,10 @@
 3860,Amelia Verdejo,Programacion,9
 4455,Marcos Guillen,Fisica,10
 4422,Agustín España,Matematicas,7
-6690,Yolanda Sevillano,Programacion,5
 3489,Teobaldo Malo,Matematicas,5
 5209,Domingo Ferrández,Fisica,8
 7256,Anabel Belmonte,Fisica,5
 8445,Zaira Guardia,Matematicas,5
-7642,Julio Torrijos,Matematicas,6
 1699,Modesto Aguiló,Matematicas,6
 1724,Alejo Solís,Programacion,5
 5118,Julia Antón,Fisica,5
@@ -622,11 +598,9 @@
 4000,Noelia Carrera,Fisica,7
 4904,Esperanza Pablo,Matematicas,5
 4670,Marisol Roda,Fisica,6
-3789,María Dolores Patiño,Programacion,7
 4563,Noemí Ródenas,Fisica,2
 3478,Inés Verdú,Programacion,2
 7548,Óscar Aller,Fisica,5
-3652,Victoria Peinado,Matematicas,7
 8639,Marisela Chacón,Matematicas,6
 5107,Juanita Plana,Matematicas,5
 9274,Gil Beltran,Matematicas,5
@@ -634,7 +608,6 @@
 5925,Mario Sans,Matematicas,5
 8616,Marisa Valbuena,Fisica,5
 6638,Gastón Reguera,Programacion,5
-2228,Saturnina Arellano,Programacion,6
 8886,Aníbal Blanes,Programacion,9
 1983,Calista Novoa,Matematicas,5
 3441,Ruy Lopez,Programacion,5
@@ -646,7 +619,6 @@
 1366,Vicenta Garriga,Programacion,5
 5937,Ángeles Pascual,Fisica,7
 8032,Venceslás Ochoa,Matematicas,6
-5955,Conrado Juan,Fisica,5
 5388,Berta Escalona,Programacion,7
 4319,Óscar Rodríguez,Fisica,6
 6905,Octavia Balaguer,Fisica,6
@@ -656,10 +628,7 @@
 2359,Marcelino Nieto,Programacion,6
 8798,Toni Narváez,Fisica,1
 1242,Almudena Gracia,Fisica,3
-6903,Adelia Fabra,Matematicas,5
-3281,Celso Machado,Programacion,2
 6760,Cosme Vizcaíno,Programacion,10
-3405,América Acevedo,Programacion,5
 2424,Wálter Alsina,Matematicas,6
 5239,Renato Larrea,Fisica,6
 1030,Angelina Ríos,Programacion,6
@@ -668,7 +637,6 @@
 3285,Cándido Tejera,Matematicas,7
 6063,Emiliano Barral,Programacion,5
 4151,Dolores Barón,Matematicas,3
-2420,Toni Moraleda,Programacion,9
 7403,Bárbara Quero,Matematicas,6
 3506,Bernardino Arias,Programacion,4
 2360,Abigaíl Carranza,Matematicas,9
@@ -681,17 +649,13 @@
 1757,Valentín Pozuelo,Fisica,9
 7803,Fernando Arjona,Matematicas,7
 2280,Marisela Bilbao,Matematicas,3
-5490,Luis Ángel Casado,Programacion,6
 2817,Rosalía Aranda,Fisica,5
 4804,Almudena Escolano,Matematicas,1
-3082,Belén Alvarez,Fisica,5
 3927,Fanny Barceló,Matematicas,1
-8730,Carmela Baeza,Programacion,6
 5720,Cruz Chamorro,Matematicas,5
 1309,Jorge Mir,Matematicas,6
 2699,Hortensia Durán,Programacion,6
 9641,Luis Ángel Torrent,Fisica,2
-1770,Cándido Cantero,Matematicas,8
 5571,Salud Parejo,Programacion,5
 2572,Leocadia Portero,Matematicas,5
 1311,María Jesús Menendez,Matematicas,6
@@ -708,12 +672,10 @@
 4140,Jacinta Vergara,Programacion,5
 7695,Leoncio Font,Fisica,8
 4041,Victor Manuel Cordero,Matematicas,1
-8004,Delfina Rovira,Matematicas,1
 5025,Ágata Puga,Programacion,5
 9416,Balduino Rosado,Fisica,6
 5654,Urbano Amores,Fisica,8
 7243,Valeria Juliá,Programacion,5
-2126,Eugenia Ferreras,Fisica,6
 5856,Jessica Cisneros,Matematicas,5
 7963,Reyes Olivares,Programacion,5
 7124,Gabriela Berrocal,Fisica,6
@@ -740,7 +702,6 @@
 4228,Gracia Ribera,Matematicas,6
 7053,Sabas Prats,Programacion,5
 5908,Bernabé Nogueira,Programacion,6
-9960,Marciano Cobo,Programacion,7
 5970,Perlita Badía,Programacion,7
 7021,Reyes Carbonell,Matematicas,5
 3049,Sabina Pinedo,Programacion,4
@@ -756,7 +717,6 @@
 1246,Pastora Sans,Programacion,6
 4451,Eloy Planas,Matematicas,5
 9586,Adelardo Manrique,Fisica,5
-4606,Adoración Tenorio,Programacion,5
 8182,Eloísa Alcolea,Programacion,10
 3997,Jacinta Fuertes,Fisica,7
 7969,Ágata Dávila,Fisica,3
@@ -767,19 +727,14 @@
 4085,Toño Amaya,Matematicas,5
 2565,Goyo Marcos,Matematicas,2
 3753,Melisa Juárez,Programacion,8
-3780,Mateo Adán,Programacion,7
 3893,Lola Benavides,Fisica,7
-1838,Paulino Rebollo,Programacion,5
 7211,Tomasa Mariño,Matematicas,6
 6734,Sabas Olmedo,Fisica,8
-2760,Héctor Serrano,Matematicas,9
 8103,Vinicio Cerdán,Fisica,9
 2418,Leonor Dominguez,Programacion,6
 7651,Andrés Felipe Vazquez,Matematicas,5
 5195,Araceli Pou,Matematicas,8
 7574,Wilfredo Campos,Programacion,6
-3367,Mario Pinilla,Programacion,1
-8376,Cayetano Leon,Programacion,7
 1862,Martín Fabregat,Programacion,5
 3974,Salvador Ferrándiz,Fisica,5
 2746,Agapito Zapata,Programacion,5
@@ -801,7 +756,6 @@
 4789,Miriam Acedo,Fisica,7
 3471,Rosario Ramos,Programacion,5
 4154,Socorro Berenguer,Programacion,5
-2836,Alonso Alcolea,Matematicas,5
 8656,Juliana Barranco,Programacion,4
 8536,Úrsula Adán,Programacion,6
 1245,Cristian Figuerola,Matematicas,6
@@ -838,7 +792,6 @@
 4338,Albina Lozano,Fisica,5
 1178,Pío Bello,Programacion,7
 9430,Sebastian Gómez,Matematicas,6
-2552,Victoria Ortiz,Fisica,6
 4040,Cruz Moliner,Matematicas,5
 5397,Micaela Garriga,Programacion,6
 1033,Saturnino Valbuena,Matematicas,10
@@ -887,9 +840,6 @@
 8646,Adrián Ramos,Fisica,3
 7809,Fortunato Pérez,Fisica,6
 9348,Inmaculada Chaparro,Programacion,7
-4041,Guillermo Tejero,Matematicas,8
-7177,Jose Manuel Guzmán,Programacion,10
-9552,Arcelia Azcona,Programacion,3
 9887,José Iniesta,Programacion,6
 2221,Francisco Javier Cardona,Programacion,6
 8853,Raquel Rozas,Fisica,5
@@ -907,23 +857,18 @@
 5226,Bernabé Beltrán,Matematicas,6
 2183,Roque Vallejo,Programacion,3
 2996,Natividad Carretero,Matematicas,3
-1700,Darío Melero,Programacion,6
 1016,Lupe Carranza,Programacion,6
 7853,Josep Olivé,Fisica,8
-6912,Áurea Rebollo,Programacion,7
 5069,Piedad Rosado,Matematicas,3
 8089,Manolo Vazquez,Programacion,3
 7395,Francisco Jose Molins,Matematicas,3
 9592,Clara Suarez,Programacion,6
 8804,Flavio Tamarit,Programacion,5
-5380,Raimundo Neira,Matematicas,6
 5170,Ana Belén Escobar,Matematicas,5
 3252,Óscar Cortes,Programacion,2
 1232,Francisca Sola,Fisica,9
 3020,Zaida Goñi,Matematicas,5
-1526,Teobaldo Zapata,Fisica,5
 3221,Cintia Bolaños,Fisica,9
-2760,Goyo Ojeda,Fisica,10
 2029,Concepción Jáuregui,Programacion,7
 9209,Candela Bastida,Fisica,5
 8256,Mohamed Vilanova,Programacion,8
@@ -938,10 +883,8 @@
 4142,Cirino Arteaga,Matematicas,6
 9423,Melisa Luz,Fisica,5
 1815,Abel Blasco,Programacion,5
-6857,Rosa María Barroso,Programacion,5
 2304,Olga Moles,Matematicas,6
 6875,Caridad Benitez,Matematicas,1
-8031,Jose Miguel Arnal,Programacion,5
 3400,Gonzalo Baeza,Matematicas,6
 6798,Vasco Pineda,Fisica,5
 3238,Amando Jara,Programacion,1
@@ -959,9 +902,7 @@
 6816,Julio Briones,Programacion,6
 2440,Tiburcio Ribas,Fisica,6
 2206,Remigio Dominguez,Matematicas,5
-6869,Luisina Sans,Fisica,7
 6849,Ibán Blanca,Matematicas,5
-8557,Desiderio Escrivá,Matematicas,7
 5426,Ruben Pazos,Fisica,5
 1883,Reynaldo Ortega,Programacion,4
 2809,Dani Palomares,Matematicas,2
@@ -973,7 +914,6 @@
 7870,Abraham Piñol,Matematicas,7
 7196,Olimpia Escudero,Fisica,7
 5919,Pacífica Ripoll,Matematicas,2
-8739,Gabriela Calderon,Programacion,7
 6587,Paz Amaya,Matematicas,2
 6611,Angelino Alba,Matematicas,6
 8118,Nadia Cánovas,Programacion,8
@@ -985,14 +925,11 @@
 9653,Raquel Zapata,Fisica,3
 8548,Loida Pedrero,Matematicas,6
 3426,Rafa Martín,Matematicas,4
-7540,Moisés Mateu,Fisica,5
-6444,Cayetana Alemany,Fisica,9
 1180,Bienvenida Madrid,Matematicas,6
 8758,Celestina Pérez,Programacion,6
 2612,Catalina Arteaga,Matematicas,3
 4435,Angelita Alcaraz,Fisica,5
 6632,Leandra Gimeno,Programacion,5
-1838,Eleuterio Vendrell,Matematicas,7
 6190,José Antonio Salvador,Programacion,7
 2224,Malena Blasco,Fisica,4
 9260,Cándida Zabala,Matematicas,5
