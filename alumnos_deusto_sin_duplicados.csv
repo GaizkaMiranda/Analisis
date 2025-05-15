@@ -1,947 +1,948 @@
 DNI,Nombre,Asignatura,Nota,horas_estudio,Edad,Sexo,Ciudad,Correo,Telefono
-7908,Jose Ramón Dueñas,Matematicas,6,3,20.0,,Salamanca,emiliano63@example.com,+34 874113998
-7045,Rosario Landa,Matematicas,5,4,24.0,Femenino,Málaga,rosellobdulia@example.org,+34974704306
-5213,Dorotea Falcón,Programacion,5,6,23.0,Masculino,Álava,solsonabelen@example.org,+34 826 977 918
-6647,Josefina Palau,Programacion,4,8,22.0,Masculino,Murcia,bantunez@example.net,+34848 18 28 12
-5446,Francisco Javier Huerta,Programacion,6,0,22.0,Femenino,Las Palmas,graciamanuel@example.net,+34 823 836 950
-2450,Silvio Mur,Fisica,6,0,20.0,Masculino,Guipúzcoa,lupe49@example.org,+34 820 907 069
-7174,Saturnina Tomás,Fisica,6,6,22.0,Masculino,Cuenca,imanuel@example.com,+34946915941
-1819,Fausto Elías,Fisica,4,5,,Femenino,Palencia,lisandroguardia@example.org,+34 843 93 99 29
-2296,Adelaida Torrecilla,Fisica,9,7,23.0,Femenino,Granada,qzapata@example.org,+34 807 641 175
-9215,Aníbal Oller,Matematicas,3,5,18.0,Femenino,Soria,custodiohervia@example.com,+34 901 609 247
-6857,Jose Antonio Castilla,Matematicas,6,5,24.0,Femenino,Álava,barredaalexandra@example.net,+34 826417004
-9043,Marcial Cantero,Programacion,1,7,24.0,Femenino,Castellón,xmelendez@example.com,+34921 821 347
-2705,Ágata Matas,Programacion,2,4,21.0,Masculino,Madrid,,+34848521992
-2006,Renato Urrutia,Matematicas,9,3,22.0,Masculino,Tarragona,vigilabraham@example.net,+34825 882 135
-1908,Moreno Cantón,Matematicas,3,5,,Femenino,Cádiz,sperales@example.org,+34 920 18 84 62
-8738,Fausto Alberto,Fisica,5,8,25.0,Femenino,Ourense,hangulo@example.com,+34 926 95 52 83
-1106,Eduardo Porcel,Programacion,10,5,24.0,Masculino,León,tovarsilvio@example.com,+34 881052254
-1756,Andrés Guardia,Matematicas,5,4,22.0,Masculino,Granada,brigida43@example.com,+34980 558 352
-2648,Remigio Quintero,Matematicas,5,5,19.0,,Toledo,dorita10@example.net,+34 921 798 600
-4661,José María Bartolomé,Matematicas,1,3,20.0,Masculino,Guadalajara,amata@example.net,+34 947573491
-5491,Eustaquio Castells,Matematicas,9,7,20.0,Femenino,Ceuta,clopez@example.com,+34824 09 85 43
-5008,Florentina Benito,Fisica,5,5,21.0,Masculino,Zaragoza,arielprats@example.org,+34902 59 44 55
-5646,María Fernanda Ayala,Fisica,6,3,20.0,Masculino,Albacete,blasprada@example.com,+34 987 859 285
-7081,Manuelita Sureda,Fisica,5,3,22.0,Femenino,Teruel,benitezgeorgina@example.org,+34846395175
-1521,Nazaret Rosa,Fisica,5,6,24.0,Masculino,La Coruña,mamenpinedo@example.org,+34 816552163
-9989,Nacio Romero,Matematicas,6,3,21.0,Masculino,Álava,berta92@example.org,+34 949 719 025
-7989,Ciro Roig,Fisica,5,2,23.0,Masculino,Almería,manu50@example.org,+34 985 147 112
-9218,Aitana Gomis,Matematicas,9,3,18.0,Masculino,Burgos,mmorales@example.com,
-6337,Goyo Bonet,Programacion,2,5,18.0,Femenino,Soria,mateojuana@example.org,+34 884 90 70 94
-2679,Martin Montaña,Fisica,7,3,18.0,Femenino,Granada,redondoalejandra@example.org,+34832 192 964
-3786,Reina Caparrós,Matematicas,7,4,25.0,Femenino,Badajoz,narcisocastilla@example.net,+34915 72 36 52
-3242,Nilo Montaña,Programacion,5,1,24.0,Femenino,Soria,filomenasaura@example.org,+34879 40 66 64
-9904,Eladio Abascal,Matematicas,4,4,25.0,Femenino,Lleida,kroman@example.net,+34 979 780 870
-2658,Carmelita Carrillo,Programacion,2,3,23.0,Masculino,Salamanca,jose-ignacio09@example.org,+34900 52 69 58
-6847,Humberto Jiménez,Programacion,5,3,24.0,Femenino,La Rioja,ccalvet@example.com,+34 982 22 83 87
-1975,Macarena Acuña,Matematicas,1,5,22.0,Masculino,Córdoba,tiburciobautista@example.com,+34949438235
-4749,Tomasa Bermejo,Fisica,8,5,22.0,,Guipúzcoa,saturnino75@example.org,+34925 060 609
-5258,Benjamín Balaguer,Matematicas,2,3,23.0,Masculino,Barcelona,violetaconde@example.com,+34871 09 50 76
-8853,Bernardo Bonilla,Fisica,6,3,18.0,,Navarra,renato75@example.com,+34922 047 776
-4507,Xiomara Lastra,Matematicas,5,3,24.0,Masculino,Huelva,,+34 871294360
-2474,María Duran,Programacion,6,0,,Femenino,Cantabria,antunezlupe@example.com,+34 949795606
-9381,Encarna Ayala,Matematicas,7,3,23.0,Masculino,Navarra,fabiolaarellano@example.com,+34 912011987
-4909,Nidia Burgos,Fisica,5,5,22.0,,Huelva,virgilio43@example.com,+34887717526
-7827,Arsenio Pardo,Programacion,3,1,19.0,Masculino,Lugo,teobaldoblazquez@example.com,+34 800 00 28 48
-1644,Cristian Villaverde,Fisica,6,2,19.0,Femenino,Cantabria,tiburcio17@example.org,+34956 861 375
-6261,Reina Valverde,Matematicas,8,8,23.0,Femenino,Burgos,geronimojuarez@example.net,+34 944 42 39 86
-9596,Begoña Navarrete,Programacion,5,1,22.0,Femenino,Cáceres,llamasjuan-jose@example.net,+34827436256
-1174,Patricio Arroyo,Matematicas,7,8,24.0,Masculino,Cáceres,posadapaulino@example.net,+34983027436
-9501,Lupe Ramón,Programacion,5,2,19.0,Masculino,Lleida,juanita17@example.org,+34864 806 636
-1656,Miguel Manuel,Programacion,6,1,25.0,Masculino,Navarra,vallsemma@example.org,+34884904470
-4307,Manu Padilla,Matematicas,7,7,23.0,Femenino,Teruel,aquiroga@example.org,+34 923 880 417
-4492,Heraclio Andrade,Programacion,10,4,24.0,Masculino,Segovia,palmervito@example.org,+34875 018 058
-2969,Glauco Téllez,Programacion,5,4,24.0,Masculino,Zaragoza,ccordoba@example.com,+34 982 69 53 73
-5091,Cecilio Rivera,Programacion,5,3,22.0,Femenino,Huelva,pherrera@example.org,
-1255,Calixto Arjona,Programacion,5,3,22.0,Femenino,Segovia,remigiogiralt@example.com,+34941176931
-5139,Vilma Mulet,Fisica,4,1,20.0,Femenino,Ciudad,elbavera@example.org,+34 922 499 449
-5998,Josefa Cuesta,Programacion,1,5,25.0,Femenino,Huelva,gmorell@example.org,+34 823 866 169
-5011,Urbano Adán,Matematicas,3,5,21.0,Masculino,Huesca,nelidasanchez@example.net,+34 972 54 27 26
-2541,Severo Gomez,Programacion,5,3,18.0,Masculino,Álava,ema03@example.org,+34 980 81 21 33
-6367,Perla Gálvez,Programacion,5,5,25.0,Masculino,Navarra,celestino35@example.com,+34 620 922 044
-6175,Judith Navarro,Matematicas,5,3,19.0,Femenino,Ciudad,gcuervo@example.net,+34 827 594 982
-4692,Natalio Gallego,Programacion,6,5,18.0,Masculino,Huesca,gespejo@example.org,+34 871 369 310
-4530,Leocadio Montaña,Fisica,8,5,22.0,Masculino,,tellolupita@example.com,+34 944 260 692
-7927,Nicolasa Olivera,Programacion,1,8,23.0,Masculino,Girona,lledoencarnacion@example.org,+34944 950 557
-5349,Gertrudis Ródenas,Programacion,7,5,25.0,Masculino,Guipúzcoa,nerea47@example.com,
-1199,Alma Huguet,Fisica,8,3,20.0,Femenino,Burgos,panfilocanas@example.net,+34976967245
-3650,Jenny Corbacho,Matematicas,7,5,19.0,Masculino,Guipúzcoa,naranjoazeneth@example.com,+34 825997087
-4620,Federico Varela,Matematicas,2,5,24.0,Femenino,Guipúzcoa,luis-miguel19@example.com,+34 975142643
-1465,Laura Teruel,Fisica,3,1,22.0,Masculino,,ccarreras@example.net,+34 739669565
-5640,Visitación Girona,Programacion,6,5,20.0,Masculino,Cádiz,ordonezcalixta@example.com,+34 674221694
-1304,Coral Tamayo,Programacion,6,5,20.0,Femenino,Ciudad,sandrabarral@example.org,+34978 401 136
-4203,Emperatriz Zamorano,Matematicas,5,3,25.0,Masculino,Badajoz,nabad@example.net,+34886378225
-8994,Manuela Santiago,Fisica,5,3,21.0,Masculino,Santa Cruz de Tenerife,gbautista@example.com,+34 872 86 69 81
-9407,Esther Barco,Programacion,6,3,24.0,Femenino,Cuenca,vpintor@example.com,+34 827644642
-6207,Duilio Barrio,Matematicas,8,5,23.0,Femenino,Salamanca,zsantamaria@example.org,+34707 51 84 40
-4778,Olalla Ferrera,Fisica,9,4,22.0,Masculino,Castellón,rayazaira@example.org,+34922620986
-9359,Cintia Planas,Fisica,5,3,24.0,Femenino,Asturias,barcelogriselda@example.org,+34800 513 382
-8551,Rufino Soto,Fisica,7,1,19.0,Femenino,Zamora,narcisa98@example.net,+34985859398
-1758,Glauco Mir,Matematicas,7,3,,Femenino,Baleares,nmur@example.org,+34900 88 91 29
-2226,Omar Sotelo,Matematicas,10,4,25.0,Femenino,Valladolid,xrobledo@example.com,+34820 133 241
-6474,Ruth Velázquez,Fisica,6,8,22.0,Masculino,Guadalajara,carmenjodar@example.org,+34877727906
-5853,Gracia Villar,Programacion,1,3,20.0,Masculino,Lleida,ugibert@example.org,+34 901 249 128
-1506,Dorita Maza,Matematicas,5,3,19.0,,Barcelona,hozelodia@example.com,+34841 14 72 72
-6875,Aristides Batalla,Matematicas,5,5,19.0,Masculino,Soria,francisco-javiercanizares@example.org,+34 942 68 87 75
-4793,Calista Escamilla,Programacion,10,5,23.0,Femenino,Guipúzcoa,acasanovas@example.org,+34932013255
-1267,José Mari Blanca,Matematicas,5,4,21.0,Masculino,Huelva,raquel20@example.org,+34 843 439 723
-3555,Brígida Cordero,Matematicas,5,1,24.0,Masculino,Santa Cruz de Tenerife,ytrujillo@example.com,+34837 674 601
-4734,María Jesús Escalona,Fisica,1,3,23.0,Femenino,Toledo,teobarrena@example.org,+34874180097
-9156,Juan Luis Cazorla,Fisica,6,3,20.0,Masculino,Alicante,guitarttristan@example.com,+34716441945
-4158,Teo Rius,Programacion,1,5,20.0,Femenino,Valladolid,ferranclarisa@example.net,+34827 464 891
-5923,Nico Leal,Matematicas,5,5,25.0,,Santa Cruz de Tenerife,evangelinamuro@example.net,+34 849733638
-8496,Xavier Pla,Matematicas,6,7,25.0,Masculino,Vizcaya,ceciliarius@example.net,
-2765,Apolinar Peralta,Matematicas,7,5,20.0,Masculino,Madrid,sandovalmirta@example.com,+34971 79 62 55
-8527,Reyes Gilabert,Programacion,1,5,22.0,Masculino,Santa Cruz de Tenerife,jaragerman@example.com,+34 845640118
-1430,Rafa Bueno,Matematicas,5,5,19.0,Masculino,,qochoa@example.org,+34 614 42 08 56
-4532,Herminio Roma,Programacion,5,2,22.0,,Badajoz,carrojorge@example.org,+34844 49 28 62
-8567,Sara Múñiz,Matematicas,5,4,21.0,Femenino,Zaragoza,sara19@example.com,+34 971 483 110
-4645,Sonia Llanos,Matematicas,7,7,24.0,Femenino,Soria,selenarecio@example.org,+34 871551351
-5455,Benigna Estévez,Fisica,6,1,22.0,,Huelva,jimenajover@example.com,+34988 325 313
-7625,Pascuala Espada,Fisica,10,2,18.0,Femenino,Badajoz,calderonsandra@example.net,+34 883 476 580
-5081,Aránzazu Mata,Matematicas,5,5,25.0,Masculino,Alicante,ualmansa@example.org,+34 948 702 076
-5472,Leocadia Portero,Fisica,5,3,,Femenino,Teruel,ateruel@example.org,+34824 96 12 60
-1383,Lucho Colom,Programacion,8,3,24.0,Masculino,Barcelona,solademetrio@example.net,+34 942 16 81 37
-6551,Nilda Quirós,Programacion,6,8,25.0,Femenino,Badajoz,gimenezvicenta@example.com,+34980 725 824
-1620,Salomón Gonzalez,Fisica,7,4,19.0,Masculino,Sevilla,,+34724 295 358
-4058,Concha Báez,Programacion,5,5,21.0,Femenino,Toledo,qamigo@example.org,+34 961476778
-6581,Dionisio Llanos,Programacion,9,3,22.0,Femenino,Vizcaya,opiquer@example.com,+34 715 49 71 79
-6741,César Valle,Programacion,5,6,20.0,Masculino,Salamanca,amelero@example.com,+34823475890
-2684,Salud Rosell,Fisica,3,4,23.0,Masculino,Baleares,vfiguerola@example.org,+34887907783
-3844,Domingo Rosa,Programacion,5,3,22.0,Masculino,Toledo,piedadrosello@example.com,+34 879940062
-7023,Samuel Cabrera,Programacion,5,4,24.0,Femenino,,cesar88@example.org,+34 828 48 69 53
-1708,Encarnita Martinez,Fisica,5,4,20.0,Femenino,Lugo,wilfredo90@example.net,+34882895090
-3675,Alfonso Abellán,Fisica,5,8,23.0,,Ciudad,cjaen@example.com,+34 845844310
-6762,Carlito Salmerón,Fisica,4,3,25.0,,Tarragona,tteruel@example.org,+34807 88 43 33
-7722,Modesto Lozano,Programacion,5,7,25.0,Femenino,Cuenca,,+34982 400 496
-7730,Calixto Uriarte,Matematicas,7,5,23.0,Masculino,Cuenca,deboracabanas@example.net,+34 860 951 596
-7814,Marcia Ariño,Fisica,5,6,23.0,Femenino,Ceuta,rupertavigil@example.org,+34 983 537 070
-3441,Teófilo Juliá,Matematicas,4,3,22.0,Femenino,Zamora,qcoca@example.com,+34920 05 27 95
-9023,Noelia Jaén,Matematicas,7,6,22.0,Masculino,Valladolid,ebaez@example.com,
-2859,Paula Piñol,Matematicas,8,3,24.0,Masculino,Madrid,mazorin@example.org,+34948655261
-2329,Tania Ibáñez,Fisica,1,5,19.0,Femenino,Burgos,agustitomasa@example.com,+34949 957 976
-1208,Nazaret Carretero,Programacion,5,5,19.0,Femenino,Málaga,prudenciocaparros@example.com,+34 965 05 60 24
-7700,Ainara Lago,Programacion,9,7,22.0,Femenino,Guipúzcoa,noaflores@example.org,+34609576069
-6689,Adora Perelló,Matematicas,5,7,19.0,Femenino,Madrid,valerolucho@example.com,+34875499760
-7294,Felicia Ocaña,Programacion,6,3,24.0,Femenino,Almería,loreto87@example.org,+34722847103
-8119,Américo Alfonso,Matematicas,6,5,22.0,Femenino,Palencia,hdiez@example.net,+34 877449426
-6759,Amancio Haro,Fisica,5,6,25.0,Masculino,Zamora,lsimo@example.net,+34 971 86 85 43
-5185,Adrián Bermudez,Fisica,5,5,18.0,Masculino,Lugo,adora17@example.net,+34 845 88 88 40
-8185,Josefa Donoso,Matematicas,5,3,21.0,Femenino,Guadalajara,oandrade@example.net,+34825 452 088
-8103,Gerardo Zamorano,Fisica,7,6,24.0,Femenino,Navarra,chusparra@example.com,+34 942 42 93 87
-9479,Vilma Vilar,Programacion,10,4,22.0,Femenino,Cantabria,ani42@example.org,+34877159141
-2433,Sergio Asensio,Matematicas,5,0,21.0,Femenino,Melilla,uricart@example.net,+34 964 27 73 23
-4319,Jeremías Puente,Programacion,5,4,24.0,,Vizcaya,lola00@example.org,+34826862298
-9908,Cintia Querol,Fisica,5,6,23.0,Femenino,Santa Cruz de Tenerife,remigio92@example.org,+34980 70 35 76
-9972,Heliodoro Llorens,Matematicas,5,3,18.0,Femenino,Toledo,mariavega@example.org,+34974 048 505
-3132,Rolando Salvà,Fisica,5,2,25.0,Masculino,Santa Cruz de Tenerife,jose-carlos75@example.net,+34942 883 511
-6986,Sosimo Marqués,Programacion,5,7,22.0,Femenino,Vizcaya,portillogeraldo@example.com,+34848 43 08 58
-9791,Reynaldo Moraleda,Matematicas,5,5,23.0,Masculino,Girona,kalcala@example.org,+34 842 09 14 05
-5946,Joan Polo,Fisica,5,0,21.0,Masculino,Granada,dianabelda@example.net,+34972273666
-4967,Emilio Ayala,Matematicas,5,0,23.0,Femenino,,bertoasensio@example.com,+34888 737 381
-5682,Trinidad Yáñez,Programacion,5,3,24.0,Femenino,,gsala@example.net,
-2600,Nereida Rosell,Programacion,5,5,19.0,Masculino,Ourense,asdrubalreguera@example.net,+34968 243 917
-8773,Esperanza Torrent,Matematicas,2,8,20.0,Masculino,Albacete,regueracelestino@example.org,+34800 622 160
-5846,Carla Mena,Matematicas,5,4,24.0,Masculino,Guipúzcoa,yarnaiz@example.org,+34873217382
-6224,Nazaret Recio,Matematicas,6,5,18.0,Femenino,Alicante,wnavas@example.com,+34 927 630 585
-4303,Apolinar Burgos,Matematicas,5,3,18.0,Femenino,,,+34 930483387
-2394,Toño Araujo,Matematicas,5,5,23.0,Masculino,,nadiagallo@example.com,+34826158378
-4466,Pelayo Palmer,Programacion,10,3,22.0,Masculino,Cantabria,romulo43@example.org,+34871 129 495
-2522,Evaristo Iñiguez,Programacion,4,5,19.0,Femenino,Guadalajara,micaela94@example.net,+34 888828753
-3763,Edmundo Talavera,Programacion,2,3,21.0,Femenino,Granada,vallesandres-felipe@example.com,+34 922721554
-7521,Jordana Porcel,Programacion,6,5,21.0,Femenino,Badajoz,scruz@example.com,+34 971615440
-1750,José Luis Cabañas,Programacion,8,5,22.0,Femenino,León,borrelljosefina@example.com,+34872 528 360
-7566,Graciano Uribe,Programacion,1,3,25.0,Masculino,Córdoba,zteruel@example.net,+34828 392 735
-1633,Florentino Gámez,Programacion,9,3,18.0,Masculino,Baleares,moreno76@example.org,+34923 953 481
-5124,Lucila Valera,Programacion,1,5,22.0,Femenino,Melilla,tsomoza@example.com,+34842 01 80 63
-9657,Jovita Alba,Fisica,9,3,22.0,Femenino,Murcia,barralamor@example.com,+34973 38 49 99
-1363,Baltasar Quevedo,Programacion,7,3,23.0,Femenino,Almería,ipelayo@example.org,
-8912,Pedro Roda,Fisica,6,6,21.0,Masculino,Huesca,arsenio33@example.net,+34944 899 278
-5365,Prudencia Somoza,Matematicas,9,3,21.0,Femenino,Murcia,condemiguel-angel@example.org,+34922 050 082
-5134,Mohamed Cañizares,Matematicas,6,5,19.0,Femenino,Huelva,cosmeisern@example.net,+34878612767
-1692,Jose Miguel Novoa,Programacion,5,7,23.0,Femenino,Zaragoza,,+34 884298512
-8047,Demetrio Briones,Fisica,7,0,19.0,Femenino,Baleares,mayte82@example.com,
-8274,Francisco Villaverde,Matematicas,6,5,24.0,Masculino,Cuenca,vera61@example.net,+34942 84 58 59
-2041,Julia Albero,Programacion,5,4,21.0,Masculino,Ceuta,,+34 956 25 31 96
-2779,Che Vera,Fisica,5,6,20.0,Masculino,Albacete,mendozacristian@example.org,+34 882037852
-4195,Isabel Santos,Fisica,5,1,25.0,Femenino,Alicante,eligioarnaiz@example.org,+34835 92 11 34
-1710,Francisca Sevilla,Fisica,5,5,19.0,Femenino,Cádiz,pratgodofredo@example.com,+34828 46 41 92
-4343,Bernardino Varela,Programacion,10,3,21.0,Masculino,Vizcaya,ana-belenpalomo@example.org,+34985 11 15 08
-5720,Xavier Acero,Fisica,1,6,23.0,Femenino,Alicante,sara98@example.com,+34 901 97 67 78
-9974,Francisco Jose Montaña,Programacion,7,3,25.0,Masculino,Vizcaya,severiano13@example.org,+34942714717
-3277,Seve Hidalgo,Matematicas,3,3,22.0,Masculino,Murcia,bpera@example.com,+34 846823072
-4870,Encarnita Badía,Matematicas,5,5,21.0,Femenino,Guipúzcoa,ptolosa@example.com,+34 948867952
-4138,Sarita Murillo,Programacion,5,4,23.0,,Santa Cruz de Tenerife,aurea29@example.org,+34979 538 804
-7868,Cloe Saez,Matematicas,6,3,25.0,Femenino,Castellón,palacioadelardo@example.com,+34 921 020 005
-2204,Ariel Perera,Matematicas,5,5,,Masculino,Teruel,maxiescobar@example.org,+34 980 000 979
-4627,Francisca Borrell,Programacion,4,5,19.0,Masculino,Santa Cruz de Tenerife,sriera@example.net,+34986290002
-2996,María Del Carmen Rey,Matematicas,2,3,22.0,Masculino,La Rioja,,
-2311,Modesta Mascaró,Programacion,5,4,18.0,,Barcelona,andreuteodosio@example.org,+34925 83 89 11
-6352,Bruno Jódar,Programacion,9,4,19.0,Femenino,,liliana85@example.net,+34852330958
-3764,Estela Casares,Matematicas,5,5,24.0,Masculino,Madrid,acevedorosalva@example.net,+34 974 26 64 70
-8525,Caridad Castejón,Fisica,7,7,22.0,Masculino,Zaragoza,arocavalerio@example.net,+34877557955
-7392,Javi Aliaga,Fisica,8,3,19.0,Femenino,Baleares,arielcozar@example.org,+34842 12 56 74
-8173,Asunción Cabo,Fisica,5,3,23.0,Masculino,Girona,pfont@example.net,+34 872 126 167
-5856,Azucena Cañizares,Fisica,6,5,23.0,Masculino,Ciudad,marisolmateo@example.com,+34 846 901 976
-2945,Susana Neira,Fisica,5,8,23.0,Masculino,Barcelona,guillermo21@example.com,+34 807 923 200
-7454,Mayte Gallo,Fisica,10,2,25.0,Masculino,Málaga,desiderioarnal@example.org,+34 806810801
-1122,Buenaventura Sebastián,Matematicas,4,0,22.0,Masculino,Baleares,estrella28@example.org,+34 814 83 44 14
-2836,Charo Fuentes,Fisica,2,3,24.0,Femenino,Huesca,,+34 847706745
-5974,Chus Fajardo,Fisica,6,3,23.0,Femenino,Asturias,doraquintanilla@example.com,
-5223,Jafet Canales,Fisica,6,4,25.0,Masculino,Cáceres,mjover@example.net,+34957 652 612
-8172,Piedad Salamanca,Programacion,9,3,23.0,Masculino,Soria,nogueramaristela@example.org,+34 928 441 698
-5125,Berto Garcia,Programacion,5,4,19.0,Masculino,Huelva,fabraevelia@example.com,+34 930407385
-3904,Pascuala Coello,Fisica,2,4,25.0,Masculino,Baleares,,+34 978 712 833
-5243,Mauricio Borrell,Programacion,6,3,19.0,Femenino,Girona,vanesalobato@example.com,+34 900 189 825
-5903,Catalina Talavera,Matematicas,5,6,25.0,,Valladolid,,+34 846 14 68 04
-9030,Moisés Santiago,Programacion,2,3,23.0,Masculino,Madrid,ymarino@example.com,+34 926 81 04 09
-2534,José Reyes,Programacion,7,3,19.0,Masculino,Toledo,elodiapuente@example.com,+34841622815
-3289,Felicidad Ferrando,Matematicas,7,6,25.0,Masculino,Asturias,hervaseugenia@example.net,+34 871 674 600
-4425,América Castañeda,Fisica,10,4,25.0,Masculino,Lleida,zbou@example.net,+34975 008 621
-8818,Ildefonso Calderon,Fisica,5,4,18.0,Femenino,Jaén,chus30@example.org,+34902075562
-8024,Jacobo Pacheco,Matematicas,6,5,20.0,Femenino,Ourense,aguilerafulgencio@example.com,
-3613,Coral Abella,Programacion,7,3,21.0,Masculino,Córdoba,dorotealeiva@example.net,+34 807 31 32 74
-4790,Otilia Gallego,Programacion,7,4,19.0,Masculino,Valladolid,boadamarta@example.com,+34 926544586
-1000,Obdulia Rebollo,Programacion,9,1,24.0,Masculino,Vizcaya,jaimegallego@example.org,+34 885901343
-8579,Gerardo Cabanillas,Programacion,7,6,24.0,Femenino,Vizcaya,gloria61@example.net,+34 987 656 657
-6107,Merche Sainz,Programacion,5,7,20.0,Masculino,Almería,samu68@example.com,+34 978 08 28 08
-1091,María Teresa Saura,Fisica,6,5,18.0,Femenino,Las Palmas,gerardo06@example.org,+34806 21 09 03
-3616,Rosa Sobrino,Programacion,9,2,,,Asturias,camarateodoro@example.net,+34927 596 480
-2815,Vito Oliveras,Matematicas,3,3,23.0,Masculino,Murcia,llamaselena@example.com,+34976384855
-8693,Efraín Vendrell,Fisica,6,8,22.0,Masculino,Cáceres,morcilloadrian@example.net,+34913998868
-8100,Áurea Téllez,Fisica,7,3,22.0,Femenino,Huesca,mandrade@example.net,+34 821 447 761
-5936,Elisa Hervás,Matematicas,7,0,24.0,Femenino,Ávila,tere36@example.net,+34902237406
-9021,Perlita Pareja,Fisica,7,5,18.0,Masculino,Segovia,curiarte@example.org,+34 941 37 12 15
-6675,Abel Hernandez,Matematicas,5,3,21.0,Femenino,Guipúzcoa,rosarioramirez@example.com,+34 845769677
-7351,Etelvina Baños,Programacion,5,5,20.0,Masculino,,ferrerasmateo@example.org,+34 972611224
-6469,Encarna Herrero,Matematicas,6,0,25.0,Masculino,Asturias,odalisaviles@example.com,+34931 198 129
-2029,Javier Gordillo,Fisica,1,8,,Masculino,Alicante,pvalenzuela@example.org,+34 979 91 58 44
-6475,Jaime Plana,Matematicas,8,3,20.0,Femenino,Pontevedra,heriberto31@example.net,+34828 418 408
-3227,Norberto Jódar,Programacion,7,3,,Masculino,Girona,lsaavedra@example.org,+34826890951
-7550,Ámbar Quirós,Matematicas,8,3,22.0,Masculino,Guipúzcoa,severoyanez@example.org,+34 965405147
-3897,Rocío Granados,Fisica,5,5,19.0,Femenino,Teruel,marita36@example.com,+34 945 85 59 32
-3990,Gema Sevilla,Matematicas,6,7,22.0,Femenino,Navarra,sandalioabad@example.org,+34885 070 958
-4283,Íngrid Cobos,Matematicas,3,0,21.0,Femenino,Alicante,ricardoblanco@example.net,+34 842880360
-5864,Emilio Pavón,Matematicas,1,1,23.0,Femenino,Navarra,hpinto@example.net,+34 945 949 499
-4103,Reina Rocamora,Matematicas,5,3,,Masculino,Lleida,lalba@example.com,+34635434513
-6782,Marcela Parejo,Programacion,7,4,25.0,Masculino,Huesca,farrecarlos@example.com,+34822 62 99 54
-1123,Alexandra Garzón,Programacion,6,3,25.0,Masculino,Álava,baronmar@example.org,+34 827715660
-4515,Borja Carpio,Programacion,6,1,22.0,Masculino,Jaén,peralesjose-ramon@example.org,+34 943635010
-6280,Yolanda Céspedes,Fisica,4,7,22.0,Femenino,Málaga,genovevarocamora@example.com,+34 977548209
-1918,Gastón Bayón,Matematicas,6,3,23.0,,Las Palmas,iduarte@example.com,+34843330250
-7313,Verónica Cid,Programacion,6,5,18.0,Masculino,,wuriarte@example.org,+34976 59 48 71
-8171,Fanny Robledo,Programacion,9,4,25.0,Masculino,Lleida,zllado@example.org,+34 910308638
-1960,Calixto Solana,Programacion,2,7,19.0,Femenino,Huesca,sofia52@example.com,+34 843 39 78 13
-8357,Plácido Sánchez,Fisica,6,3,22.0,Masculino,Huelva,maria-doloresmateos@example.net,+34 978 99 22 84
-3212,Manu Giménez,Matematicas,7,3,18.0,Masculino,Toledo,fsalinas@example.net,+34 945703599
-8094,Guadalupe Santana,Fisica,5,0,19.0,Femenino,Huelva,ilobo@example.org,+34803747747
-1695,Gerardo Cuéllar,Matematicas,5,4,19.0,Femenino,La Coruña,maria-doloresbenitez@example.org,+34746299396
-1999,Maxi Ballesteros,Matematicas,7,3,18.0,Femenino,Córdoba,nestor27@example.org,+34 884277955
-8703,Anastasio Arrieta,Fisica,7,4,22.0,Masculino,La Coruña,bernardo00@example.org,+34946 82 50 60
-5413,Manuelita Novoa,Programacion,6,5,19.0,Masculino,Albacete,agatabravo@example.net,+34825291914
-9074,Natanael Gomez,Programacion,6,4,24.0,Femenino,Albacete,lhernandez@example.net,+34821 550 633
-2151,Pepito Melero,Fisica,9,3,21.0,,Tarragona,,+34836201592
-6527,Che Mata,Programacion,5,3,24.0,Masculino,Barcelona,maria-del-carmenortiz@example.com,+34924 67 07 93
-6553,Pepito Somoza,Programacion,1,6,22.0,Masculino,Albacete,nietojuan-jose@example.org,+34 712404416
-2828,Tecla Reguera,Programacion,4,3,24.0,Femenino,Pontevedra,mohamedalfonso@example.net,+34702369572
-5253,Moisés Páez,Matematicas,6,8,23.0,Masculino,Tarragona,gilabertflavia@example.net,+34746 664 516
-4760,Encarnación Rivero,Matematicas,8,3,21.0,Femenino,Baleares,carrillovito@example.net,+34881 601 958
-3422,Estefanía Gimenez,Matematicas,6,5,21.0,Masculino,Almería,quiqueverdugo@example.net,+34 887598894
-4579,Leandra Cortés,Matematicas,10,0,21.0,Femenino,Guadalajara,ecastaneda@example.org,+34719 843 065
-6923,Leonor Camino,Fisica,4,7,,Femenino,Asturias,castejonrosenda@example.org,+34 874 169 274
-5294,Regina Calvo,Matematicas,5,5,25.0,Femenino,Ciudad,virgiliollado@example.com,+34 971636097
-3334,Jose Miguel Nieto,Matematicas,2,7,24.0,Femenino,Cáceres,qgimenez@example.net,+34978 595 840
-7109,Tomasa Jurado,Matematicas,1,4,23.0,Masculino,Girona,jros@example.com,+34871510961
-9213,Adelia Peiró,Matematicas,6,2,22.0,,Vizcaya,sandovalalbano@example.com,+34740 952 225
-2569,Estela Capdevila,Programacion,5,5,19.0,Femenino,Murcia,tere43@example.com,+34986 48 72 20
-6574,Ainara Hernández,Matematicas,2,3,20.0,Femenino,Soria,aaron16@example.org,+34823 24 74 41
-4146,Victor Manuel Yáñez,Matematicas,9,7,25.0,Femenino,Melilla,dsotelo@example.org,+34 945 94 96 09
-7262,Lina Pedrosa,Programacion,7,5,24.0,Femenino,Madrid,,+34 845702433
-6084,Pastor Royo,Programacion,5,3,22.0,Femenino,Almería,otiliajuan@example.net,+34971 06 57 69
-5723,Juan Bautista Botella,Matematicas,5,8,19.0,Masculino,Palencia,carmencal@example.net,+34943 83 55 15
-4614,Maricruz Millán,Programacion,1,1,21.0,Masculino,Salamanca,pabloana-belen@example.org,+34837 775 304
-2886,Basilio Gallo,Programacion,1,5,21.0,Masculino,León,macarena68@example.com,+34 901 20 58 40
-8272,Felicidad Valdés,Programacion,4,3,25.0,Masculino,Zaragoza,dimas23@example.com,+34 888 700 982
-2088,Gabriela Cortes,Programacion,1,6,22.0,Femenino,Teruel,maria-carmenpavon@example.net,+34823515476
-7164,Ángeles Arranz,Programacion,6,3,21.0,,Barcelona,paleman@example.net,+34976 72 22 43
-1046,Armida Pulido,Programacion,6,3,23.0,Femenino,Lleida,cuadradoantonia@example.org,+34941 422 789
-3130,Paloma Sastre,Matematicas,6,8,21.0,Femenino,Ourense,banosedu@example.org,+34 828 53 64 56
-4387,Ruperto Roma,Matematicas,6,2,18.0,Femenino,Álava,hrobledo@example.net,
-7239,Nydia Gonzalo,Programacion,6,5,24.0,,Salamanca,yesica70@example.com,+34 979 99 61 67
-4329,Elodia Murcia,Matematicas,5,4,19.0,Masculino,Ávila,yberenguer@example.net,+34958481083
-1288,Nerea Amigó,Fisica,6,6,25.0,,Cuenca,ktrillo@example.org,+34 806200705
-1056,Arcelia Calvet,Matematicas,1,3,22.0,Masculino,Teruel,brunilda61@example.net,+34 706128795
-1394,Luz Duarte,Fisica,5,4,19.0,Masculino,Vizcaya,zvalderrama@example.com,+34919055035
-1971,Faustino Piquer,Programacion,9,0,25.0,Femenino,Valencia,pia29@example.net,+34812 974 245
-2767,Anselma Bernad,Fisica,6,8,20.0,Masculino,Alicante,mansorosalva@example.net,+34 842 907 115
-5931,Jorge Suarez,Fisica,7,3,22.0,Femenino,Zaragoza,jose97@example.net,+34 848 78 48 59
-5871,Jose Miguel Gargallo,Matematicas,5,2,21.0,Masculino,Burgos,federico06@example.net,+34 922 65 83 92
-6712,Hernán Serna,Fisica,5,4,20.0,Masculino,,vbonet@example.net,+34 927 89 10 93
-6967,Efraín Méndez,Fisica,10,5,18.0,Masculino,Teruel,maxiboix@example.org,+34883 252 635
-3058,Rosalinda Anglada,Programacion,7,3,19.0,,Teruel,solmayo@example.com,+34 844 63 65 33
-5684,Luna Rocamora,Fisica,1,5,,Femenino,Cuenca,valcantara@example.com,+34850 983 774
-6780,Juan Antonio Jaén,Matematicas,1,5,23.0,Femenino,Santa Cruz de Tenerife,salesnacio@example.com,+34872485736
-5007,Cirino Arrieta,Programacion,2,6,19.0,Masculino,Murcia,gervasiosole@example.net,+34848908688
-9679,Godofredo Fuster,Programacion,5,5,22.0,,Girona,gllabres@example.net,+34 800 083 701
-5027,Modesto Ibarra,Fisica,7,4,23.0,Masculino,Jaén,gervasiovillanueva@example.net,+34800 10 04 76
-5710,Juan Escolano,Programacion,5,1,25.0,Femenino,Barcelona,clumbreras@example.com,+34 888 91 14 26
-8895,Mirta Mariscal,Matematicas,7,3,22.0,Femenino,Navarra,jose-ignacio40@example.org,+34 926 81 89 05
-8708,Cloe Calatayud,Programacion,6,5,22.0,Femenino,Cantabria,gabino08@example.com,+34902 357 416
-5850,Consuela Giménez,Programacion,6,4,24.0,Masculino,Huesca,herminiolerma@example.com,+34843 172 364
-8626,Rico Mora,Programacion,5,5,23.0,Femenino,Álava,barriofortunato@example.net,+34 844974501
-9204,Saturnina Matas,Programacion,5,3,19.0,Masculino,Vizcaya,doritatorrijos@example.org,+34847106117
-8557,Vanesa Cuéllar,Fisica,3,3,25.0,Femenino,Castellón,angelitablanco@example.org,+34 927305554
-6487,Damián Cantero,Programacion,5,8,25.0,Femenino,Baleares,pepe88@example.org,+34 877 95 27 21
-4242,Jose Angel Ramírez,Fisica,7,0,19.0,Femenino,Almería,fgarzon@example.com,+34888 84 86 21
-8753,Elisabet Benavides,Programacion,5,2,22.0,Masculino,Ciudad,vbernad@example.org,+34 948 664 498
-9519,Patricia Plana,Matematicas,5,0,21.0,Masculino,Ceuta,beatriz91@example.com,+34824462484
-3585,Violeta Guardia,Fisica,3,3,20.0,Masculino,Ourense,gochoa@example.com,+34 807 265 799
-3351,Genoveva Lozano,Programacion,5,4,22.0,Femenino,Zaragoza,fcorominas@example.net,+34 944 561 668
-7009,Sara Gil,Fisica,5,3,20.0,Femenino,Valencia,tcases@example.org,
-9254,Pepe Carpio,Matematicas,5,4,24.0,Femenino,La Coruña,claudiopriego@example.com,+34 933 819 371
-2407,Adelardo Morante,Fisica,6,7,18.0,Femenino,Pontevedra,rogeliourena@example.net,+34987 10 27 82
-7312,Onofre Casas,Fisica,5,3,19.0,Masculino,Salamanca,hescalona@example.com,+34 886454297
-7578,Eladio Lloret,Matematicas,5,6,21.0,Femenino,Madrid,vascouria@example.net,+34942 34 92 06
-6662,María Dolores Escamilla,Programacion,3,7,19.0,Femenino,Las Palmas,rufinogrande@example.org,+34 847 996 225
-1828,Marta Barrera,Matematicas,5,4,25.0,Masculino,Murcia,estebanmarcos@example.net,+34981 17 79 15
-3410,Perla Fabregat,Fisica,6,7,18.0,,Vizcaya,dora85@example.com,+34902052879
-7950,Marcia Colomer,Matematicas,6,5,20.0,Masculino,Murcia,yanezyessica@example.com,+34982 58 80 93
-4587,Mireia Farré,Fisica,6,3,25.0,Femenino,Guipúzcoa,godofredo53@example.net,+34986 89 14 98
-2911,Nicodemo Grande,Fisica,2,5,21.0,Femenino,Madrid,solbarrera@example.net,+34820 978 516
-1589,Priscila Ramis,Matematicas,3,3,20.0,Masculino,,dmalo@example.org,+34 842 67 44 25
-1875,Wilfredo Acosta,Programacion,5,3,25.0,Masculino,Burgos,palaciosdominga@example.com,+34984194733
-9772,Isabel Cárdenas,Fisica,5,4,21.0,,Murcia,marcia60@example.net,+34 987 86 22 30
-3469,Fabricio Lluch,Fisica,5,4,20.0,Masculino,Cáceres,calista67@example.com,+34 871047605
-4461,Adalberto Cárdenas,Programacion,5,5,18.0,Masculino,Lleida,franciscamate@example.com,
-3464,Maricruz Garcés,Matematicas,4,3,19.0,Masculino,Madrid,pugaasuncion@example.org,+34 845 999 829
-6406,Virgilio Lorenzo,Matematicas,7,0,23.0,Masculino,Valencia,calderonhilario@example.net,+34883520405
-7020,Segismundo Morcillo,Fisica,3,5,20.0,Femenino,Almería,tiniesta@example.org,+34843 380 509
-4375,María Carmen Marín,Matematicas,6,6,21.0,Masculino,Zamora,lilianapuig@example.com,+34888 809 659
-1545,Merche Cañellas,Programacion,6,3,25.0,Femenino,Baleares,llopislaura@example.org,+34871 94 67 66
-5966,Jose Manuel Mateu,Programacion,3,4,19.0,Femenino,Granada,,+34704 137 061
-1608,Roque Pino,Programacion,6,5,,Masculino,Segovia,feliuamor@example.net,+34806579985
-7879,Encarna Expósito,Programacion,4,3,24.0,Femenino,Ceuta,ysanchez@example.net,+34 926 08 38 34
-6326,Eugenia Cánovas,Matematicas,3,3,19.0,Femenino,Zaragoza,pineiromanuelita@example.net,+34920 22 07 77
-2694,Benito Noriega,Matematicas,6,2,21.0,Masculino,Badajoz,zblazquez@example.net,+34878653082
-3370,Benigno Barral,Matematicas,6,4,25.0,Masculino,Palencia,adelardo61@example.com,+34871670670
-5211,Belen Vilanova,Matematicas,7,3,24.0,Femenino,La Rioja,nhidalgo@example.org,+34 901 350 373
-3115,Osvaldo Ribas,Programacion,5,3,23.0,,Sevilla,baudelio43@example.com,+34985 28 31 31
-8000,Morena Cabrera,Fisica,8,3,22.0,Femenino,Zaragoza,galanvidal@example.net,+34 900 040 260
-5029,Cruz Cerro,Programacion,6,4,24.0,Femenino,Guadalajara,sbriones@example.com,+34872177414
-5024,Moreno Anaya,Matematicas,6,5,22.0,Femenino,Lugo,,+34 873 593 734
-8750,Cloe Romero,Fisica,10,8,,Masculino,Melilla,loida54@example.net,+34945 989 269
-8120,Magdalena Sarmiento,Fisica,6,3,18.0,Masculino,Zaragoza,imena@example.org,+34 828456276
-3329,Fidel Vilalta,Matematicas,5,1,22.0,Masculino,Girona,ytirado@example.net,+34807105344
-4996,Jose Carlos Cárdenas,Matematicas,6,5,22.0,Femenino,Sevilla,osorioomar@example.net,+34843 89 72 79
-5485,Amaro Roura,Matematicas,1,3,25.0,Femenino,Badajoz,cecilioquevedo@example.org,+34982786698
-6490,Ruth Garay,Matematicas,6,6,23.0,Masculino,Jaén,nroldan@example.com,+34 979 672 093
-7937,Bautista Barrera,Fisica,9,6,21.0,Femenino,,marcelo99@example.com,+34 847 45 39 73
-7485,Cándido Medina,Fisica,6,5,18.0,Femenino,Valencia,valonso@example.com,+34 635476647
-9625,Renato Cantero,Fisica,9,3,19.0,Masculino,Málaga,nbellido@example.org,+34901586082
-7775,Casandra Fernandez,Matematicas,7,8,19.0,Masculino,Barcelona,juan-antonio22@example.com,+34 880 011 659
-9546,Juanita Saldaña,Programacion,5,3,,Masculino,Melilla,amoresfidel@example.net,+34 744 61 54 33
-4589,Cipriano Perales,Programacion,5,6,23.0,Masculino,La Coruña,jose-angelrecio@example.org,+34 922857035
-4847,Zaida Heras,Programacion,6,3,20.0,Masculino,Ourense,,+34 823 20 43 94
-1281,Azahar Antón,Fisica,5,3,20.0,Femenino,Santa Cruz de Tenerife,amanciocatalan@example.org,+34 947 833 667
-8450,Chema Urrutia,Fisica,2,3,20.0,Masculino,Valladolid,ruth11@example.com,+34946 09 36 54
-8205,Eugenio Amigó,Fisica,8,5,19.0,Masculino,Burgos,kreal@example.net,+34880 229 716
-9251,Pacífica Manrique,Matematicas,1,3,23.0,,Alicante,leandrobusquets@example.org,+34 920 439 280
-5009,Fabricio Milla,Programacion,6,7,25.0,Masculino,Segovia,norbertoclemente@example.net,+34 928 245 649
-2063,Gertrudis Losada,Programacion,9,4,24.0,Masculino,Murcia,fortunato72@example.org,+34 978079265
-6825,Esperanza Garmendia,Fisica,5,5,25.0,Masculino,Lleida,,+34942803455
-3235,Emelina Arrieta,Matematicas,1,5,24.0,Masculino,Las Palmas,cayetanocortina@example.com,+34902158522
-4495,Eustaquio Contreras,Matematicas,2,0,25.0,Masculino,Valencia,leonorvidal@example.com,+34 975 06 39 95
-1097,Noa Madrid,Matematicas,10,5,21.0,Masculino,Cádiz,qgaliano@example.com,
-3586,Florencio Ibáñez,Matematicas,4,5,25.0,,Navarra,,+34 846109835
-1339,Pánfilo Baena,Fisica,7,3,18.0,Masculino,Lleida,adrian74@example.com,+34921 809 177
-2811,Jenaro Roldán,Programacion,5,3,,Masculino,Santa Cruz de Tenerife,lazaro26@example.org,+34748 15 57 46
-5309,María Teresa Cabo,Matematicas,5,5,,Femenino,Zamora,florentinopeiro@example.net,+34 606 74 83 29
-7709,Tomás Planas,Fisica,5,3,21.0,Masculino,Lugo,wmur@example.net,+34 928 01 61 85
-7760,Elías Vall,Programacion,3,4,18.0,Masculino,Girona,,+34822 295 831
-3534,Benigno Solano,Fisica,3,1,22.0,Femenino,Vizcaya,abadtrini@example.com,+34921 79 81 33
-6721,Sara Ferreras,Fisica,6,7,22.0,Femenino,Ávila,vicensfelicidad@example.org,+34 974 89 06 16
-3019,Yaiza Ibáñez,Fisica,3,3,19.0,Masculino,León,diezmanola@example.com,+34865 66 03 13
-4652,Mayte Jaume,Programacion,2,3,19.0,Femenino,Segovia,torrensencarna@example.com,+34 886 329 280
-5842,Adelia Prat,Fisica,10,3,24.0,Masculino,Valladolid,juan-francisco36@example.net,
-4721,Ariadna Oller,Programacion,7,4,21.0,Masculino,Albacete,,+34 977138400
-5459,Víctor Arjona,Programacion,2,4,25.0,Femenino,Asturias,sevillanomiguel-angel@example.com,+34 925 225 865
-5916,Dominga Iborra,Fisica,3,3,18.0,Masculino,La Coruña,domingo33@example.com,+34 883 405 622
-5032,Mar Zorrilla,Programacion,6,5,22.0,Masculino,Huelva,piarubio@example.com,+34921 87 51 05
-7149,Florentina Tormo,Programacion,1,5,24.0,Femenino,Soria,noelia99@example.net,+34877 05 91 06
-7789,Amanda Anglada,Fisica,6,5,21.0,Masculino,Murcia,julio-cesar41@example.net,+34 843582384
-7757,Heraclio Almagro,Fisica,6,3,20.0,Femenino,Tarragona,manuarnal@example.com,+34 883782038
-7323,Isa Maza,Matematicas,5,8,22.0,Femenino,Huelva,arreguinando@example.com,+34 948 34 37 04
-8950,Baldomero Querol,Fisica,5,4,23.0,Femenino,La Coruña,teresita10@example.net,+34945 164 559
-2584,Rubén Sabater,Matematicas,7,7,23.0,Femenino,Badajoz,blancaeusebia@example.com,+34725 89 66 11
-8458,Paulina Puerta,Fisica,6,5,23.0,Femenino,Las Palmas,julietabarcelo@example.com,+34 848731393
-8447,Pablo Amorós,Programacion,3,3,19.0,Masculino,Lleida,lucas50@example.net,+34882830258
-8402,Encarnación Llanos,Fisica,5,4,20.0,Femenino,Albacete,hernan38@example.net,+34 947298780
-7346,Dorotea Dominguez,Fisica,4,8,21.0,Femenino,La Coruña,nvalverde@example.org,+34842289941
-9417,Rubén Mancebo,Fisica,6,3,22.0,Femenino,Zamora,ejorda@example.org,+34976 94 88 07
-1700,Marcos Arregui,Matematicas,3,7,22.0,Masculino,Cáceres,cabanillastrinidad@example.com,+34 712 591 989
-4330,Cruz Ferrando,Fisica,5,3,24.0,Masculino,Zaragoza,emilianocorbacho@example.org,+34944 400 070
-4944,Ignacia Mateu,Matematicas,9,3,19.0,Femenino,Ávila,bartolomeibanez@example.net,+34 815493793
-2054,Máximo Aguado,Fisica,2,5,25.0,,Zamora,ramiro07@example.org,+34 821113180
-1402,Eusebia Benavente,Matematicas,6,8,23.0,Masculino,Málaga,cobosemma@example.net,+34945 26 34 38
-6187,Etelvina Roldan,Matematicas,1,2,24.0,Masculino,Madrid,,+34925825813
-6914,Cayetana Riquelme,Fisica,4,0,24.0,Masculino,Murcia,requenaaura@example.org,+34901 021 338
-5755,Blanca Lucena,Matematicas,5,3,25.0,Femenino,Madrid,priscila69@example.com,+34 653 72 58 30
-5725,Rosario Belmonte,Programacion,5,4,19.0,Femenino,Tarragona,lluchpatricia@example.com,+34 939973893
-3805,Consuela Nicolau,Programacion,5,5,25.0,Masculino,Vizcaya,rico11@example.com,+34982061185
-9792,Imelda Ferrera,Fisica,6,8,18.0,Femenino,Ourense,puertaaranzazu@example.net,+34976 59 76 17
-5123,Aurelia Amor,Programacion,5,3,25.0,Masculino,Zaragoza,isidro85@example.com,+34920 97 66 36
-4323,Che Gargallo,Fisica,5,3,20.0,Masculino,Guipúzcoa,imendez@example.com,+34 902571530
-1763,Anselmo Rovira,Matematicas,5,5,18.0,Femenino,Huelva,arsenio52@example.com,+34874 07 62 83
-2533,Amor Artigas,Fisica,3,0,25.0,Femenino,Las Palmas,carbajomauricio@example.org,+34 881 69 06 73
-9272,Donato Campos,Matematicas,5,3,24.0,Femenino,Zaragoza,telmosans@example.net,+34 924 563 391
-3184,Alejandra Gilabert,Fisica,10,7,25.0,Masculino,,sainzagustin@example.org,+34 828 275 260
-1688,Eric Gilabert,Fisica,3,5,20.0,Masculino,León,antoniaortiz@example.org,+34983 445 643
-7383,Juanito Barranco,Matematicas,6,5,20.0,Femenino,Córdoba,villarricardo@example.net,+34 845273650
-3307,Isabel Gilabert,Fisica,5,3,24.0,Masculino,La Rioja,raimundo68@example.org,+34921 03 02 54
-5488,Mónica Villar,Matematicas,6,7,25.0,Femenino,Navarra,amorrebollo@example.net,+34972513626
-4825,Ángela Alba,Fisica,6,4,21.0,Masculino,León,lorena79@example.org,+34 823 085 854
-3704,Ramón Bolaños,Fisica,5,5,22.0,Femenino,Teruel,,+34839 53 34 02
-7631,María Del Carmen Mendoza,Programacion,8,5,25.0,Masculino,Zamora,,+34812 27 31 58
-6072,Plácido Gimenez,Matematicas,7,8,23.0,Masculino,Valladolid,salcedomaria-teresa@example.net,+34 868774906
-4534,Dolores Berrocal,Fisica,10,3,18.0,Femenino,Jaén,jacevedo@example.com,+34 928 247 611
-6296,Cruz Ledesma,Matematicas,7,8,22.0,Masculino,Tarragona,cerverageraldo@example.org,
-6009,Manuela Quintero,Fisica,5,3,23.0,Masculino,Castellón,deboraalberola@example.org,+34825 23 55 15
-1525,Flora Gámez,Matematicas,5,5,25.0,Femenino,Pontevedra,carmelitaosorio@example.com,+34 827 561 809
-6157,Cándido Sanz,Programacion,6,3,20.0,Masculino,Melilla,amada46@example.com,+34 826 06 38 34
-7092,Severino Checa,Programacion,6,4,23.0,Masculino,Zamora,dafnegalan@example.org,+34824 423 469
-2198,Ana Iriarte,Programacion,7,2,22.0,Masculino,Lugo,cabanaswilfredo@example.net,+34871 23 07 75
-3641,Saturnina Villalba,Programacion,6,7,19.0,Femenino,Asturias,cesartorres@example.org,+34888232261
-1283,Rebeca Sacristán,Fisica,3,5,,Masculino,Asturias,mamen26@example.com,
-6585,Armando Prado,Matematicas,3,3,18.0,Masculino,Murcia,flosa@example.net,+34972 338 567
-2480,Augusto Valenciano,Fisica,5,3,19.0,Femenino,Zamora,saturninocomas@example.org,+34822 182 981
-8344,Pelayo Almeida,Programacion,9,3,22.0,Femenino,Huesca,heredialalo@example.net,+34 900621924
-9098,Florentina Jurado,Fisica,5,5,,,Álava,jordanraul@example.net,+34881 455 728
-1703,Lupita Pombo,Fisica,10,7,20.0,Femenino,Ourense,borja15@example.net,
-2575,Otilia Nebot,Programacion,5,3,23.0,Femenino,Lugo,,+34 879185134
-9431,Felicia Pinedo,Matematicas,5,2,23.0,Femenino,Segovia,uriartelina@example.com,+34 979 60 31 41
-1796,Dafne Agustín,Programacion,8,5,19.0,Masculino,Palencia,,+34814 149 069
-7579,Martin Calderon,Matematicas,5,5,24.0,Femenino,Asturias,alvarodalila@example.org,+34 988 30 76 74
-6854,Felipa Tena,Matematicas,7,3,25.0,Masculino,La Rioja,mateoazorin@example.net,+34871170382
-4077,Dorita Méndez,Fisica,5,5,18.0,Masculino,Tarragona,guzmanluisina@example.org,+34 973856102
-5453,Tere Cañizares,Programacion,7,3,24.0,Masculino,Cádiz,cabanillaspancho@example.com,+34803 324 744
-6493,Iván Guijarro,Programacion,6,3,22.0,Masculino,Lugo,xpuig@example.org,+34876639039
-7683,Vasco Casado,Programacion,5,5,23.0,Masculino,Granada,,+34 973 10 06 74
-3531,Isaías Oliva,Fisica,6,3,20.0,,Santa Cruz de Tenerife,socorro61@example.org,+34923 648 760
-8330,Tomasa Ariza,Matematicas,9,3,19.0,Masculino,Melilla,eustaquio49@example.org,+34 825 19 87 44
-1360,Carlota Pastor,Fisica,9,2,25.0,Femenino,Granada,mfolch@example.net,+34 982 395 689
-5206,Cebrián Jordá,Fisica,7,3,24.0,Masculino,Tarragona,lopezezequiel@example.com,+34 972661847
-3244,Dan Zurita,Programacion,7,3,25.0,Masculino,Ourense,ubejarano@example.com,+34 922 727 147
-4746,Prudencio Barón,Fisica,7,4,25.0,Masculino,Melilla,alondramaestre@example.com,+34874956690
-1584,Dani Cabañas,Matematicas,7,7,18.0,Femenino,Alicante,amancio98@example.org,+34 984 759 394
-2689,Alfonso Sobrino,Fisica,3,5,25.0,Masculino,Granada,llorenteamancio@example.net,+34 947971664
-7825,Ale Olmo,Programacion,5,3,24.0,Masculino,Almería,garzongertrudis@example.org,+34 966086402
-7634,Martirio Puig,Programacion,3,4,21.0,Masculino,Segovia,catalinaserrano@example.net,+34 979 938 570
-7316,Anita Pomares,Fisica,7,3,22.0,Masculino,Huelva,ealcazar@example.com,+34 882 794 197
-1603,Santiago Paredes,Programacion,5,5,24.0,Masculino,Baleares,belenjimenez@example.com,+34 747 982 544
-7520,Delia Aragonés,Programacion,5,8,22.0,,León,lsala@example.net,+34881 38 80 75
-4903,Matías Fernandez,Matematicas,5,1,18.0,Masculino,Teruel,alcides58@example.org,+34927398563
-3164,Liliana Villar,Fisica,6,4,19.0,Masculino,Madrid,alfonsovega@example.com,+34700964494
-2934,Fidel Manso,Programacion,10,4,,Masculino,Soria,luisarias@example.com,+34882322922
-9263,Fernanda Vilalta,Programacion,5,5,22.0,Femenino,Almería,wcasado@example.net,+34841 00 34 19
-5078,Toni Torre,Matematicas,6,2,21.0,Masculino,Tarragona,navarrovalentin@example.org,+34973 55 91 87
-3666,Viviana Fábregas,Programacion,8,6,20.0,Masculino,Asturias,isaiasgil@example.com,+34928 975 019
-2290,Loreto Marí,Matematicas,1,6,18.0,Femenino,Zamora,lmari@example.net,+34 948 179 444
-9759,Lola Cárdenas,Matematicas,6,5,22.0,Masculino,Cádiz,bernabedaza@example.com,+34 923 022 282
-2728,Gala Feijoo,Programacion,5,5,22.0,Femenino,Zamora,qmolins@example.org,+34846 81 49 75
-3736,Narciso Navarrete,Matematicas,5,2,19.0,Masculino,Madrid,aceroflorentina@example.org,+34979 359 024
-9057,Lisandro Perera,Matematicas,6,5,,Femenino,Huesca,tchaves@example.org,+34878894576
-8665,Carmen Sales,Matematicas,9,3,20.0,Femenino,Cádiz,julio-cesaraviles@example.net,+34 937 611 395
-7732,Evelia Mateos,Matematicas,5,3,20.0,Masculino,Salamanca,carlosazeneth@example.org,+34 974264402
-2408,Diana Gutierrez,Programacion,5,3,24.0,Masculino,Huesca,mireiamerino@example.net,+34872347961
-5157,Benjamín Cantón,Programacion,5,3,24.0,Femenino,Navarra,corralfeliciano@example.org,+34874 01 09 02
-6975,Chema Busquets,Programacion,7,3,18.0,Masculino,Girona,dbenito@example.com,+34920 552 785
-8146,Anselma Gárate,Programacion,1,5,23.0,Masculino,Soria,graciana11@example.net,+34 928 97 41 14
-7611,Mariano Gibert,Matematicas,9,3,24.0,Femenino,Segovia,ncruz@example.net,+34 820 359 207
-7872,Daniela Villalonga,Programacion,7,1,20.0,Femenino,Ceuta,teobaldoibanez@example.net,
-1919,Heriberto Portillo,Fisica,6,3,20.0,Femenino,,primitivolillo@example.net,+34 977 473 853
-8648,Baltasar Rocha,Fisica,5,8,20.0,Femenino,Pontevedra,teofila53@example.org,+34941 945 520
-3966,Lázaro Vaquero,Programacion,10,3,19.0,Masculino,Lugo,ebatlle@example.net,+34982920260
-2900,Dora Cuéllar,Matematicas,5,8,18.0,Femenino,Almería,corona43@example.com,+34 920 62 11 21
-6602,Esteban Mulet,Fisica,6,7,18.0,,Guadalajara,cpavon@example.org,+34 972 811 688
-8084,Fidela Bermúdez,Programacion,5,0,19.0,Masculino,Valencia,aranzazu38@example.net,+34 986 35 05 04
-8861,Violeta Talavera,Programacion,8,5,22.0,Masculino,Burgos,,+34 948 005 752
-1994,Renata Garzón,Programacion,8,2,20.0,Masculino,Almería,marcialfranco@example.org,+34964 23 73 82
-6450,Pío Ruano,Matematicas,6,6,23.0,Femenino,Navarra,maria-pilar86@example.net,
-6769,Plinio Balaguer,Fisica,6,5,24.0,Femenino,,irenehoyos@example.com,+34 900415519
-2437,Jose Miguel Tejero,Matematicas,4,7,23.0,Masculino,,colomacustodio@example.com,+34 921882214
-4263,Balduino Somoza,Fisica,7,8,23.0,Femenino,Segovia,rcordoba@example.org,+34 826 23 64 32
-3245,Anna Hernando,Fisica,6,3,25.0,Femenino,Valladolid,costamirta@example.org,+34732333740
-4695,Ramona Canet,Matematicas,4,3,19.0,Masculino,Huesca,martingordillo@example.org,+34 980 70 60 15
-9275,Catalina Royo,Matematicas,6,2,,Femenino,Salamanca,marinclementina@example.com,+34981 864 086
-5135,Rolando Ordóñez,Fisica,5,4,24.0,Femenino,Málaga,royoariel@example.net,+34 980508923
-5777,Conrado Crespi,Programacion,1,6,22.0,Femenino,Granada,belmonteelisa@example.com,+34 871419284
-8040,Evaristo Polo,Programacion,7,2,18.0,Femenino,Álava,joaquin61@example.com,+34 883 868 207
-7279,Antonio Lasa,Fisica,5,4,21.0,Femenino,Santa Cruz de Tenerife,antoniagarces@example.com,+34 973 186 586
-1258,Roxana Cantón,Matematicas,2,4,19.0,Masculino,Zaragoza,cerezoagustina@example.org,+34942 602 454
-6103,Eugenia Grau,Matematicas,9,3,24.0,,Valladolid,valero06@example.com,+34976 90 03 88
-2230,Alcides Losa,Matematicas,6,3,24.0,Masculino,Málaga,alecaceres@example.org,+34601 42 11 57
-9186,Yago Valencia,Fisica,10,1,19.0,Masculino,Cáceres,jalberola@example.net,+34 942946147
-6583,Alcides Caballero,Fisica,3,3,20.0,Femenino,Granada,lisandro27@example.net,+34965413888
-1053,Segismundo Vilalta,Fisica,5,3,23.0,Masculino,Albacete,malobenigno@example.net,+34 941793403
-9836,Nicodemo Bonet,Programacion,5,3,21.0,Femenino,Asturias,segismundocisneros@example.com,+34812899195
-5280,Luciano Cañas,Fisica,5,5,19.0,Masculino,Lugo,che28@example.com,+34879 33 07 91
-7468,Adelaida Mesa,Programacion,5,3,23.0,Femenino,Cantabria,vinicio35@example.org,+34 974 975 238
-1230,Clotilde Iniesta,Matematicas,1,7,,Femenino,Teruel,faustinorubio@example.com,+34 988 22 64 94
-5706,Claudio Anguita,Programacion,6,4,23.0,Masculino,,amendizabal@example.com,+34 980862008
-8319,Sancho Pou,Fisica,5,1,23.0,Femenino,Granada,marcosgaspar@example.com,+34828 19 84 22
-9288,Carlito Escudero,Fisica,10,4,25.0,Masculino,La Rioja,fabrarosalva@example.net,+34845033737
-6865,Encarnacion Manzanares,Matematicas,5,3,20.0,Masculino,Guipúzcoa,nicolausancho@example.org,+34 873 78 29 39
-2106,Ulises Diéguez,Programacion,5,1,24.0,Femenino,Guipúzcoa,lupitalaguna@example.com,+34 880233266
-1196,Ramón Flor,Programacion,5,5,21.0,Masculino,Almería,marco00@example.net,+34820 644 439
-2137,Manola Sedano,Matematicas,7,3,,Femenino,Cantabria,rene53@example.net,+34 883372031
-2709,Nicolasa Castells,Programacion,8,2,23.0,Femenino,Barcelona,filomena51@example.org,+34 737582244
-6020,Paulino Guzmán,Programacion,6,3,23.0,Masculino,Segovia,encarnacioncazorla@example.org,+34947280887
-2177,Úrsula Montesinos,Fisica,5,0,18.0,Femenino,Asturias,zvalenciano@example.com,+34 846 127 863
-1299,Benigno Vives,Programacion,7,3,23.0,Masculino,Segovia,brigidatrujillo@example.net,+34 921685635
-9909,Porfirio Gomila,Fisica,4,3,25.0,Femenino,Asturias,lpont@example.com,
-3912,Cristóbal Gargallo,Fisica,1,3,23.0,Masculino,Soria,ana-sofia37@example.net,+34 948 22 59 13
-3986,Chus Guitart,Matematicas,1,0,21.0,Masculino,Sevilla,carrionberta@example.org,+34986 61 89 41
-7678,María Andrade,Matematicas,2,5,21.0,Femenino,Las Palmas,fulgencio14@example.net,+34882 804 537
-5952,Toribio Figueras,Programacion,5,1,25.0,,,heribertoespada@example.com,+34871 16 21 99
-2683,Soraya Muro,Matematicas,6,8,23.0,Femenino,Córdoba,eladiocarbajo@example.net,
-8182,Roberta Alcalá,Programacion,4,3,19.0,Femenino,Murcia,selena70@example.com,+34864 54 55 83
-6358,Chus Frutos,Fisica,5,3,25.0,Femenino,Burgos,carvajalpastor@example.org,+34885 73 21 77
-4693,Rita Sancho,Matematicas,6,5,21.0,Masculino,Ceuta,asaenz@example.org,+34800988137
-1823,Bárbara Aragonés,Fisica,5,3,,Femenino,Alicante,malenavalbuena@example.net,+34976 95 10 48
-8745,Cristian Vaquero,Matematicas,6,1,24.0,Masculino,Murcia,adeliacabrera@example.net,+34946601886
-2984,Sergio Barón,Fisica,6,1,24.0,Masculino,Barcelona,alejandraabascal@example.net,+34882 08 09 59
-9097,Ruperto Garriga,Fisica,5,0,24.0,Femenino,Huesca,,+34731258343
-7810,América Prieto,Fisica,7,3,25.0,Femenino,Cádiz,aarrieta@example.org,+34928409700
-9937,Patricia Borja,Matematicas,5,4,19.0,Masculino,Ciudad,javiera62@example.net,+34 949 09 39 21
-2303,Quirino Redondo,Fisica,8,1,20.0,Femenino,Huesca,visitacionsoria@example.com,
-2874,Arcelia Amo,Fisica,1,4,22.0,Femenino,Ciudad,mirta23@example.com,+34 843744391
-7016,Aurora Llopis,Matematicas,10,5,,Masculino,Almería,barrenajuanita@example.net,+34 974 811 735
-1940,Anabel Valenzuela,Fisica,1,4,21.0,Masculino,,snarvaez@example.com,+34 902 666 340
-8877,Eusebia Acedo,Programacion,7,4,25.0,Masculino,Ceuta,marinambar@example.com,+34 976150421
-7512,Primitivo Benítez,Programacion,7,0,24.0,Masculino,La Coruña,pastora44@example.org,+34 843 629 400
-2721,Sara Quero,Matematicas,5,7,18.0,Masculino,Jaén,zocana@example.org,+34 803265468
-9365,Julia Casal,Programacion,3,3,24.0,Femenino,Vizcaya,urenavera@example.net,+34 733 66 02 47
-6397,Obdulia Barros,Matematicas,5,4,22.0,Femenino,Segovia,anacletosolano@example.net,+34978 805 053
-4068,Paca Bustamante,Fisica,3,5,23.0,Masculino,Segovia,gallardojose-ignacio@example.com,+34731 80 90 26
-3445,Rosario Alsina,Matematicas,6,7,23.0,Femenino,Jaén,diana11@example.org,+34985 21 23 33
-9732,Ainara Sedano,Matematicas,5,5,23.0,Masculino,Segovia,rosa-mariafranco@example.net,+34 927 53 43 30
-8746,Adela Pardo,Fisica,5,0,24.0,Masculino,León,fquesada@example.com,+34 827 97 27 92
-5399,Francisco Javier Manjón,Matematicas,1,7,20.0,Femenino,Ciudad,wmendez@example.com,+34978153730
-8587,Julio Nieto,Matematicas,9,5,18.0,Masculino,Jaén,manriqueines@example.org,+34 976677850
-4406,Amanda Hernández,Programacion,9,2,22.0,Masculino,Zamora,bjodar@example.com,+34 979 07 41 50
-5822,Benita Gual,Matematicas,8,0,18.0,Femenino,Badajoz,primitivovelez@example.org,+34845 348 308
-1831,Sebastián Casals,Fisica,3,3,,Femenino,Granada,samperclarisa@example.com,+34 849 531 626
-2943,Blas Niño,Fisica,10,3,20.0,Masculino,Madrid,karmengol@example.net,+34923 498 485
-3624,Dora Reyes,Programacion,7,3,18.0,Femenino,Badajoz,nnogues@example.net,+34825 384 662
-8088,Leyre Heredia,Matematicas,8,3,18.0,Masculino,Ceuta,emartinez@example.net,+34 807107936
-3043,Eusebia Blasco,Fisica,8,0,22.0,Femenino,Lleida,echeverriaolalla@example.com,+34849 25 49 55
-9675,Aránzazu Escolano,Programacion,8,5,21.0,Masculino,Palencia,pedrazaalfonso@example.net,+34 878652277
-7715,Lucila Andrés,Fisica,6,6,21.0,Masculino,Burgos,rosadojose-angel@example.com,+34901 89 68 92
-6614,Olegario Pla,Programacion,5,5,21.0,Masculino,Cáceres,ilosa@example.com,+34883646723
-1762,Perlita Llabrés,Programacion,5,3,21.0,Femenino,La Rioja,chus79@example.net,+34807244622
-2581,Arsenio Roselló,Fisica,6,8,18.0,Femenino,Salamanca,martapuga@example.org,+34 877 81 85 22
-2126,Albina Bou,Fisica,2,7,18.0,,Toledo,bravoaura@example.com,+34881346537
-9083,Alma Fonseca,Fisica,5,5,22.0,Femenino,Segovia,bcabeza@example.net,+34947743804
-7357,Miguela Alberola,Programacion,8,2,23.0,Masculino,Granada,loida81@example.org,+34975173833
-6353,Evita Palmer,Fisica,7,3,20.0,Femenino,Jaén,ledesmafrancisco-javier@example.com,+34 973 26 97 27
-4843,Lourdes Rico,Programacion,5,0,24.0,,Ávila,pinilladimas@example.com,+34977828890
-6112,Bibiana Vall,Fisica,10,1,21.0,Femenino,Jaén,marcoartemio@example.org,+34 822 89 45 17
-8363,Yésica Estrada,Fisica,8,4,23.0,Masculino,Almería,tmarmol@example.com,+34842474496
-7028,Eustaquio Abascal,Matematicas,6,6,24.0,Masculino,Tarragona,alegreclementina@example.net,+34974 99 77 65
-6455,Carlito Riera,Programacion,7,6,24.0,Masculino,Alicante,uferran@example.net,+34923 00 80 39
-9154,Quique Roldán,Fisica,7,3,21.0,Masculino,Valladolid,lmontenegro@example.com,+34988 14 80 07
-6289,Calixto Arregui,Programacion,6,3,23.0,Femenino,Navarra,guadalupecorral@example.com,+34979 045 756
-7289,Rogelio Tamayo,Matematicas,6,3,21.0,Masculino,Santa Cruz de Tenerife,sampersonia@example.com,+34946213322
-5183,Ester Pons,Matematicas,2,5,23.0,Femenino,Toledo,berrocaljulio@example.org,+34974 30 11 07
-3072,Sebastian Busquets,Matematicas,9,5,21.0,Femenino,Barcelona,lucio83@example.org,+34 826 189 353
-5248,Hugo Recio,Fisica,6,5,21.0,Femenino,La Rioja,edu33@example.org,+34900 967 034
-7714,Xavier Planas,Programacion,10,3,23.0,Femenino,Segovia,alfredo40@example.com,+34 983 72 28 13
-8244,Tere Godoy,Fisica,5,3,22.0,Femenino,Las Palmas,marcelojurado@example.com,+34 922772673
-8569,Sancho Guijarro,Programacion,5,3,22.0,Femenino,Málaga,pozueloalfonso@example.net,+34 825 55 02 92
-7115,Candela Vera,Matematicas,6,3,19.0,Masculino,Madrid,violeta60@example.org,+34920 568 026
-7887,Cosme Baena,Fisica,5,4,18.0,Femenino,Guadalajara,larreaciriaco@example.net,+34883 100 152
-6979,Martín Palomo,Matematicas,7,5,21.0,Femenino,Lleida,alicia49@example.com,+34823 243 367
-4925,Iker Costa,Matematicas,6,5,21.0,Masculino,Madrid,agueda61@example.com,+34 877 418 037
-5928,Basilio Montserrat,Fisica,3,6,25.0,Masculino,Cáceres,jose-ignaciobastida@example.com,+34 873425008
-5452,Benita Albero,Programacion,6,8,23.0,Femenino,Murcia,camilocabezas@example.org,+34 888584680
-3028,Encarnación Pinedo,Programacion,6,6,20.0,Masculino,Guadalajara,narcisabautista@example.org,+34 826 933 172
-8423,Fabricio Martínez,Programacion,5,5,21.0,Masculino,Las Palmas,danielaaznar@example.com,+34941 576 157
-6380,Armando Llobet,Fisica,6,3,25.0,,Vizcaya,jarrieta@example.org,+34 910 77 46 60
-8789,Soledad Hervia,Programacion,7,3,21.0,Masculino,Vizcaya,ferrerasbartolome@example.org,+34 831454741
-9755,Eligio Heredia,Fisica,2,2,18.0,Femenino,Murcia,jafetguillen@example.net,+34845928068
-3590,Felix Vallés,Matematicas,5,3,22.0,Femenino,Álava,taboadaitziar@example.com,+34 924531588
-3699,Abilio Vergara,Matematicas,6,3,20.0,Masculino,Jaén,adelinabermudez@example.net,+34902 61 54 48
-9384,Noelia Julián,Programacion,6,5,18.0,Femenino,Cuenca,lino05@example.com,+34820 90 63 65
-5743,Jose Carlos Galván,Matematicas,5,2,20.0,Masculino,Cáceres,qmateu@example.net,+34 823649299
-9963,Ciríaco Valle,Fisica,1,8,22.0,Femenino,León,judithsainz@example.org,+34 976 92 96 33
-2527,Evelia Bustos,Programacion,5,5,21.0,Femenino,Zamora,xfabregas@example.com,+34 984 95 63 48
-6144,Jacinto Coca,Fisica,5,2,24.0,Femenino,Vizcaya,jose-francisco12@example.net,+34723 443 946
-2145,Marc Oliva,Matematicas,5,5,22.0,Masculino,Huesca,maria-pilarcampillo@example.net,+34701 47 49 63
-7569,Casemiro Pinto,Matematicas,6,0,23.0,Masculino,Vizcaya,querociriaco@example.org,+34 874 737 911
-4920,Adrián Merino,Fisica,5,4,20.0,Femenino,Ciudad,millanpacifica@example.com,+34 825712592
-5525,Teodosio Ferrándiz,Matematicas,2,3,24.0,Masculino,Barcelona,noelia55@example.com,+34847 774 153
-4224,Demetrio Nicolás,Matematicas,9,2,,Masculino,Huelva,osorioeric@example.com,+34871938356
-7667,Andrés Múgica,Fisica,1,1,19.0,Femenino,León,belmontecasandra@example.com,+34948 75 27 33
-8747,Olimpia Colomer,Programacion,8,2,21.0,Femenino,Melilla,amoresmarcia@example.net,+34946427310
-2723,Albina Bermejo,Matematicas,5,5,18.0,Femenino,Girona,yusteangelina@example.org,+34 945 40 22 40
-1654,Bárbara Costa,Programacion,7,5,19.0,Masculino,La Coruña,amadoryanez@example.com,+34 911 58 98 65
-8696,Perlita Correa,Matematicas,1,6,21.0,Masculino,Palencia,seveperello@example.com,+34976 67 82 98
-9785,Manu Diez,Matematicas,7,3,19.0,Femenino,Cuenca,aurena@example.net,+34973 61 60 09
-2977,Jesús Calvet,Matematicas,3,6,21.0,Masculino,Lugo,marianopages@example.com,+34925 487 990
-6709,Víctor Barral,Fisica,5,4,23.0,Femenino,Teruel,mauravalencia@example.org,+34732 354 949
-3503,Pánfilo Páez,Matematicas,7,7,19.0,Femenino,Huesca,luis72@example.org,+34 924 252 236
-7071,Manolo Querol,Matematicas,6,4,20.0,Femenino,Segovia,marinaoliver@example.net,+34 877 52 85 76
-9010,Aitor Pérez,Programacion,6,4,24.0,,Castellón,ysuarez@example.com,+34888 24 84 32
-1401,Reyna Almagro,Fisica,7,8,20.0,Masculino,Castellón,carinacastillo@example.org,
-5589,Gilberto Madrid,Fisica,1,3,21.0,Masculino,Barcelona,nayara47@example.org,+34713118281
-9991,Marcia Chaparro,Fisica,6,3,22.0,Femenino,Valladolid,tescobar@example.com,+34853791513
-1811,Abigaíl Bauzà,Fisica,6,3,25.0,Femenino,Barcelona,feliparaya@example.org,+34 926 575 103
-9157,Nicodemo Quintanilla,Matematicas,6,4,23.0,Femenino,Huesca,esmeraldanicolas@example.org,+34 974 660 921
-2967,Saturnino Roda,Programacion,6,4,19.0,Femenino,Almería,frutosisabela@example.org,+34980 54 06 34
-1134,Paco Andres,Programacion,4,1,24.0,Masculino,Badajoz,buenaventura20@example.org,+34 823 36 15 80
-7476,Socorro Abad,Programacion,6,3,22.0,Femenino,Segovia,bernardarey@example.net,+34971408977
-8080,Berta Quevedo,Fisica,5,6,20.0,Masculino,,olivaresmohamed@example.net,+34 879 181 501
-1012,Angelino Corral,Fisica,6,4,23.0,Masculino,Sevilla,cuestaroman@example.com,+34876 67 31 61
-7936,Nicolás Ferrando,Matematicas,3,5,25.0,Masculino,Guipúzcoa,blasechevarria@example.org,+34 874 76 05 97
-8227,Apolinar Lara,Fisica,5,5,18.0,Femenino,,santamariacustodia@example.net,+34 845 38 46 46
-3347,María Pilar Macías,Fisica,7,3,21.0,Masculino,Soria,angelica03@example.com,+34 820 254 190
-8017,Julia Cerdá,Fisica,4,3,24.0,,Ourense,gonzalezprudencio@example.net,+34 978106734
-7457,Carlos Sebastián,Programacion,5,3,21.0,Masculino,Huesca,ayllonedelmiro@example.org,+34 825016168
-8957,Teo Almansa,Matematicas,2,0,19.0,Femenino,Tarragona,benaventegalo@example.com,+34 841 215 975
-3095,Galo Gallart,Programacion,6,5,20.0,Femenino,Murcia,baltasarleal@example.net,+34 886 70 43 39
-7326,Eugenio Tejero,Matematicas,7,3,24.0,Masculino,Cantabria,ulloret@example.com,+34 947 75 45 68
-6408,Ana Sofía Martí,Fisica,8,4,24.0,Femenino,Granada,cecilioblanca@example.com,
-8473,Adora Estevez,Programacion,5,3,22.0,Femenino,Huesca,emperatriz07@example.com,+34 972300371
-9688,María Teresa Ibáñez,Fisica,6,3,22.0,,Navarra,jeremiaspont@example.org,+34843 11 94 50
-1203,Otilia Mayol,Fisica,5,4,18.0,Femenino,Burgos,,+34 875098141
-1209,Florinda Barreda,Matematicas,5,7,22.0,Femenino,Alicante,rosario85@example.org,+34 820 829 186
-5766,Eva María Jimenez,Programacion,6,3,18.0,Femenino,Córdoba,carlosguerra@example.com,+34888 254 456
-9135,Luciana Enríquez,Matematicas,1,3,22.0,Femenino,León,manolosureda@example.net,+34 883 14 41 50
-6597,Javi Feijoo,Matematicas,8,7,22.0,Femenino,Toledo,benitezprimitivo@example.org,+34 877072334
-1254,Jose Ignacio Cobos,Programacion,9,5,23.0,Masculino,León,brigidaazorin@example.net,+34 886 855 516
-7932,Eliseo Delgado,Fisica,1,3,18.0,Masculino,Ourense,lvillena@example.org,+34 848 301 263
-8315,Custodio Bermúdez,Programacion,9,0,25.0,Femenino,Teruel,csegura@example.org,+34729120692
-5518,Adela Escrivá,Programacion,2,3,18.0,,Córdoba,bartolomepozo@example.net,
-4101,Martin Antúnez,Fisica,8,5,,Masculino,Navarra,edelmiro22@example.net,+34944 157 299
-1015,Juan José Frías,Fisica,1,4,18.0,Masculino,Teruel,jose-angelsevilla@example.net,+34741 595 411
-1822,Amalia Milla,Fisica,7,5,18.0,Femenino,Ourense,nhernandez@example.com,+34861 803 830
-1171,Toribio Neira,Matematicas,5,7,20.0,,,arribasoscar@example.com,+34 824 15 43 65
-7300,Rosalva Velázquez,Matematicas,5,5,24.0,Femenino,Salamanca,imariscal@example.com,
-3851,Quique Pablo,Programacion,6,1,22.0,Femenino,Jaén,pacafeliu@example.org,+34828 031 355
-7152,Loida Corominas,Matematicas,6,7,21.0,Masculino,Sevilla,guijarronarciso@example.com,+34 971251000
-2074,Pacífica Somoza,Programacion,5,7,18.0,Femenino,Barcelona,baslucas@example.com,+34944792028
-8303,Úrsula Botella,Matematicas,6,5,24.0,Femenino,Soria,salamiguela@example.net,+34924 40 00 29
-5094,Lupe Roig,Programacion,5,3,21.0,Masculino,Álava,campomaricruz@example.com,+34823 420 487
-9225,Victor Herrera,Programacion,5,7,25.0,,Huesca,tristan40@example.org,
-1772,Anacleto Sáez,Fisica,6,5,25.0,,Baleares,juana75@example.net,+34 976052537
-7807,Ruy Mateo,Programacion,7,3,21.0,Masculino,Jaén,jordanmarciano@example.net,+34 879080871
-6246,Apolinar Cortina,Matematicas,2,5,20.0,Masculino,Zamora,coronapulido@example.net,+34 900 760 316
-2353,Abril Aller,Fisica,7,3,24.0,Femenino,Navarra,aroamonreal@example.net,+34 946 407 968
-2927,Calista Duarte,Fisica,6,2,23.0,Femenino,Cáceres,,+34 848 461 235
-6726,Sebastián Luz,Fisica,5,7,21.0,,Baleares,josefina23@example.net,
-3194,Paloma Malo,Fisica,9,3,22.0,Masculino,Lleida,eacero@example.org,+34 824 48 78 72
-6345,Roque Beltrán,Programacion,4,2,23.0,Femenino,,gomezisaura@example.org,
-5398,Onofre Ricart,Matematicas,7,3,21.0,Masculino,Valladolid,wmanso@example.net,+34 944 966 314
-6810,Adela Bauzà,Programacion,2,3,21.0,Masculino,Asturias,carmelajuan@example.org,+34 807780774
-5531,Eloy Ferrera,Fisica,2,5,23.0,Femenino,Ciudad,monteronoe@example.org,+34 946 857 421
-2623,Mamen Cuenca,Matematicas,2,3,20.0,Femenino,Asturias,rosaura57@example.com,+34 883 89 98 44
-2259,Amancio Gonzalez,Matematicas,6,3,24.0,Femenino,Granada,uestevez@example.com,+34 922 34 72 51
-4472,Heliodoro López,Programacion,6,1,24.0,Femenino,Álava,america52@example.org,+34 875149475
-9421,Lorenza Quirós,Fisica,6,4,24.0,Femenino,Baleares,navasmartin@example.org,+34 877 494 364
-7785,Anabel Nicolau,Fisica,8,0,24.0,Femenino,Sevilla,hcasals@example.org,+34 875 08 10 13
-1323,Florentina Batlle,Fisica,3,5,24.0,Femenino,Córdoba,ribasmayte@example.com,+34846 986 766
-1464,Marisa Barrena,Matematicas,4,5,19.0,Masculino,Madrid,baezmaria-jesus@example.net,+34 911491668
-5098,Borja Segovia,Fisica,6,3,24.0,Masculino,Álava,jose-francisco16@example.org,+34 926 65 59 57
-8213,Matías Gomis,Programacion,5,3,23.0,Masculino,Ciudad,fabio18@example.org,+34945925723
-7401,Benjamín Miranda,Matematicas,7,5,21.0,Femenino,Asturias,rebeca67@example.com,+34 823 858 586
-6607,Yolanda Abad,Programacion,6,3,22.0,Femenino,Lugo,danilobustos@example.net,
-4219,Lara Perea,Fisica,2,4,20.0,Femenino,Badajoz,ezequiellarrea@example.com,+34987 344 890
-5544,Buenaventura Sainz,Programacion,6,4,25.0,Masculino,Huesca,octavio16@example.org,+34947 588 090
-7212,Imelda Pagès,Programacion,1,3,19.0,Femenino,Cuenca,martin20@example.org,+34883 586 644
-8081,Silvio Bonilla,Matematicas,6,7,19.0,Femenino,Ávila,amaro90@example.org,+34 955508937
-8239,Ruperta Gallego,Matematicas,7,5,24.0,Femenino,,sanchezchus@example.com,+34 815905297
-2264,Sandalio Menéndez,Programacion,10,5,25.0,Femenino,La Rioja,gomilasamu@example.org,
-3171,Sabina Laguna,Programacion,5,8,22.0,Masculino,Ceuta,tenaencarnita@example.org,+34979 94 01 97
-9457,Teobaldo Balaguer,Matematicas,5,5,23.0,Masculino,Palencia,ruizhector@example.org,+34971 55 32 40
-6895,Vinicio Casado,Fisica,10,5,18.0,,Guadalajara,rmariscal@example.com,+34922 57 95 57
-5205,Ulises Tamarit,Matematicas,6,5,20.0,Masculino,La Rioja,lucilamas@example.net,+34 888 950 261
-6000,Purificación Casado,Fisica,5,3,25.0,,Lleida,lprat@example.org,+34827014437
-3124,Olalla Alemany,Matematicas,7,7,,Masculino,Las Palmas,aliagasonia@example.com,+34 844 87 62 77
-4512,Aura Palomo,Matematicas,10,3,18.0,Femenino,Las Palmas,castrorafa@example.org,+34 977 281 089
-4817,Dionisio Soriano,Fisica,9,3,20.0,Masculino,Burgos,fconesa@example.org,+34882355012
-7568,Marina Ledesma,Programacion,7,5,25.0,Femenino,Valencia,mestevez@example.net,+34 986 856 069
-4975,Fabiana Olivares,Programacion,6,4,23.0,Masculino,,lporcel@example.com,+34 831 20 32 83
-1168,Lorenza Carbonell,Fisica,3,3,22.0,Femenino,Cuenca,,+34807 75 02 74
-5810,Kike Marcos,Fisica,1,3,23.0,Femenino,Cádiz,moisesvilalta@example.com,+34827 15 74 61
-4321,Teodoro Esteve,Matematicas,5,0,19.0,Femenino,Zamora,segismundoarce@example.net,+34827 389 039
-2212,Nicanor Dalmau,Programacion,9,5,18.0,Masculino,Melilla,piedad06@example.com,+34900705517
-9132,Serafina Acero,Matematicas,5,3,18.0,,Teruel,rociosancho@example.net,+34 927 01 80 91
-6666,Miguela Correa,Matematicas,7,3,20.0,Masculino,Badajoz,aragonesemigdio@example.org,+34827 45 21 45
-4382,Paola Barrera,Fisica,5,2,24.0,Masculino,Ourense,abautista@example.net,+34800 60 14 80
-8788,Ana Sofía Cal,Fisica,7,1,25.0,Femenino,Burgos,jbustamante@example.net,+34947 30 45 51
-3984,Irene Benitez,Programacion,10,5,22.0,Femenino,Murcia,eva00@example.net,+34 735 009 418
-9661,Miguela Andrade,Matematicas,5,5,24.0,Femenino,Asturias,eliana65@example.com,+34 738219884
-4961,Efraín Monreal,Programacion,4,8,22.0,Masculino,Pontevedra,tonomayol@example.org,+34821 85 95 47
-5217,Luciana Río,Matematicas,6,3,21.0,Femenino,Cáceres,dulce48@example.net,+34 883 654 921
-1268,Aristides Milla,Matematicas,3,0,18.0,,Segovia,marquezalma@example.com,+34947 24 77 95
-2120,Íngrid Roig,Programacion,6,7,23.0,Femenino,Huesca,aura79@example.com,+34 973 41 32 85
-6924,Hortensia Hierro,Matematicas,6,5,24.0,Femenino,Asturias,cecilioalfonso@example.com,+34 825 090 105
-4773,Yaiza Córdoba,Fisica,6,5,23.0,Masculino,Sevilla,,+34873 51 35 51
-2462,Morena Ibañez,Matematicas,5,3,21.0,Femenino,Segovia,salinasflavio@example.net,+34915397934
-2175,Eligia Dueñas,Programacion,3,6,23.0,,Huesca,iadadia@example.net,
-9155,Octavia Ferrer,Fisica,6,4,19.0,Masculino,Cantabria,ntur@example.org,+34984 396 727
-7734,María Belén Roldán,Programacion,7,7,21.0,Femenino,Zaragoza,osvaldo74@example.net,+34 826 292 620
-9575,Carmen Barberá,Programacion,7,3,25.0,,,barralalcides@example.org,+34 900591860
-2703,Maxi Elías,Programacion,5,3,20.0,Femenino,Vizcaya,maricelaroldan@example.net,+34 900 136 507
-7218,Vinicio Luz,Matematicas,1,1,21.0,Masculino,Ciudad,,+34 712 59 10 40
-8783,Amor Chamorro,Matematicas,5,1,23.0,Masculino,Albacete,sbarragan@example.org,+34822 864 749
-8449,Maribel Ocaña,Matematicas,6,3,,Femenino,,noguesabilio@example.com,+34986695508
-3905,Odalis Castelló,Fisica,4,3,23.0,Masculino,Segovia,renata87@example.com,+34868913885
-3755,Sebastián Saez,Fisica,7,3,23.0,Femenino,Castellón,,+34 925891266
-8637,Albert Ferrán,Programacion,5,4,18.0,Masculino,La Rioja,perlitabotella@example.net,+34 846 261 765
-1275,Maxi Huertas,Fisica,5,1,21.0,Femenino,Vizcaya,colomadan@example.org,+34 978 738 426
-7635,Aureliano Cepeda,Programacion,10,8,23.0,Femenino,Guadalajara,maximiano58@example.com,
-2113,José Antonio Laguna,Programacion,5,1,,Masculino,Murcia,jonatan76@example.org,+34 820 81 87 87
-4392,Adelina Noriega,Matematicas,5,5,21.0,Masculino,Almería,nibanez@example.net,+34 803 81 63 41
-5015,Jennifer Galiano,Matematicas,2,8,20.0,Masculino,Tarragona,crescencia63@example.net,
-2442,María José Pazos,Fisica,4,5,22.0,Femenino,Cáceres,febeespana@example.com,+34981937054
-6213,Anselma Pagès,Fisica,7,5,25.0,Masculino,Santa Cruz de Tenerife,smonreal@example.org,+34945281440
-7049,Nicanor Landa,Fisica,5,3,19.0,Masculino,Cádiz,pmorante@example.com,+34 879 941 128
-6424,Eugenia Campoy,Programacion,8,8,23.0,Femenino,Granada,luisa65@example.org,+34942 597 942
-3204,Xavier Dalmau,Fisica,6,1,18.0,Masculino,Ciudad,ipeiro@example.com,+34 820 12 48 18
-7999,Baltasar Vilalta,Programacion,7,3,21.0,,Zamora,celiarocamora@example.com,
-2696,Cipriano Barrio,Matematicas,5,0,24.0,Femenino,Guadalajara,emiliano07@example.com,
-7495,Wilfredo Cabezas,Fisica,6,0,25.0,Masculino,Sevilla,gracia99@example.com,+34921 004 241
-6026,Corona Espada,Fisica,3,5,24.0,Masculino,Castellón,joaquin10@example.org,+34672 951 191
-1070,Anacleto Contreras,Programacion,5,5,,Femenino,Valencia,brigida09@example.net,+34926067562
-9669,Flora Pujadas,Programacion,6,4,24.0,Masculino,,beatriz83@example.org,+34 972175244
-4596,Purificación Revilla,Matematicas,5,7,22.0,Femenino,La Rioja,dulce51@example.com,+34873 146 267
-2289,Domingo Azorin,Programacion,7,8,19.0,Femenino,Salamanca,nicolasa69@example.com,+34980 52 80 70
-2019,Carlota Sáenz,Programacion,7,5,22.0,Femenino,Santa Cruz de Tenerife,corbacholucho@example.net,+34943 198 189
-3943,Jonatan Campo,Fisica,6,3,22.0,Femenino,Lleida,rosendoaguila@example.com,+34878513137
-7147,Marisela Acedo,Fisica,5,2,21.0,Femenino,Málaga,tomasa18@example.org,+34979417367
-3654,Jose Manuel Coello,Matematicas,9,4,24.0,Masculino,Lugo,grosales@example.com,+34 749 218 754
-2983,Adela Cantero,Matematicas,7,4,25.0,Masculino,Toledo,afortuny@example.org,+34882 31 59 43
-1600,Aitor Barriga,Programacion,2,5,19.0,,Badajoz,martina63@example.org,+34 920347385
-6180,Celestina Andrade,Fisica,5,7,18.0,,La Coruña,magdalenanogueira@example.net,+34 872 69 59 41
-1068,Ángela Gómez,Matematicas,5,5,19.0,Femenino,Ciudad,vmacias@example.org,+34 977 062 825
-6290,Ruth Guillén,Fisica,1,3,23.0,Femenino,Navarra,febelucena@example.com,+34875 571 088
-7077,Leocadia Arellano,Fisica,5,5,21.0,Masculino,Huelva,,
-4824,Cándida Lastra,Programacion,7,3,22.0,Masculino,Ourense,xmuniz@example.net,+34857 888 859
-3784,Claudia Huerta,Matematicas,6,4,24.0,Femenino,Navarra,pheredia@example.org,+34925354855
-5295,Faustino Riba,Fisica,7,3,25.0,Femenino,Burgos,celestino88@example.com,+34882247818
-3914,Wilfredo Acosta,Matematicas,7,5,21.0,Femenino,Cuenca,renehigueras@example.net,+34 844940923
-3179,Hilario Alfaro,Fisica,8,8,21.0,Femenino,Guipúzcoa,cepedajose-maria@example.org,+34877 118 290
-1715,Apolinar Gárate,Matematicas,6,3,19.0,Masculino,La Coruña,renato63@example.net,+34854628783
-9245,Chita Morales,Programacion,6,6,18.0,Masculino,Murcia,marianaminguez@example.net,+34933 08 24 45
-1725,Andrés Madrid,Matematicas,5,0,18.0,Masculino,Zaragoza,tristanrivas@example.com,+34720612025
-8297,Hilario Reina,Fisica,9,3,21.0,Masculino,La Rioja,zbarriga@example.org,+34946427977
-5779,Anastasia Zapata,Programacion,9,5,23.0,Masculino,Castellón,gperera@example.com,+34 927 704 519
-5662,Sosimo Bravo,Matematicas,6,6,19.0,Masculino,Castellón,aleluis@example.net,+34 973 169 139
-1921,Judith Feliu,Programacion,5,3,21.0,Masculino,Baleares,tmosquera@example.net,+34925 30 82 12
-5562,Carlota Olivares,Fisica,6,6,22.0,Masculino,Ávila,jordanarmida@example.org,+34868 198 173
-6989,Pepita Elías,Matematicas,7,3,19.0,Masculino,Teruel,pastorpuig@example.net,+34 881581305
-5361,Paulina Franco,Matematicas,4,3,22.0,,Valencia,brutere@example.net,+34 943 06 53 67
-1429,Guadalupe Barco,Programacion,6,5,23.0,Masculino,Lleida,valencianoevita@example.com,+34 902 289 648
-1438,Joan Juliá,Programacion,5,4,22.0,Masculino,Guipúzcoa,gabino22@example.net,+34833347150
-1612,Andrés Armas,Matematicas,4,4,20.0,Masculino,Zamora,rossellobartolome@example.net,+34849835645
-5168,Lucio Albero,Fisica,6,2,19.0,Femenino,,morellfederico@example.net,+34 847 696 464
-5043,Felipe Santana,Matematicas,1,6,23.0,,Zaragoza,zizquierdo@example.net,+34 821282921
-6578,Benigna Clavero,Fisica,6,5,21.0,Masculino,Málaga,santosandres@example.net,+34965 86 60 61
-3667,Eulalia Saldaña,Programacion,8,3,,Masculino,Burgos,patriciagisbert@example.org,+34 972316876
-9788,Clarisa Salvà,Fisica,1,1,20.0,Femenino,Burgos,simon41@example.com,+34822 000 864
-7602,María Del Carmen Novoa,Fisica,1,5,19.0,Femenino,Cantabria,lazarolopez@example.org,+34942588222
-4777,Zoraida Carrasco,Matematicas,2,6,22.0,Femenino,Córdoba,maria-jose30@example.net,+34803 67 59 90
-4781,Patricia Mesa,Fisica,7,5,24.0,,Ourense,jordana95@example.net,+34 872 87 16 28
-5442,Viviana Córdoba,Fisica,2,3,18.0,Femenino,Pontevedra,,+34987 55 50 05
-7944,Isaías Benavente,Programacion,5,2,22.0,Masculino,León,gallegofelipa@example.com,+34 902 250 197
-1691,Pacífica Poza,Programacion,5,3,25.0,Masculino,Girona,izaguirreester@example.net,
-8090,Angelina Solsona,Programacion,9,8,19.0,Femenino,Huesca,agudohector@example.org,+34952932092
-4063,Pastor Corominas,Programacion,4,3,21.0,Masculino,Cuenca,egallego@example.com,+34849 388 314
-1248,Imelda Font,Fisica,6,4,21.0,Femenino,Santa Cruz de Tenerife,peraladolfo@example.net,+34 957 80 17 49
-4798,Selena Arnau,Matematicas,10,3,19.0,Femenino,Castellón,jose-luis05@example.org,+34831 084 768
-5687,Casemiro Llano,Programacion,7,3,18.0,Femenino,Madrid,bcolom@example.net,+34946 666 514
-9920,Fabián Vázquez,Fisica,1,3,19.0,Masculino,La Rioja,amiro@example.net,+34 828 274 242
-4680,Isidoro Seguí,Programacion,3,3,21.0,Femenino,Ceuta,piedadrios@example.net,+34 947 548 667
-2970,Maricruz Royo,Programacion,8,4,21.0,Femenino,Ceuta,ezequielcastellanos@example.net,+34952863485
-9343,Florinda Barbero,Programacion,5,7,23.0,,Cuenca,smacias@example.org,+34982 83 98 73
-3765,María Manuela Cal,Matematicas,5,1,25.0,Masculino,Guipúzcoa,aitor36@example.org,+34 949 207 477
-5457,Brunilda Lledó,Programacion,7,3,,Femenino,Córdoba,ascensionvallejo@example.com,+34 716 130 896
-2906,Ceferino Figueras,Programacion,5,5,18.0,Femenino,Melilla,arrietaaroa@example.org,+34 826 93 27 11
-2345,Epifanio Báez,Fisica,4,8,19.0,Femenino,Soria,cozarangelina@example.net,+34 871 62 90 61
-1747,Marcia Casanovas,Matematicas,6,3,23.0,Femenino,Teruel,purificacion22@example.org,+34 826 569 159
-2958,Constanza Guillén,Matematicas,7,5,21.0,Femenino,Castellón,cosmesaura@example.com,+34922056304
-7817,Severino Zurita,Fisica,5,3,20.0,Femenino,Ourense,olalla55@example.org,+34 972111179
-4950,Lina Castejón,Programacion,1,3,,Femenino,Tarragona,adrian84@example.net,+34 981 53 25 21
-2015,Bernardita Adadia,Matematicas,5,3,20.0,Femenino,Guipúzcoa,bcortina@example.org,+34 847720417
-8694,Jessica Belda,Programacion,5,3,18.0,Femenino,Valencia,nbosch@example.org,+34875107989
-4888,Prudencio Tejera,Fisica,10,7,21.0,Masculino,Teruel,molinaliliana@example.com,+34 988 568 654
-9082,Jenny Borrás,Matematicas,7,2,21.0,Masculino,Segovia,manuelita07@example.com,+34683 701 774
-4754,Rico Lobo,Programacion,6,3,18.0,Femenino,Ourense,pelayoestrada@example.com,+34 923 380 818
-2134,Salud Pinto,Programacion,10,2,21.0,Femenino,Ciudad,panchocerdan@example.org,+34 972949540
-1445,Virgilio Abad,Matematicas,10,3,20.0,Masculino,Salamanca,gomezgeraldo@example.org,+34843 31 81 85
-4180,Mayte Pou,Programacion,7,8,19.0,Masculino,Lugo,candidaalvarado@example.net,+34 849 27 52 20
-4384,Faustino Ortega,Programacion,5,3,22.0,Masculino,Navarra,zcarrasco@example.net,+34 946 158 856
-8134,Iker González,Matematicas,1,3,20.0,Masculino,Ciudad,madridmacarena@example.com,+34910 688 348
-3099,Elodia Peinado,Fisica,6,4,,Masculino,León,leandrapuente@example.org,+34881 120 074
-3135,Rosa María Lillo,Fisica,6,4,23.0,Femenino,Tarragona,jlucas@example.net,+34822 59 67 53
-3318,Víctor Roura,Fisica,5,0,19.0,Femenino,Cádiz,alexcarpio@example.com,+34928 74 90 14
-5501,Vilma Diaz,Fisica,7,8,25.0,Femenino,Santa Cruz de Tenerife,albertorodriguez@example.org,+34882 31 88 34
-9715,Manuel Osorio,Fisica,7,6,23.0,Femenino,Valencia,hernando21@example.net,+34 849643834
-5760,Luis Miguel Mora,Matematicas,2,5,23.0,Masculino,Álava,mamen05@example.org,+34 932 93 22 82
-5137,Adoración Parra,Programacion,2,1,19.0,Femenino,Salamanca,trojas@example.net,+34928 629 295
-3197,Lucila Roda,Fisica,5,5,25.0,Femenino,Cádiz,pastorsandra@example.net,+34975 62 13 31
-6592,Luisina Guillen,Matematicas,4,3,25.0,Masculino,Murcia,bartolomerebollo@example.net,+34 881 835 502
-9145,Cruz Fonseca,Programacion,1,0,20.0,Femenino,Las Palmas,julia08@example.com,+34803 718 101
-2511,Macaria Cervantes,Programacion,9,8,22.0,Femenino,Sevilla,graciano36@example.com,+34882 114 153
-5611,Lupe Nadal,Matematicas,2,3,18.0,Femenino,,gabino58@example.org,+34972 556 428
-1887,Jose Miguel Martí,Matematicas,3,3,22.0,Masculino,Granada,toledojovita@example.org,+34 745 34 72 15
-6687,Venceslás Sarmiento,Programacion,6,2,22.0,Masculino,Barcelona,elvira88@example.net,+34945 683 412
-7562,Leandra Duarte,Fisica,5,5,18.0,Masculino,Palencia,albanojuan@example.net,+34 822 057 278
-9208,Débora Ibañez,Programacion,6,5,,Femenino,Vizcaya,federicovilla@example.com,+34822 80 67 42
-6229,María Pilar Gallego,Matematicas,5,3,21.0,,Ourense,nadia47@example.com,+34944 59 72 10
-6779,Yago Morales,Matematicas,5,5,18.0,Masculino,Navarra,rosamugica@example.net,+34 978925481
-2666,Luciana Bolaños,Programacion,6,3,19.0,Masculino,Cuenca,,+34 881 96 93 76
-4291,Ruperta Gargallo,Programacion,5,3,,Femenino,Ciudad,hmayol@example.net,+34 917082733
-5973,Jenny Mir,Programacion,4,5,20.0,Masculino,,reginafeliu@example.org,+34 734 885 604
-2794,Telmo Alberto,Fisica,10,8,18.0,Femenino,Málaga,alvaradoamerica@example.com,+34 848094567
-8424,María Del Carmen Martínez,Fisica,9,5,20.0,,Cáceres,estherariza@example.org,+34 902634847
-6156,Abraham Rivero,Matematicas,7,1,18.0,,Zaragoza,kbelmonte@example.org,+34923145645
-3473,Osvaldo Téllez,Fisica,5,6,18.0,Femenino,Álava,aguilarbernardita@example.net,+34973 507 879
-5838,Melchor Llamas,Fisica,7,5,23.0,Masculino,Girona,fernanda96@example.net,+34826 89 43 03
-2147,Evangelina Amores,Fisica,7,3,19.0,Femenino,,pedrosagaston@example.org,+34973 64 89 49
-8576,Emigdio Cepeda,Programacion,5,3,23.0,Masculino,Córdoba,vneira@example.net,+34973 30 84 93
-4819,Nereida Fabra,Programacion,6,5,24.0,Masculino,La Rioja,monterobernardo@example.com,+34 945953286
-4928,Jacinto Vazquez,Fisica,5,3,20.0,Masculino,Asturias,saldanavalentina@example.net,+34821 941 793
-9889,Amparo Ferreras,Matematicas,8,8,,Masculino,Ourense,tpina@example.org,+34 845 16 52 17
-8931,Melchor Lucas,Programacion,5,1,18.0,Masculino,Ávila,octavia63@example.net,+34 824015523
-8909,Jordana Cortes,Fisica,7,5,21.0,,Córdoba,hierroascension@example.org,+34 886 22 22 80
-1310,Palmira Mesa,Fisica,5,4,23.0,Masculino,Ourense,angelita81@example.net,+34800 42 22 13
-4065,Arcelia Baró,Fisica,4,1,20.0,Femenino,Barcelona,marisolherranz@example.net,+34748 156 154
-1228,Ligia Villena,Fisica,6,4,22.0,Femenino,Guipúzcoa,americocifuentes@example.net,+34820227514
-2930,Dan Mur,Fisica,7,1,25.0,Masculino,Soria,kriquelme@example.org,+34988 545 175
-4234,Roque Tirado,Fisica,5,8,24.0,Femenino,Palencia,gilbertogodoy@example.net,+34901 674 466
-5540,Laura Duarte,Matematicas,5,3,18.0,Masculino,Soria,celestinaaraujo@example.org,+34 966111522
-3939,Rocío Falcó,Matematicas,6,3,19.0,Femenino,Cáceres,madan@example.org,+34 920 37 06 75
-2391,Dorita Ferrero,Fisica,5,3,20.0,Femenino,La Coruña,rodaaroa@example.com,+34 873 504 285
-7628,Angelita Ramírez,Matematicas,5,3,25.0,Femenino,Las Palmas,isaac83@example.org,+34 881051390
-2749,Sol Prada,Fisica,6,7,19.0,Femenino,Álava,bernadasuncion@example.org,+34 986 096 210
-7181,Esperanza Artigas,Programacion,6,2,21.0,Femenino,La Rioja,anita79@example.net,+34 920 986 272
-8772,Marcos Samper,Matematicas,2,6,24.0,Femenino,Valencia,gonzalo72@example.org,+34 717 97 84 50
-9210,Américo Mancebo,Matematicas,5,3,,Masculino,Castellón,cayetanatovar@example.com,+34848 783 803
-5678,Erasmo Ordóñez,Programacion,8,1,25.0,Femenino,,barrospastor@example.com,+34 842 112 847
-2471,Ramona Benitez,Programacion,1,5,22.0,Masculino,Huesca,aristidesmerino@example.org,+34948 280 745
-6813,Armida Figueroa,Matematicas,6,5,,Masculino,Teruel,toribioabellan@example.net,+34 803312805
-5368,Lourdes Águila,Matematicas,10,5,25.0,Masculino,Córdoba,pangulo@example.net,+34862 599 027
-4536,Yaiza Roldan,Fisica,4,3,19.0,Femenino,Córdoba,aguileraruth@example.com,+34 948758545
-6495,Elisa Baena,Programacion,5,5,25.0,Masculino,Cádiz,maxicoll@example.com,+34735050870
-3070,Roxana Castillo,Fisica,5,5,20.0,Masculino,Valencia,coronadomaria-cristina@example.org,+34 734238437
-2688,Calista Llabrés,Programacion,5,3,23.0,Masculino,Málaga,tomeomar@example.com,+34972 058 180
-3283,Quirino Paredes,Fisica,10,2,23.0,,Cantabria,ana-sofiacobo@example.com,+34873867551
-9348,Isaías Gallo,Matematicas,7,5,18.0,,Las Palmas,ana-sofiacampillo@example.org,+34 938434169
-5040,Bernardino Cabezas,Fisica,2,2,24.0,Masculino,Pontevedra,florencio63@example.net,+34 920759431
-5057,Ariel Abad,Programacion,8,3,25.0,Masculino,Palencia,roldancriado@example.net,+34868 83 96 36
-5911,Regina Fernández,Fisica,6,5,20.0,Femenino,Valladolid,verabarroso@example.net,+34 880656669
-7288,Gaspar Parra,Matematicas,6,6,20.0,,Cádiz,juan-antonio05@example.com,+34985 42 67 78
-8355,Eustaquio Zorrilla,Programacion,2,5,20.0,Masculino,Málaga,pelayopatricia@example.com,+34980 89 67 09
-9322,Rubén Arévalo,Programacion,6,0,25.0,Femenino,Granada,zreal@example.net,+34 888 08 39 23
-4910,Buenaventura Cuadrado,Matematicas,5,2,20.0,Masculino,Madrid,palmira77@example.net,+34 947 079 174
-9878,Sofía Gilabert,Fisica,7,4,24.0,Masculino,,lucasabella@example.com,+34 882077182
-4237,Brunilda Perales,Fisica,6,5,18.0,Masculino,Navarra,fluna@example.org,+34 833275697
-9740,Tere Isern,Fisica,5,3,18.0,Masculino,Ávila,foliveras@example.net,+34827847116
-3806,Casemiro Barreda,Fisica,3,4,24.0,Masculino,Girona,xurena@example.org,+34945 11 72 79
-4546,Adelaida Barberá,Programacion,7,3,25.0,Masculino,Córdoba,wmayoral@example.com,+34 988 87 04 29
-5107,Asunción Valero,Matematicas,7,6,18.0,Femenino,Córdoba,bustamantehortensia@example.com,+34 900 206 176
-9109,Erasmo Cabañas,Fisica,5,3,25.0,Femenino,Pontevedra,basilioalcantara@example.com,+34846 22 86 93
-7299,Gerardo Llobet,Fisica,5,5,23.0,Femenino,Córdoba,edgar59@example.com,+34919373868
-2382,Valentín Ribas,Programacion,5,5,23.0,Femenino,Zaragoza,andres-felipe20@example.com,
-9370,Etelvina Céspedes,Programacion,5,7,18.0,Masculino,Madrid,romanjuan-bautista@example.net,+34 835607084
-5475,Julie Acero,Matematicas,9,3,19.0,Femenino,Huelva,pavonmodesto@example.com,+34 873 55 47 67
-8181,Regina Arteaga,Programacion,7,0,22.0,Masculino,Asturias,qcoca@example.org,+34823361766
-6357,Emelina Lucena,Fisica,10,0,23.0,Masculino,La Rioja,ybastida@example.org,+34979987297
-7238,Ale Cánovas,Fisica,6,2,24.0,Masculino,Soria,luribe@example.org,+34 806 11 99 27
-5412,Gema Barragán,Matematicas,10,5,18.0,Femenino,Lleida,gvidal@example.com,+34925318949
-6902,Anabel Saez,Programacion,7,2,18.0,Masculino,Huelva,ildefonso62@example.net,+34 872 96 70 78
-8871,Rosa Borrell,Programacion,2,2,19.0,Femenino,Toledo,ruth80@example.net,+34 988 30 30 13
-7828,Cristina Pozuelo,Fisica,7,5,21.0,Masculino,Huelva,nidiagaray@example.org,+34 913 725 581
-5803,Augusto Mariscal,Matematicas,5,1,,,Ourense,cruz08@example.net,+34847 812 249
-3646,Paulino Moll,Programacion,5,3,20.0,Masculino,Barcelona,valentinjuan-manuel@example.net,+34 818649926
-9694,Ruperta Ariño,Fisica,9,7,23.0,Femenino,Sevilla,ligianieto@example.net,+34 814661200
-8246,Adela Luís,Matematicas,3,5,20.0,Femenino,Melilla,carlota08@example.net,+34975213860
-7336,Ignacia Rebollo,Fisica,3,0,19.0,Masculino,,lozanoantonio@example.com,+34 875 913 652
-8498,Purificación Montaña,Matematicas,5,5,20.0,Femenino,Melilla,,+34920756733
-8490,Goyo Lloret,Fisica,10,3,25.0,Masculino,Albacete,contrerasrosaura@example.org,+34 925614113
-3380,Eloy Sanabria,Fisica,2,8,18.0,Masculino,Álava,,+34 961 056 982
-5704,Elías Marqués,Programacion,1,5,20.0,Femenino,Teruel,castanedarufino@example.org,+34848 76 05 82
-3832,Bernardita Torres,Fisica,6,4,18.0,Masculino,Baleares,yagopinedo@example.net,+34807470205
-3959,Mireia Bas,Matematicas,6,0,23.0,Femenino,,ntoro@example.org,+34 985644158
-4976,Olimpia Pascual,Fisica,4,5,20.0,Femenino,Guadalajara,omedina@example.org,+34 873 05 81 07
-9266,Narcisa Aramburu,Fisica,6,5,20.0,Masculino,Valladolid,oduque@example.net,+34946 952 416
-6757,Clímaco Rico,Matematicas,6,3,19.0,Femenino,Málaga,mferrandiz@example.org,+34841 535 003
-1781,Custodio Planas,Fisica,8,4,21.0,Masculino,Ceuta,jsuarez@example.org,+34823 61 72 66
-9199,Abilio Verdejo,Fisica,6,5,24.0,Femenino,Almería,anibal30@example.org,+34926 25 12 89
-2402,Isidoro Rico,Programacion,7,3,24.0,Femenino,Toledo,eufemia79@example.org,+34828423743
-8613,Trinidad Fernandez,Fisica,2,3,23.0,Femenino,Palencia,sancho78@example.net,+34 845182010
-5651,Salud Antón,Fisica,6,3,24.0,Femenino,,lourdessans@example.net,+34821 240 035
-9243,Santiago Aranda,Programacion,5,0,19.0,Femenino,Zaragoza,zmacias@example.com,+34848 33 60 21
-4256,Febe Piñeiro,Matematicas,5,4,19.0,Masculino,Melilla,cabanasamor@example.org,+34 846 549 561
-4395,Javier Bou,Matematicas,5,3,22.0,Femenino,Tarragona,lolaparedes@example.com,+34981 56 83 63
-5236,Espiridión Rodriguez,Programacion,5,3,25.0,,Ourense,illorens@example.com,+34 985 59 56 03
-6279,Emilio Velasco,Matematicas,7,7,21.0,Masculino,Cáceres,revillagaston@example.org,+34844 062 004
-5980,Maxi Dueñas,Matematicas,6,3,21.0,Femenino,Almería,aarce@example.net,+34 863 34 71 45
-7970,Mohamed Mendizábal,Fisica,2,4,24.0,,La Coruña,ruanovera@example.net,+34828 15 41 54
-1459,Pelayo Garriga,Matematicas,5,7,25.0,Femenino,Valladolid,npizarro@example.com,+34 854293127
-1732,Amaro Lerma,Matematicas,6,3,25.0,,,charovall@example.net,+34877123952
-3200,Nadia Tello,Fisica,7,6,19.0,Femenino,Cáceres,adelina05@example.net,+34827424183
-8535,Marisol Isern,Matematicas,4,1,22.0,Masculino,Guadalajara,roquesolsona@example.org,+34974 625 529
-9982,Toni Nicolás,Programacion,7,4,19.0,Femenino,Navarra,pelayolidia@example.net,+34924 90 61 48
-2718,Salvador Gutiérrez,Fisica,6,3,22.0,Masculino,Valladolid,sanchezaurelia@example.net,+34 980 922 745
-1490,María Cristina Fernandez,Fisica,2,7,22.0,Masculino,Pontevedra,josefa93@example.com,+34 923 547 287
-1558,Eva Cuéllar,Fisica,5,5,22.0,Femenino,Albacete,raul21@example.net,
-2706,Fabián Riera,Matematicas,6,3,22.0,,Tarragona,corneliotejada@example.org,+34 928359941
-6550,Toño Grande,Fisica,8,5,23.0,Femenino,Soria,,+34978854153
-8914,Osvaldo Portero,Programacion,7,1,23.0,Masculino,Santa Cruz de Tenerife,maria-dolores03@example.net,+34981 89 82 91
-7195,Mireia Carreras,Matematicas,5,5,21.0,Masculino,Soria,dalilajodar@example.com,+34 878151101
-9826,Etelvina Vélez,Matematicas,4,4,25.0,Femenino,Lugo,carina29@example.net,+34947 13 83 40
-6460,Susanita Martínez,Matematicas,5,5,19.0,Masculino,,alemanyisa@example.com,+34927 766 885
-7690,Sebastián Segovia,Programacion,5,5,23.0,Femenino,Zamora,jmarin@example.net,+34 620 013 453
-4989,Apolinar Gargallo,Programacion,6,6,25.0,Femenino,Baleares,jose-manuelllamas@example.org,+34 813233392
-8800,Pastora Bernad,Matematicas,10,8,22.0,Masculino,Madrid,bernardagallart@example.org,+34927722795
-8409,Sarita Galindo,Matematicas,3,0,21.0,Femenino,Almería,molinerclarisa@example.net,+34923 37 59 28
-6376,Cecilia Mayoral,Programacion,5,7,25.0,Femenino,Cuenca,gironruben@example.org,+34 825 23 78 17
-4252,Marisa Carro,Fisica,2,4,25.0,Femenino,Almería,paulinomolins@example.net,+34843 684 131
-3247,Teófilo Galvez,Matematicas,5,3,19.0,Femenino,Segovia,muroevita@example.net,+34825425062
-6625,Nicanor Santana,Fisica,8,3,,,,jose-ramon35@example.org,+34874079445
-5202,Roque Pujol,Matematicas,5,3,24.0,Masculino,La Rioja,teofila85@example.org,+34983091076
-8026,Emilio Chacón,Matematicas,5,4,25.0,Femenino,Ciudad,zabalacarmina@example.com,+34 941 356 041
-9517,Aitor Milla,Matematicas,6,7,24.0,Masculino,La Rioja,aragonadoracion@example.org,+34 825 44 07 50
-3015,Fabiola Sotelo,Fisica,6,3,20.0,Femenino,Santa Cruz de Tenerife,esanjuan@example.com,+34900523359
-8179,Jose Miguel Hoyos,Programacion,6,8,20.0,Femenino,Zaragoza,sebastian69@example.com,+34914 959 158
-5735,Macarena Zabala,Fisica,7,5,18.0,Femenino,Guipúzcoa,ferranciriaco@example.net,+34 983 90 44 43
-7381,Adelardo Rosa,Fisica,5,3,25.0,Masculino,Barcelona,gimenezpilar@example.com,+34 633 75 41 94
-6166,Sergio Pineda,Matematicas,9,1,19.0,Femenino,Girona,franchjulio-cesar@example.com,+34943 90 58 53
-5180,Gaspar Alcalde,Matematicas,10,3,,Masculino,Cáceres,federico47@example.net,+34 875 078 525
-1002,Trini Rosales,Fisica,2,2,18.0,Femenino,Ciudad,pio11@example.org,+34923585070
-8019,Evangelina Roca,Fisica,5,3,23.0,Femenino,Córdoba,ezequielpaz@example.com,+34 972237388
-5699,Guadalupe Galindo,Fisica,7,6,23.0,,Lugo,dbarcena@example.org,+34 922 347 294
-7665,Juan Antonio Escudero,Programacion,4,3,22.0,Masculino,La Rioja,jacobosacristan@example.org,+34844 819 384
-6812,Félix Salvador,Matematicas,2,5,20.0,Femenino,Ciudad,qpedrosa@example.net,+34822547631
-6824,Felisa Bayona,Fisica,5,3,22.0,Masculino,Cádiz,serranojose-luis@example.net,+34 821 76 55 13
-6139,Valerio Sola,Matematicas,8,5,22.0,Masculino,Valladolid,yrevilla@example.net,
-2398,Lupe Portillo,Fisica,9,5,20.0,Masculino,Ourense,amado44@example.net,+34 846395219
-1549,Jimena Somoza,Fisica,4,5,24.0,Masculino,Córdoba,pablogerman@example.org,+34 915 01 92 56
-3254,América Villalonga,Programacion,7,4,24.0,Femenino,Melilla,ococa@example.com,+34 810 41 70 57
-6412,Anacleto Pineda,Programacion,5,3,19.0,Masculino,,emilio97@example.net,+34983 753 199
-1923,Tamara Polo,Programacion,6,7,21.0,Masculino,Ciudad,emperatrizduque@example.net,+34 927775512
-4723,Rita Becerra,Fisica,4,3,18.0,Masculino,Córdoba,juan-bautista13@example.net,+34966 75 71 18
-4221,Maxi Ibañez,Programacion,5,3,23.0,Femenino,Zaragoza,jorge99@example.net,+34 985 097 583
-9415,Adelaida Pulido,Programacion,5,8,20.0,,Valladolid,ildefonso96@example.com,+34922 81 51 01
-4823,Mariana Pagès,Programacion,7,3,24.0,,Toledo,cifuentesalfonso@example.org,+34872 32 16 95
-7744,Candelario Lasa,Matematicas,5,5,18.0,Femenino,Valencia,blanca15@example.org,+34957 74 14 26
-9402,Fátima Dávila,Programacion,3,5,23.0,Femenino,Ávila,aheredia@example.net,+34 806 90 69 43
-4249,Camilo Santos,Fisica,6,0,18.0,Masculino,Málaga,cristiantorrecilla@example.com,+34 926583571
-4281,Valerio Blanca,Fisica,6,2,20.0,Masculino,Granada,vidalberta@example.com,+34924 242 420
-8925,Lidia Amor,Matematicas,5,0,23.0,Masculino,Toledo,lopezabril@example.org,+34943293479
-8317,Saturnino Cerdán,Matematicas,6,6,19.0,Masculino,La Coruña,tono72@example.org,+34 928 751 657
-7029,Moisés Cadenas,Fisica,1,3,24.0,Femenino,Pontevedra,inigomurillo@example.com,+34 826 237 964
-7309,Urbano Sandoval,Programacion,8,5,19.0,Masculino,Sevilla,castellomarcelo@example.org,+34843094068
+3912,Jonatan Mayoral,Programacion,10,8,22.0,Femenino,Huelva,valeramicaela@example.com,+34827 974 234
+7175,Marco Hernandez,Programacion,5,2,22.0,Masculino,Cantabria,walter42@example.org,+34 883395677
+9086,Florinda Oller,Fisica,3,0,25.0,Masculino,,etorrijos@example.net,+34984 228 278
+4454,Antonio Madrigal,Fisica,10,6,24.0,Masculino,Santa Cruz de Tenerife,ainoacespedes@example.net,+34983 12 54 97
+6945,Rafaela Berenguer,Programacion,10,5,20.0,Femenino,Valencia,marcio76@example.org,+34 882 63 71 15
+8189,Rogelio Quiroga,Fisica,6,5,19.0,Masculino,Lleida,wmora@example.org,+34881 40 56 93
+4901,Tito Cuenca,Fisica,6,3,22.0,Masculino,Castellón,feliciano32@example.net,+34887 288 504
+4881,Amílcar Alberola,Programacion,5,3,,Femenino,Madrid,llanosluciana@example.net,+34887850307
+5971,Fabiola Vilaplana,Matematicas,4,2,19.0,Femenino,León,constanzatorralba@example.org,+34 961 678 161
+8831,Evangelina Gascón,Programacion,8,5,23.0,Masculino,Pontevedra,salvador53@example.net,
+8421,Octavio Real,Programacion,5,3,,Masculino,Guipúzcoa,gomezevelia@example.com,+34873 61 55 58
+3792,Lázaro Galán,Programacion,9,5,21.0,Femenino,Málaga,ysimo@example.com,+34 849 45 83 42
+6940,Emilio Ramirez,Fisica,6,3,24.0,Masculino,Huesca,ruthcobo@example.org,+34 882 395 726
+1279,Vanesa Tena,Programacion,10,8,20.0,Femenino,La Coruña,bsalvador@example.org,+34 875 385 730
+4912,Urbano Zamora,Fisica,7,4,25.0,Femenino,Lleida,nataliaoliver@example.net,+34 821644513
+4309,Nydia Lorenzo,Matematicas,6,3,18.0,Masculino,Lleida,victorinomadrid@example.net,+34943 91 26 38
+1815,Javiera Cuesta,Programacion,7,3,18.0,Femenino,Lleida,ofelia08@example.com,
+7081,Isaías Palmer,Matematicas,6,4,18.0,Masculino,Guipúzcoa,paloma38@example.net,+34913 711 638
+3654,Margarita Vera,Programacion,5,3,21.0,Masculino,Ceuta,adoraacuna@example.com,+34 879168880
+1810,Pili Seco,Fisica,4,3,25.0,Masculino,Toledo,maite27@example.com,+34847518054
+8934,Angélica Asensio,Matematicas,4,6,24.0,Masculino,Granada,qmendez@example.net,+34973253411
+1512,Ana Sofía Marco,Programacion,3,0,18.0,Masculino,Guipúzcoa,vaguirre@example.org,+34 886 86 85 17
+3950,Alex Guitart,Matematicas,8,5,22.0,Masculino,Cáceres,mcamara@example.net,+34 980 473 355
+5829,Reina Rosell,Fisica,2,1,18.0,Femenino,Almería,albano05@example.org,+34822 47 48 76
+4139,Ambrosio Cepeda,Fisica,8,3,25.0,Femenino,Murcia,wmoya@example.com,+34 920 908 354
+5383,Cruz Gámez,Programacion,7,7,24.0,Masculino,Melilla,espinosalorena@example.org,+34 985 01 01 96
+3845,Adalberto Belmonte,Programacion,5,3,24.0,Femenino,Badajoz,rogelio93@example.net,+34 825756374
+7160,Arturo Barrena,Matematicas,7,5,19.0,,Granada,bermudezbautista@example.org,+34 921 244 899
+5093,Tecla Sabater,Fisica,7,3,22.0,Masculino,Huesca,hernandezgalo@example.org,+34 947 879 144
+5329,Carlota Garay,Fisica,6,2,24.0,Femenino,Murcia,marisoltorrents@example.net,+34 847379684
+5363,Enrique Cornejo,Programacion,7,5,18.0,,Pontevedra,haydee52@example.com,+34 880462798
+4409,Juanita Blázquez,Fisica,8,5,24.0,Femenino,Huesca,,+34 987 662 489
+5989,Hermenegildo Sastre,Fisica,5,4,23.0,Masculino,Ourense,upina@example.net,+34931 11 61 67
+7467,Florinda Peiró,Fisica,3,4,24.0,Masculino,Valencia,aaguilera@example.com,+34948 060 026
+1511,Rosa María Español,Matematicas,6,5,21.0,Femenino,,merchegomis@example.net,+34 974729753
+3679,Delia Tudela,Matematicas,5,3,,Masculino,Murcia,sara41@example.org,+34 928 92 19 17
+5366,Abigaíl Anaya,Matematicas,9,5,25.0,Masculino,Murcia,eusebio68@example.org,+34981 67 59 87
+1270,Angelita Rincón,Fisica,9,5,18.0,Femenino,Palencia,vitocorbacho@example.com,+34974 028 347
+1447,Eligia Clavero,Programacion,4,3,21.0,Masculino,Castellón,eloisahuguet@example.com,+34824823955
+5469,Fulgencio Saez,Programacion,2,0,22.0,Femenino,Asturias,heribertoreig@example.com,+34980 397 701
+1043,Antonia Company,Programacion,5,5,22.0,Femenino,Las Palmas,imelendez@example.com,+34 824 639 052
+8526,Marcio Ávila,Matematicas,0,0,24.0,Femenino,Asturias,bnieto@example.com,+34 842 797 491
+6012,Eric Carnero,Fisica,5,6,22.0,Masculino,Ourense,benignonogues@example.org,+34807 259 863
+3583,Emilia Araujo,Matematicas,10,5,22.0,Femenino,Badajoz,leocadioechevarria@example.net,+34 885 803 620
+6410,Juan Carlos Pineda,Matematicas,4,3,21.0,Masculino,Cáceres,miguel-angel03@example.com,+34806670813
+4360,Alicia Calatayud,Programacion,4,3,19.0,Femenino,Segovia,,+34711066905
+3881,Cornelio Borja,Programacion,4,4,21.0,Masculino,Girona,jbarral@example.com,+34 980 80 27 30
+3837,Jose Ramón Campillo,Fisica,6,3,21.0,Femenino,Girona,lsalazar@example.org,+34 983 08 83 33
+3628,Áurea Samper,Matematicas,4,4,18.0,Masculino,Toledo,bsebastian@example.com,+34933 624 209
+8981,Pastor Andres,Fisica,9,7,18.0,Masculino,Ávila,flaviamuro@example.com,+34987332692
+2000,Violeta Goñi,Matematicas,6,5,21.0,Femenino,Cantabria,xgalan@example.com,+34 941 99 28 17
+5888,Eugenio Orozco,Fisica,10,8,20.0,Masculino,Pontevedra,arenascarmelo@example.org,+34935 93 97 98
+5020,Adalberto Cordero,Matematicas,6,5,19.0,Masculino,Baleares,,+34885 478 355
+4720,Benigna Urrutia,Fisica,4,4,22.0,Femenino,Palencia,almudenacobo@example.org,+34876727524
+6345,Adelardo Bauzà,Matematicas,6,4,22.0,Femenino,Granada,garcesanselmo@example.net,+34 864 798 432
+9442,Estrella Amigó,Matematicas,10,7,25.0,Femenino,Ávila,carbonellheliodoro@example.org,+34872 23 67 35
+6898,Ale Osorio,Programacion,5,3,24.0,Masculino,Vizcaya,kblanes@example.com,+34972 364 765
+3622,Arcelia Mendizábal,Matematicas,5,3,22.0,Femenino,Las Palmas,xprada@example.com,+34 924 75 17 68
+2565,Calixto Chacón,Programacion,6,5,18.0,Masculino,La Coruña,gcerda@example.net,+34 882428428
+1139,Jerónimo Sans,Fisica,6,5,25.0,Femenino,Granada,,+34847 65 60 94
+9519,Máxima Casares,Programacion,4,3,18.0,Femenino,La Rioja,,+34 937 278 680
+4642,Luis Cañas,Matematicas,6,5,19.0,Femenino,Asturias,,+34710819723
+9149,Victor Paniagua,Programacion,5,4,23.0,Femenino,León,,+34956 47 57 29
+7471,Benita Ortiz,Programacion,4,5,19.0,Masculino,Ceuta,baltasar40@example.net,+34984 41 56 14
+9857,Emelina Huerta,Fisica,5,3,21.0,Femenino,Guadalajara,albino12@example.org,+34 947 985 326
+1492,Aitana Angulo,Programacion,4,3,25.0,Masculino,Girona,custodio40@example.org,+34923 31 19 65
+1822,Gabriel Pablo,Fisica,0,0,,Femenino,Cantabria,carana@example.net,+34885 88 47 29
+6238,Reinaldo Carbajo,Fisica,8,5,24.0,Masculino,León,,+34 973445939
+1339,José Ángel Llabrés,Programacion,5,4,24.0,Femenino,Granada,aamaya@example.com,+34875 035 959
+2401,Xavier Jove,Matematicas,10,8,22.0,Masculino,Zaragoza,marcoscabo@example.org,+34 827 30 21 06
+1490,Nicolás Sastre,Fisica,8,5,24.0,,Palencia,cerveraadora@example.net,+34884 478 561
+8299,Hugo Martin,Programacion,7,5,21.0,Masculino,Ávila,romaluis@example.net,+34961311238
+1884,Victor Manuel Adadia,Fisica,4,0,20.0,Masculino,Málaga,jose-antoniovaldes@example.com,+34926020132
+8124,Catalina Villanueva,Programacion,3,3,20.0,Masculino,Girona,ofelia74@example.com,+34 977376714
+5081,Mauricio Agudo,Programacion,6,3,23.0,,,egeache@example.com,+34811 042 471
+1851,Ildefonso Higueras,Matematicas,4,3,24.0,Masculino,Ceuta,iglesiamaura@example.net,+34 987 10 61 70
+3297,Adora Bustos,Programacion,7,6,25.0,Masculino,Huelva,malojose@example.com,+34928 98 32 37
+3597,Esmeralda Agustín,Fisica,7,6,19.0,,Almería,tnevado@example.org,+34876 362 782
+7588,Bernardita Baños,Fisica,5,3,18.0,Femenino,Soria,npujol@example.org,+34 807 99 90 45
+1876,Natalia Ramírez,Matematicas,5,3,18.0,Masculino,Navarra,sanchezbenito@example.net,+34974 795 651
+4004,Chus Dominguez,Fisica,7,7,20.0,Femenino,Ciudad,nilda25@example.org,+34936 277 160
+8162,Evelia Benitez,Matematicas,7,4,25.0,Femenino,Ourense,ainaragallart@example.net,+34986 870 578
+5450,Cornelio Cobos,Programacion,5,2,19.0,Femenino,,ciriacofernandez@example.com,+34 734 50 25 06
+2512,Herminia Figueras,Programacion,5,5,19.0,Femenino,Ciudad,pdonaire@example.net,+34 982178592
+8335,Trinidad Barranco,Programacion,7,3,18.0,Masculino,Teruel,ugallardo@example.org,+34823 29 15 27
+8713,Ángel Roman,Matematicas,9,4,25.0,Femenino,Jaén,carneroalondra@example.com,+34888864609
+9033,Seve Belda,Fisica,9,5,23.0,Femenino,Ávila,olgagomez@example.net,+34 879 30 75 00
+7345,Loida Medina,Fisica,7,5,18.0,Masculino,Zaragoza,jalba@example.net,+34925087615
+7231,Rosaura Calzada,Programacion,4,4,20.0,Femenino,Jaén,cjaume@example.com,+34 749515559
+6444,Óscar Fabra,Fisica,8,4,23.0,Masculino,Barcelona,calista17@example.com,+34 900 375 529
+2394,Victoria Benítez,Matematicas,7,3,25.0,Masculino,Guipúzcoa,celia03@example.org,+34825883695
+5863,Amelia Millán,Matematicas,5,3,25.0,Masculino,Badajoz,eliana42@example.com,+34844 41 72 35
+3109,Reynaldo Osuna,Matematicas,6,3,19.0,Femenino,Jaén,elisa76@example.org,+34 709 301 321
+8156,Marco Guillen,Fisica,8,5,18.0,Masculino,Soria,ferrandizdulce@example.net,+34 971223737
+8355,José Pombo,Matematicas,6,3,24.0,Femenino,Cantabria,sroig@example.org,+34 923 476 558
+4575,Amancio Milla,Fisica,10,8,23.0,Femenino,Murcia,goyo28@example.org,+34 712 25 08 55
+5893,Ofelia Pereira,Programacion,8,3,23.0,Femenino,Palencia,bmora@example.com,+34 987 543 962
+2263,Jenaro Cazorla,Fisica,7,5,19.0,Masculino,La Coruña,,+34887 880 895
+5124,Rosario Cózar,Matematicas,7,4,23.0,Femenino,Guadalajara,esmeralda29@example.net,+34 888 716 940
+8320,Mirta Bernad,Fisica,8,3,22.0,Masculino,La Rioja,berto01@example.net,+34928 06 88 25
+5562,Omar Gámez,Programacion,5,5,20.0,,Huelva,alberto77@example.org,+34 888 43 28 80
+4334,Mateo Llano,Programacion,0,0,24.0,Masculino,Las Palmas,amocandelaria@example.org,+34749 368 750
+2301,Visitación Arnal,Programacion,5,2,22.0,,León,florenciotrujillo@example.org,+34927 54 13 48
+4703,Plácido Segura,Fisica,3,3,20.0,Masculino,Sevilla,venceslasluque@example.net,+34827 748 183
+3970,Casandra Pol,Matematicas,10,5,19.0,Masculino,Huelva,,+34882 23 89 76
+9153,Octavia Ferreras,Matematicas,5,4,24.0,Femenino,Las Palmas,qmoles@example.org,+34883 015 999
+7949,Cornelio Escobar,Fisica,3,2,21.0,Femenino,León,gcapdevila@example.net,+34807 628 814
+2400,Remigio Calatayud,Matematicas,6,1,19.0,Masculino,Valencia,luna33@example.org,+34 712215037
+8627,Olalla Mínguez,Matematicas,7,3,21.0,Femenino,Álava,adelasabater@example.com,+34878 759 737
+3699,Conrado Campillo,Fisica,10,8,25.0,Masculino,Navarra,amoramor@example.com,+34 841 40 75 76
+8478,Eliana Tirado,Programacion,8,5,23.0,Femenino,La Rioja,erasmorey@example.org,+34 971 02 30 79
+8930,Herminio Fuentes,Matematicas,4,3,19.0,Femenino,Toledo,montserratjuan-luis@example.com,+34880 16 05 39
+9061,Leoncio Salvador,Programacion,10,7,23.0,Masculino,Ceuta,pjuarez@example.org,+34 879028264
+8758,Gastón Gonzalo,Matematicas,5,3,25.0,Femenino,Soria,ibanezgregorio@example.com,+34 946 28 13 27
+1110,Leonel Cantero,Programacion,5,2,22.0,Masculino,La Rioja,ncortina@example.org,+34 842 89 19 85
+3668,Toni Tenorio,Programacion,8,5,20.0,Masculino,Córdoba,prudenciomarin@example.com,+34 881 340 771
+2054,Agustín Díaz,Matematicas,5,3,19.0,Femenino,Santa Cruz de Tenerife,aliciacabo@example.org,+34882 45 73 87
+4938,Bruno Ruano,Matematicas,6,3,25.0,Masculino,,francisco-javier21@example.org,+34 922335276
+1128,Rosenda Armas,Fisica,8,5,23.0,Masculino,Tarragona,,+34885910783
+2885,Emma Montaña,Matematicas,7,4,25.0,Masculino,Alicante,iherranz@example.org,+34988 752 726
+2260,Fortunato Tejedor,Matematicas,1,1,18.0,Masculino,Ciudad,jraya@example.com,+34 975725321
+4967,María Manuela Ramis,Fisica,7,5,20.0,Femenino,Madrid,jafetojeda@example.com,+34988780146
+3302,Hilda Zaragoza,Programacion,9,5,22.0,Femenino,Vizcaya,sacristanmelisa@example.org,+34 725241721
+4072,Elisa Criado,Fisica,4,3,19.0,Femenino,,,+34 945407078
+3461,Camila Giménez,Programacion,4,2,25.0,Femenino,Las Palmas,higuerastere@example.com,+34 824 719 902
+2627,Toño Izquierdo,Fisica,4,3,23.0,Femenino,Almería,barceloyessica@example.org,+34926461968
+2010,María Teresa Parra,Matematicas,8,3,20.0,Masculino,Lleida,pioprat@example.net,+34 943682278
+8155,Jerónimo Esteve,Matematicas,8,5,18.0,Femenino,Valladolid,pozamaria-pilar@example.org,
+2211,Fidela Valencia,Programacion,7,4,,Femenino,Burgos,olegariomelendez@example.net,+34 848 128 356
+6854,Gabino Velasco,Matematicas,4,3,19.0,Femenino,Burgos,gualsol@example.net,+34 708 976 975
+8206,Micaela Vilar,Programacion,6,3,18.0,Masculino,Girona,hilario54@example.com,+34 880 10 97 40
+7870,Camila Echeverría,Fisica,4,3,25.0,Masculino,Ávila,bordonez@example.net,+34945 755 637
+2773,José Larrea,Matematicas,9,7,,Femenino,Baleares,agustin93@example.com,+34977320881
+8697,Calixta Chamorro,Programacion,8,7,21.0,Femenino,La Rioja,sgonzalez@example.net,+34 942 537 694
+3674,Aitana Molins,Matematicas,7,4,23.0,Femenino,Guadalajara,usalva@example.org,+34881392157
+9459,Felipe Acosta,Matematicas,7,5,25.0,Masculino,Badajoz,maricelavazquez@example.org,+34 987591823
+2929,Perlita Iglesia,Programacion,8,5,,Masculino,Badajoz,mpalomino@example.com,+34 973 29 27 14
+1947,Samu Arribas,Matematicas,4,4,25.0,Femenino,Teruel,zalamo@example.net,+34 986 88 63 16
+9964,Virginia Aguado,Programacion,3,3,25.0,Femenino,Segovia,caminosusana@example.com,+34 880846091
+4500,Albino Adadia,Matematicas,8,5,25.0,Femenino,Segovia,huguetinocencio@example.org,+34 884169173
+7344,Tatiana Valderrama,Fisica,3,1,19.0,Masculino,Córdoba,,+34946 135 781
+1505,Jessica Arnal,Programacion,9,3,21.0,,Santa Cruz de Tenerife,royojuan-luis@example.com,+34 900793447
+2253,Arsenio Ruiz,Programacion,4,1,19.0,Masculino,Burgos,olegario26@example.com,
+1362,Constanza Dominguez,Programacion,4,3,19.0,,Almería,vcoello@example.org,+34925 32 23 57
+3205,Aurelia Vila,Fisica,9,5,20.0,Femenino,Asturias,bagusti@example.net,+34 941 28 03 07
+7801,Fabián Querol,Matematicas,5,5,20.0,Femenino,Córdoba,clemente38@example.net,
+1395,Andrés Felipe Ramirez,Matematicas,4,3,25.0,Femenino,Huesca,villalbamanuela@example.net,+34883 868 279
+4377,Ariel Sarmiento,Matematicas,9,7,21.0,Femenino,,,+34960 22 66 08
+5440,Candela Rubio,Programacion,10,8,23.0,Masculino,Palencia,,+34 823345766
+2648,Delia Mas,Programacion,5,4,20.0,Masculino,Granada,america80@example.org,+34926 757 260
+4897,Régulo Valcárcel,Matematicas,6,5,18.0,Femenino,Murcia,tereboada@example.net,+34977 76 41 18
+4506,Tiburcio Arenas,Programacion,6,4,,Masculino,La Coruña,nacio81@example.com,+34846830025
+1131,Encarnacion Sánchez,Matematicas,9,8,21.0,Femenino,Guadalajara,ecasado@example.com,+34 981 39 04 75
+9054,Efraín Parejo,Matematicas,7,3,20.0,Femenino,Baleares,lmendez@example.org,+34 978 77 37 44
+8140,Samu Carbonell,Programacion,4,4,23.0,Femenino,Córdoba,vosorio@example.com,+34 975 757 738
+7076,Vilma Sans,Matematicas,6,6,22.0,Masculino,Albacete,maura48@example.net,
+5253,Pascuala Alcalde,Programacion,6,5,,Masculino,Cuenca,anicolas@example.com,
+3997,Jesús Villalonga,Matematicas,2,1,24.0,Masculino,Navarra,olgatejera@example.com,
+7347,Raúl Fabregat,Programacion,10,6,19.0,,Álava,alba19@example.net,+34986050220
+8543,Marc Montes,Programacion,6,3,18.0,Masculino,,zuritaloreto@example.net,+34 822 392 730
+6199,Anna Diego,Programacion,6,4,18.0,Femenino,Salamanca,anabel48@example.net,+34979 931 832
+5698,Edgardo Escamilla,Matematicas,8,8,23.0,Masculino,Guadalajara,,+34 875858994
+3127,Maribel Morán,Matematicas,9,6,25.0,Femenino,Palencia,oliveamarilis@example.com,+34 964850908
+8393,Tadeo Romeu,Fisica,5,5,18.0,,Ourense,heriberto34@example.net,+34749 13 36 65
+6131,Ibán Losa,Matematicas,3,3,22.0,Masculino,Murcia,dulcemontenegro@example.com,+34 879576048
+8671,Encarnacion Barba,Matematicas,10,8,18.0,Masculino,Valladolid,camachovalerio@example.com,+34926 22 30 87
+1926,Teodora Roca,Matematicas,6,4,22.0,Femenino,La Coruña,solerbernarda@example.com,+34 824 70 57 29
+2604,Elisa Bello,Fisica,6,3,22.0,Femenino,Almería,celso65@example.org,+34945 56 84 63
+9507,María José Barceló,Fisica,7,5,20.0,Femenino,Cáceres,jose-manuel05@example.com,+34984 75 10 53
+9736,Alfredo Ropero,Matematicas,10,7,25.0,Femenino,Cádiz,xbenitez@example.net,+34925 960 745
+4877,Amando Comas,Matematicas,4,3,22.0,Masculino,Álava,zorrillajordana@example.net,+34920 373 526
+8339,Ámbar Cerro,Programacion,4,4,22.0,Masculino,Navarra,manuelitaviana@example.net,+34 806 90 51 61
+9829,Margarita Duran,Matematicas,10,7,23.0,Femenino,Barcelona,azaharasanchez@example.net,+34942 29 65 59
+7429,Heriberto Arco,Programacion,1,0,23.0,Femenino,Zamora,micaela73@example.com,
+1250,Micaela Franch,Matematicas,2,1,24.0,Femenino,Tarragona,tbautista@example.net,+34921641907
+1795,Carmela Jove,Programacion,6,5,24.0,Femenino,Baleares,smilla@example.com,+34966410892
+9318,Sosimo Pazos,Fisica,6,4,25.0,,Teruel,manuelitacastells@example.org,+34943 82 46 93
+7216,María Valdés,Fisica,5,4,21.0,Femenino,Ciudad,martaestevez@example.net,+34 920 414 797
+6195,Heriberto Poza,Matematicas,4,4,22.0,Masculino,Las Palmas,calvarez@example.org,+34 882 08 07 22
+4278,Darío Tejada,Fisica,2,1,23.0,Femenino,Toledo,wcanas@example.com,+34 986671568
+4530,Carmelita Cervera,Fisica,1,2,25.0,Masculino,Sevilla,wbenitez@example.com,+34 875279865
+2782,Teobaldo Rodrigo,Programacion,7,4,18.0,Masculino,Lleida,arteagaserafina@example.org,+34986163569
+9025,Plácido Arcos,Fisica,4,4,19.0,Femenino,Cádiz,miriam68@example.com,+34 845 281 881
+7176,Juana Ruano,Matematicas,6,6,24.0,Masculino,Cuenca,vnicolas@example.org,+34947 502 603
+8208,Flavia Talavera,Matematicas,7,5,22.0,Femenino,Ceuta,qjaen@example.com,+34887 17 25 74
+7430,Rolando Pastor,Fisica,4,3,22.0,Masculino,Tarragona,teo46@example.net,
+2686,Lina Araujo,Matematicas,8,4,20.0,Femenino,Cuenca,lara14@example.com,+34886 49 01 02
+4659,Montserrat Jimenez,Fisica,4,4,23.0,Femenino,Almería,gabril@example.net,+34844 30 20 17
+5564,Felisa Barrena,Matematicas,5,3,20.0,Femenino,Ceuta,amaliasantana@example.com,+34 884 98 66 54
+4012,Aroa Terrón,Programacion,3,1,18.0,Masculino,Asturias,teodora39@example.org,+34807 501 530
+5868,Luis Arcos,Fisica,7,7,21.0,Femenino,Baleares,adelinaroman@example.net,+34 874 751 113
+5980,Eusebia Vilalta,Matematicas,10,8,23.0,Femenino,Álava,victoriano74@example.net,+34882347299
+6823,Raquel Vicens,Programacion,10,8,22.0,Masculino,Pontevedra,fortunato87@example.com,+34821849610
+1603,Ricarda Ríos,Fisica,7,4,24.0,Femenino,Granada,ribajose-angel@example.com,
+8379,Kike Girón,Matematicas,3,0,19.0,Masculino,Albacete,molesarsenio@example.org,+34928 54 85 33
+9552,Adrián Batalla,Fisica,10,8,22.0,Masculino,Cádiz,iserra@example.org,+34 987 944 026
+7234,Pía Barragán,Programacion,9,5,23.0,Masculino,Zaragoza,jcastillo@example.org,+34 807322246
+9777,Esmeralda Amo,Fisica,8,7,25.0,Masculino,Toledo,alemanitziar@example.com,+34988503567
+7066,Camila Rodríguez,Programacion,5,3,,Femenino,La Coruña,benetruth@example.net,+34 826 36 86 54
+4934,Rita Ferrero,Programacion,7,3,21.0,Masculino,Málaga,mosqueracarla@example.com,+34949198717
+8992,Damián Bautista,Matematicas,5,2,23.0,Femenino,Granada,oexposito@example.org,+34 832362461
+9393,Claudio Pacheco,Programacion,8,5,21.0,Masculino,Málaga,aaronduenas@example.com,+34920991110
+3096,Josué Garzón,Programacion,5,5,23.0,Masculino,Guipúzcoa,dbarco@example.com,+34871127444
+4015,Lola Rozas,Matematicas,7,5,19.0,Femenino,Girona,eladiovillalba@example.net,+34874 74 72 52
+7773,Elvira Almeida,Programacion,4,3,24.0,Femenino,Ávila,fuertesreina@example.com,+34 978159385
+4707,Rafael Planas,Matematicas,7,5,18.0,,Albacete,teobaldo55@example.com,+34 843746621
+8879,Melchor Cámara,Matematicas,5,3,25.0,Femenino,Asturias,falcosalomon@example.net,+34 973 84 83 23
+3366,Martín Escalona,Programacion,10,7,22.0,Femenino,Santa Cruz de Tenerife,eloisa94@example.com,+34 871 374 096
+3341,Fito Peláez,Fisica,6,4,22.0,Femenino,Sevilla,clotilde23@example.com,+34 828 848 569
+4077,Gracia Arteaga,Programacion,4,1,20.0,Masculino,La Rioja,malarcon@example.org,+34803338599
+8777,Raimundo Blázquez,Fisica,5,4,25.0,Masculino,,josetorrent@example.net,+34 879883108
+1055,Hernán Girón,Programacion,4,3,18.0,Masculino,Alicante,mvega@example.net,+34977 70 17 45
+8644,Armida Rius,Matematicas,4,3,19.0,Femenino,Almería,florenciaescolano@example.net,+34975 09 23 46
+3086,Macaria Manuel,Programacion,3,1,22.0,Femenino,Guadalajara,ricopalau@example.com,+34 945 98 23 91
+3312,Agustina Font,Matematicas,8,5,23.0,Masculino,Cáceres,nadalesmeralda@example.org,+34 983 605 625
+6442,José Luis Báez,Fisica,10,6,23.0,Masculino,Guadalajara,riverovera@example.org,+34827 570 963
+6182,Alma Cuevas,Programacion,5,3,23.0,Masculino,Granada,ybas@example.com,+34873128425
+6309,Pacífica Roman,Fisica,3,2,24.0,Masculino,Toledo,amador67@example.net,+34833269781
+7559,Leire Frías,Programacion,4,3,21.0,Masculino,Zamora,zaira18@example.com,+34925708802
+4466,Teresa Egea,Matematicas,1,0,18.0,Masculino,Zamora,ceciliazabala@example.com,+34 926163219
+5116,Nacho Peñas,Matematicas,8,5,24.0,Femenino,Huesca,rosalarrea@example.org,+34979776749
+6902,Mateo Barragán,Programacion,3,3,21.0,Femenino,Álava,romeuchelo@example.org,+34 842524945
+4704,Ester Mesa,Fisica,6,4,23.0,Masculino,Huesca,qrodriguez@example.net,+34859091418
+1052,Adolfo Paredes,Programacion,5,3,21.0,Femenino,,celestinamora@example.org,+34 874 83 34 46
+9647,Máxima Gargallo,Programacion,3,1,22.0,Femenino,,baezaaraceli@example.org,+34 986 903 771
+2925,Roxana Molina,Programacion,5,4,24.0,Femenino,Castellón,manzanaresamando@example.net,+34 718 98 51 13
+4342,Teresa Durán,Fisica,5,3,24.0,Masculino,León,humbertoabella@example.net,+34 982 917 594
+1750,Santiago Aroca,Programacion,6,6,19.0,Femenino,Jaén,galaespejo@example.org,+34 880 63 59 63
+1819,Wilfredo Nieto,Matematicas,9,8,19.0,Femenino,Guipúzcoa,azenethrueda@example.org,+34921 035 273
+8200,Flavia Antúnez,Programacion,4,3,,Femenino,Alicante,manuel56@example.com,+34847 208 618
+9599,Toño Pino,Programacion,8,5,22.0,Femenino,Santa Cruz de Tenerife,marciano34@example.org,+34876 168 244
+6881,Dulce Alegria,Matematicas,3,3,25.0,Femenino,Navarra,benigna98@example.com,+34 934 699 346
+5870,Bibiana Garmendia,Programacion,9,6,24.0,Masculino,Soria,walarcon@example.com,+34 900284809
+2099,Valeria Milla,Fisica,8,4,23.0,Masculino,Jaén,amelia78@example.com,+34 886706387
+3556,Simón Castelló,Programacion,4,5,20.0,Masculino,Burgos,tbarros@example.com,+34 925285072
+6830,Macario Salvador,Fisica,8,5,19.0,Femenino,Valladolid,quirinomoya@example.net,+34941317853
+6156,Emiliano Bertrán,Programacion,8,5,21.0,Femenino,Ceuta,juan55@example.com,+34885920512
+6027,Nacio Matas,Programacion,2,1,24.0,Femenino,Zamora,isidoro67@example.org,+34 983 62 33 37
+9254,Ricarda Bermejo,Programacion,4,3,21.0,Masculino,Málaga,bernarditaosorio@example.org,+34 872 93 45 06
+2477,Abigaíl Bellido,Fisica,7,5,23.0,Masculino,Almería,vborrego@example.com,+34984 59 42 78
+1442,Chema Catalán,Matematicas,5,3,20.0,Masculino,Baleares,canizaresroque@example.org,+34 743 888 175
+5684,Consuelo Quintanilla,Programacion,9,7,18.0,Femenino,Pontevedra,tormomartin@example.com,+34880 416 840
+2025,Charo Bravo,Programacion,2,3,22.0,Masculino,Jaén,tamara52@example.org,
+1717,Venceslás Pozo,Programacion,7,3,22.0,Femenino,Cantabria,ruy14@example.net,+34884 051 373
+6096,Noemí Vilalta,Matematicas,7,3,21.0,Femenino,Álava,fferrer@example.net,+34872928622
+2897,Estrella Rodrigo,Fisica,4,4,19.0,Masculino,Guadalajara,octaviojulia@example.net,+34747 145 195
+7545,Calista Blanca,Matematicas,8,5,19.0,Femenino,Teruel,jgaliano@example.com,+34 922 637 330
+1026,Berto Barrera,Fisica,4,3,24.0,Masculino,Zamora,mendizabalaranzazu@example.net,+34884974623
+5621,Íngrid Santamaría,Fisica,6,4,20.0,Masculino,Huesca,romannydia@example.net,+34 980966561
+9760,Nicodemo Iglesias,Matematicas,6,4,25.0,Masculino,Segovia,angelita47@example.org,+34 943 796 004
+9250,Arturo Leon,Matematicas,7,4,18.0,Masculino,,czorrilla@example.com,+34873 177 914
+7364,Julia Pareja,Programacion,6,3,19.0,Masculino,Málaga,mquerol@example.com,+34 848 059 780
+9583,Susanita Dalmau,Matematicas,7,6,19.0,Femenino,Las Palmas,bfigueras@example.org,+34 986 368 177
+7417,Febe Moliner,Fisica,0,0,25.0,Masculino,Ciudad,adriana21@example.com,+34 820448000
+7852,Teresa Ledesma,Programacion,5,5,21.0,Femenino,Burgos,cristian23@example.com,+34 886 82 09 78
+6675,Belén Bonet,Matematicas,6,3,23.0,Masculino,Zaragoza,ruanoconrado@example.org,+34876548777
+7269,Máximo Leal,Fisica,5,5,25.0,,,juliaorozco@example.net,+34 941 29 55 59
+2372,Luciana Bermúdez,Matematicas,1,0,19.0,Masculino,Álava,lborrell@example.org,+34 915 70 17 56
+4577,Rosalva Perea,Programacion,4,3,22.0,Femenino,La Coruña,maria-angelesbaron@example.com,+34924 52 51 32
+9008,Fernando Varela,Fisica,7,5,19.0,Masculino,Lleida,almudena65@example.org,+34878 233 817
+4770,Alba Salgado,Matematicas,2,3,19.0,Masculino,,olegario38@example.org,+34 888 026 811
+8963,Édgar Poza,Programacion,6,4,18.0,Femenino,Almería,mayomaria-teresa@example.net,+34948164801
+1903,Rosalva Urrutia,Matematicas,6,3,22.0,Femenino,La Rioja,andresefrain@example.org,+34825 22 85 75
+3741,Filomena Alberdi,Programacion,8,6,20.0,Femenino,Lleida,rfuentes@example.net,+34827 030 547
+5811,Cristian Tamarit,Fisica,3,1,25.0,Masculino,Cáceres,espanaodalys@example.com,
+2117,Remedios Roselló,Matematicas,6,3,20.0,Masculino,Tarragona,lidia59@example.net,+34 975667900
+5529,Chus Roda,Fisica,4,6,18.0,Femenino,Castellón,amandapena@example.com,+34 971 22 75 35
+5573,Marcelino Alberto,Matematicas,7,2,18.0,Masculino,Las Palmas,soleragilberto@example.com,+34983 32 42 18
+3935,María Cristina Larrea,Matematicas,8,5,23.0,Femenino,Vizcaya,gburgos@example.com,+34874868841
+7584,Eusebia Gras,Fisica,4,3,23.0,Femenino,Córdoba,candelas89@example.net,+34824 54 74 74
+9125,Xiomara Vizcaíno,Matematicas,9,8,21.0,Masculino,Huesca,cesar02@example.org,+34 806 80 29 15
+9343,Consuela Diéguez,Matematicas,7,4,18.0,Masculino,Cádiz,psotelo@example.com,+34 988 45 67 63
+3745,Nereida Paredes,Fisica,6,4,19.0,Masculino,Zamora,gustavo82@example.com,+34 845 84 85 97
+6769,Carmela Lumbreras,Programacion,3,4,25.0,Femenino,Huesca,panchosaenz@example.org,+34821 58 88 76
+3688,Serafina Losa,Matematicas,10,5,24.0,Femenino,Cáceres,sandalionebot@example.net,+34945 416 181
+1403,Sancho Tapia,Matematicas,10,8,22.0,Femenino,Barcelona,ssalamanca@example.org,+34 915 496 498
+4122,Alberto Villegas,Matematicas,10,7,20.0,Femenino,Lugo,bgalan@example.com,+34 872 14 23 55
+4486,Mariana Pardo,Fisica,5,4,22.0,Masculino,La Coruña,cruzmenendez@example.org,+34888684129
+4621,Rufina Benítez,Programacion,7,3,22.0,Femenino,León,,+34 847 85 36 59
+7072,Sofía Boix,Fisica,10,8,22.0,Masculino,Huesca,carrascofernando@example.net,+34806514692
+2918,Herminia Botella,Fisica,8,5,22.0,Femenino,,luispazos@example.com,+34 886 04 28 57
+5073,Raquel Expósito,Fisica,0,0,22.0,Masculino,Álava,jose-mari41@example.net,+34806 175 401
+9144,Eva María Montoya,Programacion,7,3,25.0,Femenino,La Coruña,pinoalbino@example.com,+34975918911
+6594,Jacinto Lluch,Fisica,8,5,23.0,Femenino,Ávila,maxi85@example.org,+34883 428 310
+5541,Agustín Mercader,Fisica,8,4,,Masculino,Sevilla,gualsabas@example.net,+34 928 520 934
+1966,Lisandro Piñeiro,Fisica,1,0,18.0,Masculino,Zaragoza,xelias@example.org,+34923 60 57 46
+4275,Paloma Bernad,Programacion,4,3,23.0,Masculino,Badajoz,valcarcelcalixta@example.org,+34986396477
+4103,Íngrid Arévalo,Programacion,8,3,22.0,Masculino,Asturias,maria-belen09@example.org,+34841 73 92 52
+5767,Haroldo Roselló,Programacion,3,3,22.0,Femenino,Ourense,sanchomascaro@example.net,+34 986 47 56 32
+5180,Duilio Luján,Programacion,10,8,20.0,Femenino,Zamora,sofia80@example.org,+34943942396
+5186,Dan Ayala,Fisica,7,3,22.0,Femenino,Pontevedra,mquerol@example.net,
+1757,Raimundo Dávila,Programacion,5,3,25.0,Femenino,Melilla,dmir@example.org,+34926432162
+3226,Georgina Gascón,Matematicas,8,5,24.0,Masculino,Lugo,adalbertocarranza@example.com,+34 821 852 783
+2610,Beatriz Oliva,Fisica,5,4,25.0,Femenino,Madrid,ocasanova@example.com,+34 731 17 32 35
+7724,María Teresa Tello,Matematicas,7,4,22.0,Femenino,Lleida,roquehernandez@example.net,+34880457023
+5223,Cruz Huerta,Programacion,7,7,23.0,Femenino,Castellón,mmanzano@example.net,+34 882 59 11 90
+1013,Abril Castelló,Matematicas,8,4,25.0,Femenino,Navarra,diezsol@example.net,+34747 007 521
+9678,Martina Quevedo,Fisica,5,3,22.0,Femenino,Murcia,lupitacornejo@example.org,+34 921 24 08 23
+4467,Nydia Soto,Fisica,4,3,25.0,Femenino,Asturias,rodrigocampo@example.org,+34988 90 09 10
+1359,Pepita Rincón,Fisica,6,3,19.0,Masculino,León,lorenza23@example.org,+34 803 869 802
+5427,Florinda Priego,Matematicas,4,3,23.0,Masculino,Guadalajara,dprado@example.net,
+7128,Javiera Toro,Fisica,3,3,19.0,Femenino,Zamora,xcalderon@example.net,+34925536205
+6202,Candela Solé,Fisica,3,3,19.0,Masculino,La Rioja,jesusa56@example.com,+34825 28 49 91
+3739,Omar Tejero,Matematicas,4,1,22.0,Masculino,Castellón,severinolloret@example.org,+34 923778676
+7306,Fabián Escrivá,Programacion,7,5,18.0,Masculino,Álava,odalisvalverde@example.net,+34 885 227 207
+7074,Adelaida Blanch,Fisica,10,8,19.0,Masculino,Guadalajara,jguzman@example.com,+34 842 98 64 08
+1080,Calista Barberá,Programacion,9,5,21.0,Femenino,Navarra,ocanaruben@example.org,+34 873 67 56 82
+1540,Macario Arellano,Programacion,3,3,19.0,Masculino,Toledo,andresinmaculada@example.org,+34 821 094 914
+9428,Olalla Esparza,Fisica,5,4,20.0,Femenino,Zamora,aliciapont@example.net,+34926434672
+4422,Macaria Ibarra,Matematicas,4,3,18.0,Masculino,Murcia,franciscocloe@example.org,
+1101,Hernando Mosquera,Programacion,2,0,24.0,Femenino,Lugo,uisern@example.org,+34875367674
+6819,Esmeralda Batalla,Matematicas,9,7,25.0,Femenino,Las Palmas,rsilva@example.net,+34883 19 26 83
+9158,Duilio Valero,Fisica,7,5,23.0,Masculino,Álava,celestina47@example.org,+34 958 593 028
+6113,Flor Mendoza,Fisica,7,5,20.0,Masculino,Alicante,mmarques@example.net,+34975 971 241
+4346,Donato Miralles,Fisica,2,0,20.0,Femenino,Toledo,rodolfo16@example.net,+34 740 51 67 33
+7668,Ulises Querol,Fisica,4,3,19.0,Femenino,Ávila,xnaranjo@example.org,+34876365859
+3945,Marcelo Rico,Fisica,5,4,20.0,Masculino,Huelva,lorena45@example.org,+34 883320772
+5618,Cipriano Samper,Fisica,7,5,20.0,Femenino,Granada,lorenaolive@example.com,+34 883577794
+1784,Juan José Manso,Matematicas,4,3,18.0,Femenino,Lleida,jrubio@example.net,+34 806134127
+3684,Yaiza Esteban,Fisica,0,0,19.0,Femenino,Sevilla,alonsolucas@example.net,
+4846,Florentino Aranda,Programacion,5,3,18.0,Femenino,Toledo,zcarrillo@example.net,+34927151239
+7656,Mireia Osuna,Programacion,7,5,,Masculino,Soria,quintanaleonor@example.com,+34844223862
+7151,Dalila Manuel,Fisica,10,6,19.0,Femenino,Pontevedra,adelia88@example.com,
+7211,Marco Moles,Matematicas,1,0,20.0,Femenino,León,flaviomateo@example.com,+34923539409
+2851,Augusto Costa,Fisica,6,3,23.0,Masculino,Baleares,piougarte@example.com,+34 881684783
+4832,Eloy Miguel,Fisica,8,5,19.0,Femenino,Murcia,torrentmaria-teresa@example.net,+34 973440459
+7516,Ximena Barrio,Fisica,8,8,23.0,Masculino,Valladolid,poloharoldo@example.com,+34945799756
+7564,Zoraida Andres,Fisica,10,7,19.0,Masculino,Zamora,salvarafa@example.com,+34 953174001
+4797,Matías Llorens,Matematicas,3,3,24.0,Masculino,Las Palmas,odalys06@example.org,+34 883 570 523
+4272,Ruth Coloma,Programacion,7,4,24.0,Masculino,Huelva,mgarmendia@example.com,+34 978 131 373
+4238,Víctor Abellán,Programacion,2,3,25.0,Femenino,Barcelona,victorinocolomer@example.net,+34 986403131
+2962,Jordán Páez,Programacion,8,5,,Masculino,Ciudad,cifuentesanunciacion@example.org,+34 874405115
+4041,Teobaldo Arribas,Programacion,4,3,19.0,Femenino,Valencia,demetrio12@example.net,+34 921 26 55 55
+8844,Clara Franco,Programacion,8,4,24.0,Masculino,Zamora,gserrano@example.net,+34 854901535
+7212,Victoria Rocha,Matematicas,9,5,23.0,Masculino,Salamanca,blanca64@example.net,+34823 28 54 82
+9973,Sofía Pera,Fisica,6,5,19.0,Masculino,Vizcaya,riborra@example.net,+34927 80 01 29
+1328,Feliciana Velasco,Matematicas,9,8,23.0,Masculino,Navarra,pascualacrespo@example.org,+34974567485
+7790,Lupita Sandoval,Matematicas,8,8,24.0,Femenino,Girona,lupetamarit@example.org,+34921 752 039
+9802,Jerónimo Rojas,Matematicas,4,3,21.0,Masculino,Valencia,castellotilia@example.com,+34947 585 036
+2923,Georgina Farré,Matematicas,5,3,19.0,Femenino,Girona,jvalderrama@example.net,+34 828634438
+8696,Baltasar Montesinos,Matematicas,3,2,18.0,Masculino,Córdoba,emperatrizrossello@example.net,
+3309,Wilfredo Quiroga,Matematicas,5,3,21.0,Masculino,Zamora,manuvillalobos@example.net,+34 887 11 97 68
+4624,Jordán Martinez,Fisica,6,3,23.0,Femenino,Córdoba,beltraneva-maria@example.com,+34 972 379 301
+2717,Dafne Armengol,Matematicas,8,5,20.0,Femenino,Zaragoza,acervantes@example.net,+34 924 87 49 57
+9470,Adoración Román,Matematicas,6,5,25.0,Femenino,Ourense,psaavedra@example.net,+34 922 397 516
+9443,Laura Vega,Programacion,9,5,19.0,Masculino,Cuenca,polorosendo@example.org,+34655 263 757
+4962,Leonor Adadia,Fisica,6,5,18.0,Femenino,,ucrespo@example.org,+34803420743
+8915,Dan Carrión,Matematicas,3,2,19.0,Femenino,Melilla,waguila@example.net,+34949747158
+8110,Damián Merino,Programacion,4,3,20.0,Femenino,Vizcaya,galloirma@example.net,+34821 83 30 90
+7534,Sabina Esparza,Matematicas,3,4,19.0,Masculino,Lleida,adoracionbenavent@example.org,+34 887681142
+1344,Florina Carretero,Programacion,5,4,19.0,Masculino,Baleares,osvaldo58@example.org,+34875943699
+6137,Adelardo Múñiz,Programacion,6,5,25.0,Femenino,Ávila,joelcobo@example.net,+34 981 082 042
+7769,Chus Amo,Matematicas,6,4,,Femenino,Murcia,,+34 924620636
+8172,Federico Marí,Fisica,8,5,20.0,Femenino,Vizcaya,jamor@example.org,+34 827 902 499
+8775,Aitor Cabo,Programacion,10,8,24.0,Masculino,Málaga,milagrossola@example.net,+34821699365
+2663,Herminio Velasco,Programacion,5,3,21.0,Femenino,Cantabria,heriberto20@example.net,+34 923176912
+7666,Hilario Muro,Fisica,6,4,25.0,Femenino,Teruel,manu85@example.org,+34806771443
+6993,Loreto Catalán,Programacion,4,3,18.0,Masculino,,mlozano@example.com,+34824 690 333
+2264,Rogelio Amorós,Fisica,9,7,23.0,Femenino,Burgos,nereidaseco@example.com,+34925 417 147
+2549,Leocadia Lopez,Matematicas,5,5,24.0,Femenino,Segovia,alcaldefrancisco-jose@example.net,+34 888 656 242
+5371,Amalia Arregui,Matematicas,5,3,24.0,Masculino,Córdoba,cordobaamarilis@example.net,+34 941 978 612
+1041,Hector Corominas,Matematicas,7,6,23.0,Femenino,Teruel,aroa64@example.com,+34926 264 615
+8596,Gloria Fabregat,Matematicas,8,5,,Femenino,Burgos,lrico@example.net,+34 875 389 724
+4576,Angelita Gutierrez,Matematicas,6,4,20.0,Femenino,,edgardohigueras@example.org,+34 921 44 65 86
+5005,Juan Casado,Programacion,5,3,24.0,,Ávila,grandeagata@example.com,+34 822749587
+1676,Gertrudis Calvet,Programacion,9,6,25.0,Masculino,Zamora,joseayala@example.net,
+9178,Conrado Palomares,Matematicas,6,3,18.0,Femenino,Ourense,abrilcarpio@example.com,+34 977867864
+1303,Dolores Reina,Fisica,3,3,25.0,Masculino,Pontevedra,nydiasarmiento@example.net,+34 822 401 421
+3981,Sosimo Solís,Matematicas,6,4,18.0,Femenino,Cuenca,chemamoya@example.net,+34984943995
+7956,Jaime Carrillo,Programacion,7,4,,Femenino,Guipúzcoa,kcarrasco@example.org,+34 880486208
+6701,Chus Ferrero,Fisica,1,2,21.0,Femenino,Soria,chitacuadrado@example.org,+34 945 45 38 38
+1494,Lisandro Soria,Programacion,2,3,20.0,Femenino,Valencia,wtomas@example.org,+34 823618807
+2802,Amarilis Zabaleta,Fisica,6,6,21.0,Masculino,Cuenca,kpinol@example.org,+34 875655562
+4589,Pastora Beltran,Matematicas,6,4,19.0,Masculino,Murcia,pugatadeo@example.net,+34 843536252
+8063,Anita Núñez,Matematicas,3,3,20.0,Femenino,Huesca,angelina37@example.org,+34 826 607 253
+8087,Eleuterio Vilalta,Programacion,6,5,22.0,Masculino,,pinaisidora@example.net,+34883 225 376
+8334,Curro Figuerola,Fisica,5,5,18.0,Masculino,Almería,hugovila@example.com,+34 883 646 014
+8152,Néstor Cabo,Fisica,9,5,18.0,Femenino,Huelva,tvilalta@example.net,
+7238,Jordi Mulet,Programacion,5,3,20.0,Masculino,Salamanca,isaacbueno@example.org,+34 886 663 600
+8632,Mónica Sanmiguel,Fisica,8,5,24.0,Femenino,Alicante,qsanmiguel@example.com,+34976 623 004
+8445,Paca Alemany,Programacion,7,5,25.0,Masculino,Burgos,jcepeda@example.net,+34 975 48 16 86
+6089,Jesusa Santos,Fisica,4,3,,Masculino,Las Palmas,arocamora@example.org,+34985 03 65 81
+4127,Jennifer Alcázar,Matematicas,4,4,23.0,Femenino,Huelva,laurahidalgo@example.org,
+2354,Hector Esteban,Programacion,6,4,25.0,Femenino,,isa95@example.net,+34 984 64 11 19
+1595,Herminia Manzanares,Fisica,2,1,20.0,,Córdoba,,+34 871 046 627
+5243,Isa González,Fisica,6,3,25.0,Masculino,Pontevedra,octavio57@example.org,+34922 49 40 10
+3835,Teo Bernat,Fisica,10,7,18.0,Masculino,Navarra,alegriaalfredo@example.org,+34 921 995 611
+3855,Elisabet Doménech,Programacion,8,4,23.0,Masculino,Albacete,samantabarriga@example.net,+34 857 66 10 54
+7055,Valeria Barrios,Fisica,10,8,18.0,,Segovia,abeldalmau@example.net,+34875 46 80 93
+1609,Asdrubal Andreu,Fisica,4,3,20.0,Femenino,Santa Cruz de Tenerife,adelardocalvet@example.com,+34 943 088 173
+1438,Marcia Enríquez,Fisica,7,7,23.0,Femenino,Cáceres,tmulet@example.org,+34 985132078
+7334,Virginia Jódar,Programacion,7,4,19.0,,Las Palmas,aznaresteban@example.net,+34928 93 57 55
+7348,Emilio Cueto,Programacion,6,3,24.0,Masculino,Córdoba,imulet@example.net,+34 888 07 93 40
+3558,Edu Carretero,Programacion,9,6,20.0,Femenino,La Rioja,evelia29@example.net,+34 881 78 93 14
+5909,Jennifer Puig,Programacion,3,0,24.0,Femenino,Navarra,trinidadperez@example.org,+34 888 641 030
+7650,Sebastian Juárez,Programacion,6,4,25.0,,Ourense,xsolis@example.com,+34947 119 863
+5789,María Ángeles Carro,Matematicas,6,4,,Masculino,Tarragona,,
+1602,Mateo Reyes,Matematicas,1,0,22.0,Femenino,Almería,santosayuso@example.net,+34 824 44 22 71
+6522,Nydia Pellicer,Fisica,5,5,18.0,Masculino,Melilla,tenatimoteo@example.com,+34 978 994 278
+4206,Dorita Ferrer,Programacion,8,5,18.0,Masculino,La Rioja,puertaoriana@example.com,
+9824,Carla Boada,Fisica,10,8,20.0,Masculino,Lleida,sigfridocortes@example.net,+34 826872884
+6250,María Carmen Blazquez,Fisica,6,4,24.0,Masculino,Zaragoza,felicianoescriva@example.org,+34963039879
+4226,Nacio Bas,Fisica,9,4,22.0,Masculino,Albacete,ttrillo@example.org,+34874 680 396
+7382,Natanael Castro,Programacion,4,1,20.0,Masculino,Ourense,eloisafabregat@example.com,+34 702789597
+3779,Rosalva Clavero,Programacion,10,7,21.0,Masculino,Toledo,,+34 878 17 72 19
+4129,Martina Bustos,Matematicas,7,3,18.0,Femenino,Las Palmas,dpalomo@example.org,+34 825856446
+6037,Abigaíl Lobo,Fisica,7,4,24.0,Masculino,Murcia,artigaseugenia@example.org,+34 933 099 643
+4477,Ezequiel Cuervo,Programacion,6,3,23.0,Masculino,Teruel,hribera@example.net,+34 981 540 393
+1107,Patricia Coello,Matematicas,3,4,24.0,Masculino,Guipúzcoa,angel27@example.org,+34886513964
+9696,Aureliano Solsona,Fisica,7,5,,Masculino,Girona,quintanillaapolinar@example.org,+34 861 524 597
+5933,Samu Zaragoza,Fisica,5,3,21.0,Masculino,Huelva,gpeiro@example.com,+34 928325077
+6145,Ale Vilaplana,Programacion,8,5,23.0,Masculino,Pontevedra,salomonmarco@example.org,+34819 97 72 19
+1268,Laura Ferrando,Fisica,0,1,23.0,Masculino,Alicante,loreto95@example.com,+34 922 305 335
+3886,Mario Manuel,Programacion,8,7,23.0,Masculino,Sevilla,,+34 871 094 762
+9957,Elpidio Trujillo,Fisica,5,3,19.0,Masculino,La Coruña,maria-del-carmenromero@example.com,+34871 63 45 68
+1073,Cecilia Lucas,Programacion,6,5,25.0,Femenino,Segovia,benitobernardo@example.org,+34 867 48 73 41
+7728,Micaela Ayuso,Fisica,5,5,21.0,Femenino,Albacete,umacias@example.net,+34 947 167 711
+5570,Baudelio Roda,Fisica,6,3,24.0,Masculino,Las Palmas,cabanillasgeorgina@example.net,+34 869326320
+6264,Judith Tur,Fisica,7,5,18.0,Masculino,Soria,leandroverdugo@example.net,+34874 221 293
+2375,Mauricio Franch,Programacion,4,3,23.0,Femenino,Santa Cruz de Tenerife,,+34 807 22 88 36
+9030,Berto Calderón,Matematicas,4,2,23.0,Masculino,Lugo,aliagaamarilis@example.com,+34 876 61 94 05
+5862,Roque Barrios,Programacion,7,4,23.0,Femenino,Segovia,canetmarisela@example.com,+34 859 673 453
+4301,Rosalía Cal,Programacion,5,3,,Femenino,Ciudad,xcerdan@example.com,+34807 376 629
+3342,Fabiana Ribera,Programacion,9,6,18.0,Femenino,Cáceres,sofia21@example.org,+34741 189 085
+2200,Nereida Milla,Fisica,7,5,19.0,Masculino,Baleares,nildacastello@example.net,+34 888 120 683
+2724,Jordi Miró,Fisica,1,0,19.0,Femenino,Castellón,sfonseca@example.net,+34853 905 347
+1518,Curro Cabo,Programacion,3,3,20.0,Femenino,Baleares,hbustos@example.org,+34 861578601
+1631,Ámbar Lozano,Programacion,5,3,23.0,Femenino,Valencia,gvazquez@example.org,+34 847269979
+9705,Juan Carlos Cases,Fisica,7,5,22.0,Masculino,Huelva,sansclaudio@example.net,+34 844 36 43 50
+1814,Darío Carvajal,Fisica,9,7,19.0,Masculino,Cuenca,toledoanselmo@example.org,+34 927 670 024
+4236,Rosendo Zabaleta,Fisica,6,3,24.0,Femenino,Segovia,cleto17@example.net,
+2684,Isaura Garzón,Programacion,6,5,22.0,Masculino,Zamora,bibiana87@example.net,+34 820597252
+8399,Belén Mayol,Programacion,6,5,24.0,Masculino,Cuenca,carrobrunilda@example.net,+34874193161
+6666,Eva María Isern,Fisica,10,8,22.0,Femenino,Asturias,rosa-mariamoraleda@example.org,+34849559328
+2950,Ángela Pastor,Programacion,5,5,25.0,Femenino,Melilla,blanchsofia@example.org,+34 888791629
+3788,Macario Sierra,Fisica,7,4,18.0,Masculino,Segovia,rosellazeneth@example.com,+34878 97 28 74
+2609,Perlita Fernandez,Matematicas,8,5,19.0,Masculino,Alicante,casemiro95@example.org,+34947 643 944
+6684,Vilma Cabrero,Programacion,3,1,22.0,Femenino,Madrid,aurea00@example.org,+34744011361
+1919,Lucho Córdoba,Matematicas,8,5,19.0,Femenino,Alicante,ileanaaller@example.net,+34974 525 384
+9106,Fidel Jove,Fisica,8,3,22.0,Masculino,Sevilla,vpombo@example.org,+34 827 14 32 24
+1653,Adoración Conde,Matematicas,6,5,,Femenino,Tarragona,,+34 871063279
+1504,Vasco Segarra,Programacion,2,3,18.0,Femenino,Baleares,efrainfabregas@example.net,+34987 89 37 24
+1367,Isabel Cepeda,Matematicas,3,1,19.0,,Alicante,vitoangulo@example.org,+34 972 809 414
+9969,Valentina Trillo,Programacion,10,8,25.0,Femenino,Toledo,zmolina@example.net,+34 881 92 62 77
+4227,Lina Izaguirre,Matematicas,6,5,,Femenino,Zaragoza,serafinarosales@example.com,+34828 686 815
+1997,Laura Llobet,Programacion,2,1,21.0,Masculino,Valencia,,
+6958,Rosario Vazquez,Fisica,6,5,18.0,Masculino,Ceuta,garciabasilio@example.com,+34 815135158
+5693,Lourdes Hervia,Matematicas,9,7,24.0,Femenino,Lugo,felipe52@example.org,+34 977749970
+6123,Cristian Morcillo,Matematicas,6,5,20.0,Femenino,Navarra,ocarretero@example.net,+34886077422
+4818,Vilma Amor,Matematicas,9,3,18.0,Masculino,Castellón,fabiodiez@example.org,+34949 106 553
+7222,Elpidio Paredes,Programacion,6,5,19.0,Femenino,Santa Cruz de Tenerife,rinconluis-angel@example.net,+34814 910 714
+5819,José Manuel Lerma,Matematicas,4,3,24.0,Masculino,Lleida,ibanguardia@example.net,+34 984 30 49 36
+6402,Matías Iniesta,Matematicas,4,5,23.0,Femenino,León,liliana39@example.org,+34977370800
+7911,Maristela Lluch,Programacion,10,8,22.0,Masculino,Palencia,aznartomasa@example.com,+34 871 38 83 50
+5176,Viviana Carlos,Programacion,0,1,24.0,Masculino,Ourense,villalobosmaximiano@example.com,+34979209897
+2588,Benito Villegas,Matematicas,7,6,21.0,Masculino,Pontevedra,lisandro92@example.com,+34935 83 11 87
+6009,Marcos Nieto,Matematicas,7,5,19.0,Masculino,Ceuta,maritalucas@example.org,+34826284727
+7538,Feliciana Ramos,Programacion,5,4,19.0,Masculino,Tarragona,lorenza30@example.org,+34988 80 65 72
+9185,Xiomara Amo,Matematicas,9,4,24.0,Masculino,Teruel,eligio56@example.com,+34973 23 63 50
+6308,Eli Baños,Matematicas,4,1,22.0,Masculino,Madrid,mohamed18@example.org,+34 844 15 45 86
+1969,Fátima Puig,Fisica,7,3,22.0,Femenino,Toledo,sierraazucena@example.net,
+1563,Aitana Colomer,Fisica,7,4,19.0,Masculino,Ourense,ciriaco06@example.com,+34826 97 60 22
+9527,Teodoro Manjón,Fisica,10,8,24.0,Femenino,Guipúzcoa,lobatomaria@example.net,+34852 232 145
+3331,Ani Iglesias,Programacion,4,0,21.0,Femenino,Lleida,micaelapelaez@example.com,+34913 924 651
+4430,Flora Jordán,Matematicas,5,4,20.0,Masculino,Jaén,galvannereida@example.org,+34982 163 758
+8893,Renata Castellanos,Matematicas,6,5,20.0,Masculino,La Coruña,cintiagranados@example.net,+34 841 68 02 81
+3289,Hugo Vigil,Fisica,6,3,21.0,Masculino,Valladolid,xgomis@example.com,+34901 92 53 58
+4863,Begoña Rosales,Fisica,1,3,22.0,Femenino,Cuenca,bellosantiago@example.com,+34 821 90 67 30
+6100,Olegario Cánovas,Matematicas,10,8,22.0,Femenino,,fabiola93@example.net,+34 803 227 109
+8531,Graciela Acevedo,Programacion,3,0,19.0,Femenino,Madrid,carmina52@example.net,+34 945 03 29 26
+7763,Noa Aramburu,Matematicas,6,4,20.0,Femenino,Girona,molineramando@example.org,+34 712 48 11 82
+2558,Carlota Artigas,Programacion,6,4,,Masculino,Murcia,beltranleyre@example.com,+34873012995
+5078,Marco Borrás,Matematicas,6,5,24.0,Femenino,Salamanca,bsancho@example.com,
+8211,Cecilio Villegas,Programacion,7,3,24.0,Masculino,,amorfabio@example.com,+34876 92 78 65
+1909,Constanza Delgado,Programacion,7,3,25.0,Femenino,Salamanca,colomdulce@example.net,+34885 783 036
+2229,Omar Martinez,Programacion,10,5,21.0,,Navarra,santiago21@example.org,+34978 590 431
+8592,Anunciación Bayona,Programacion,4,2,,Femenino,Ceuta,mariselalluch@example.org,+34 974291937
+7781,Sigfrido Jaén,Programacion,5,4,18.0,Femenino,Álava,maria-jesusfernandez@example.com,+34986 855 538
+9670,Josefina Córdoba,Programacion,4,3,18.0,Masculino,Zamora,cabrerapaulino@example.net,+34828 631 861
+6572,Victor Manuel Cantero,Programacion,5,5,19.0,Femenino,Zamora,vinanazaret@example.org,+34 941 958 585
+9944,Gertrudis Cañas,Fisica,9,7,23.0,Femenino,Zaragoza,kvalles@example.org,+34 743 956 091
+1027,Asdrubal Conde,Programacion,6,4,20.0,Femenino,La Coruña,,+34842 42 48 53
+1392,Mariana Ávila,Fisica,7,3,23.0,Femenino,Álava,sanchezjoaquina@example.org,+34849684244
+4819,Agustín Trujillo,Matematicas,7,5,20.0,Femenino,Álava,maria-joselloret@example.com,+34 927 88 58 08
+6327,Remigio Flor,Matematicas,4,3,18.0,Masculino,Teruel,vigilelisabet@example.org,+34 981 02 20 95
+6683,Estefanía Macias,Matematicas,8,7,22.0,Femenino,Teruel,dmadrigal@example.org,+34 832 379 591
+1215,Fabiola Delgado,Fisica,4,4,18.0,Masculino,Lugo,zpalmer@example.net,+34881194686
+4230,Leandro Herranz,Fisica,4,4,23.0,Masculino,Córdoba,kballester@example.com,+34 942 930 148
+8922,Alejandro Bonet,Matematicas,3,3,20.0,Femenino,La Coruña,jaumecruz@example.org,+34 942 37 63 60
+6729,Clotilde Mesa,Fisica,8,4,23.0,Femenino,Albacete,losajosep@example.com,+34 887649813
+5746,José Manuel Farré,Programacion,9,5,20.0,Masculino,Albacete,obenavides@example.com,+34944 73 67 48
+9255,Amancio Manrique,Fisica,3,3,25.0,Femenino,Ourense,roxanajover@example.com,+34 972479170
+4556,Dimas Salas,Matematicas,3,4,19.0,Femenino,Cuenca,marco62@example.org,+34 843 87 80 14
+3248,Lucho Gelabert,Matematicas,5,4,18.0,Femenino,Álava,tudelanarcisa@example.net,+34 925 038 565
+5215,Dalila Delgado,Fisica,3,1,19.0,Masculino,,fabiolabadia@example.org,+34 986 432 707
+3362,Hilda Morell,Fisica,8,5,18.0,,Cuenca,yesica80@example.net,+34935119322
+4469,Camila Juan,Matematicas,7,3,24.0,Masculino,Cádiz,kbalaguer@example.com,+34719878061
+8692,María Cristina Sobrino,Matematicas,9,7,18.0,Femenino,Badajoz,teresa47@example.com,+34 982890872
+3638,Jose Francisco Téllez,Fisica,8,3,19.0,,Toledo,lolamulet@example.org,+34827860186
+7504,Marina Valverde,Fisica,3,1,24.0,Femenino,Albacete,marcelino09@example.net,+34 832278256
+1077,Jerónimo Alcalde,Programacion,4,3,19.0,Masculino,Navarra,ccobos@example.net,+34974 823 607
+8817,Cirino Reguera,Matematicas,7,8,21.0,Masculino,Huelva,,+34820298974
+5796,Hermenegildo Caparrós,Fisica,4,3,23.0,Femenino,Melilla,valentina21@example.com,+34 822 26 68 48
+1588,Hernán Catalán,Fisica,10,8,19.0,Femenino,Valencia,,+34846 409 285
+7799,Armando Blasco,Fisica,7,6,22.0,Masculino,,oscar47@example.net,+34973006720
+5768,Rodolfo Esparza,Matematicas,8,5,20.0,Masculino,Cantabria,hectorpatino@example.net,
+9684,Natalio Canales,Programacion,10,6,,Masculino,Ceuta,alvaradojeremias@example.com,+34843 20 87 15
+6374,Elpidio Pazos,Fisica,1,3,21.0,Femenino,Castellón,aitorvidal@example.net,+34746 043 974
+6106,María Ávila,Programacion,6,3,18.0,Masculino,Navarra,cardenasvictor@example.org,+34971859435
+7515,Felipa Pozo,Matematicas,7,8,23.0,Femenino,Valencia,nvalderrama@example.net,+34922349770
+3319,Baldomero Murcia,Programacion,4,1,24.0,Femenino,Ourense,yolanda30@example.com,+34 962 72 88 98
+5885,Alfonso Gimeno,Programacion,10,6,22.0,Masculino,Huelva,carmencuevas@example.org,+34 855 97 54 43
+3198,Moisés Valencia,Programacion,8,6,19.0,Femenino,Córdoba,alsinaasdrubal@example.net,+34872559747
+1762,Kike Blasco,Matematicas,3,3,19.0,Masculino,Tarragona,polherberto@example.org,+34986 703 641
+2883,Anacleto Burgos,Matematicas,2,1,,Masculino,,albert81@example.com,+34843 03 94 25
+1859,Cipriano Haro,Fisica,10,8,20.0,Masculino,Teruel,armidaibanez@example.org,+34 985 23 35 74
+9291,Tamara Guillen,Fisica,5,3,25.0,Masculino,Huesca,caballerosabas@example.com,+34 861 52 12 64
+7558,Vilma Sebastián,Fisica,5,3,,Masculino,Badajoz,genovevauria@example.com,+34 900 832 414
+6876,Carmina Llorente,Programacion,5,3,25.0,Masculino,Guadalajara,zgomis@example.com,+34884 776 418
+6878,Feliciano Bárcena,Programacion,10,8,24.0,Masculino,Ciudad,,+34927 781 776
+1886,Narcisa Mármol,Programacion,5,5,,Femenino,Baleares,hpalmer@example.net,+34901 291 932
+6520,Venceslás Hernández,Matematicas,5,3,25.0,Femenino,Valencia,fcollado@example.com,+34 941 293 288
+2355,Pablo Pelayo,Fisica,10,6,18.0,Femenino,Navarra,castejonester@example.net,
+7457,Jacinto Iborra,Matematicas,4,3,23.0,Femenino,Salamanca,,+34982921373
+8866,Daniela Farré,Programacion,5,4,22.0,Femenino,Alicante,benitaiborra@example.org,+34973 010 857
+1968,Cipriano Lobo,Fisica,10,7,25.0,Femenino,Santa Cruz de Tenerife,wsanchez@example.net,+34 869 93 64 72
+1232,Coral Giménez,Matematicas,5,7,23.0,Femenino,Las Palmas,cesarmerino@example.com,+34 901172804
+8954,Trinidad Torre,Fisica,6,2,25.0,Femenino,Barcelona,ullorente@example.com,+34 841732383
+4372,Javiera Huertas,Fisica,4,3,21.0,Femenino,Vizcaya,amor19@example.com,+34 974 472 902
+4298,Íngrid Heras,Fisica,6,4,22.0,Femenino,Valladolid,eiriarte@example.net,+34859514489
+8858,Adriana Almazán,Programacion,4,2,24.0,Femenino,Valencia,montananacho@example.org,+34 874 172 766
+9769,Alfonso Tudela,Fisica,10,8,22.0,Masculino,Málaga,,+34 966 56 19 97
+3169,Dorotea Correa,Programacion,4,3,18.0,Masculino,Tarragona,vbelmonte@example.net,+34822058573
+4244,Román Escudero,Matematicas,8,4,24.0,Masculino,Barcelona,yzabaleta@example.net,+34843623945
+3825,Catalina Madrid,Matematicas,0,0,24.0,Femenino,Pontevedra,lmarin@example.org,+34 982 29 62 68
+1515,Matías Pomares,Matematicas,8,6,18.0,Femenino,Valladolid,inocencio73@example.net,+34 886 783 772
+6154,Eugenio Roma,Programacion,8,8,20.0,Femenino,Granada,marinefrain@example.net,
+4550,Julieta Anglada,Fisica,6,5,18.0,Femenino,Cantabria,adaneutimio@example.org,+34941 22 48 08
+7657,Raquel Mayol,Matematicas,9,4,18.0,Masculino,Guadalajara,wfalcon@example.com,+34876 477 869
+6414,Visitación Espinosa,Matematicas,6,4,18.0,Masculino,Cantabria,diezsaturnina@example.com,
+7096,Ovidio Palomo,Programacion,10,8,22.0,Masculino,Jaén,toni59@example.net,+34886 031 598
+3910,Clotilde Nicolau,Programacion,2,3,22.0,Masculino,Málaga,dledesma@example.net,+34 888002190
+9333,Lázaro Narváez,Programacion,4,3,18.0,Femenino,Cádiz,mirtapaez@example.com,+34 949 88 56 91
+6974,Joan Marquez,Fisica,3,1,19.0,,Álava,etelvina85@example.net,+34987 676 865
+9997,Ruperta Nicolás,Fisica,7,4,18.0,Femenino,Cáceres,pascualhernan@example.org,+34 848 994 279
+4418,Lázaro Borja,Programacion,10,7,18.0,Masculino,Las Palmas,maximo46@example.net,+34 722 86 57 07
+9274,Olalla Coca,Matematicas,7,5,23.0,Masculino,Huesca,ortegadaniel@example.com,+34 719 218 259
+5054,Octavio Mendizábal,Programacion,10,8,20.0,Femenino,Palencia,,+34 710 437 396
+5614,Pío Bernad,Matematicas,5,2,18.0,Femenino,,estefaniavalera@example.com,+34871 383 009
+8595,Eduardo Jaén,Programacion,2,3,18.0,Femenino,Ávila,chita76@example.com,+34837 570 790
+3561,Quirino Ureña,Fisica,5,3,23.0,Femenino,Asturias,pintoarmando@example.org,+34 873 40 03 65
+4529,Elvira Calvet,Matematicas,4,1,20.0,Masculino,Granada,lisandro48@example.org,+34957 87 53 59
+5272,Rosenda Amat,Fisica,6,3,18.0,Femenino,Vizcaya,faustoblazquez@example.net,+34 922 39 82 85
+7991,Pedro Alba,Matematicas,5,4,18.0,Masculino,Barcelona,guadalupegarrido@example.com,+34827 359 894
+9446,Natividad Murcia,Matematicas,5,4,21.0,Masculino,Huesca,jorge18@example.net,+34846 96 85 82
+6531,Juan Luis Castellanos,Programacion,3,3,23.0,Femenino,Tarragona,valentina40@example.org,+34 941 810 112
+1931,Ale Rosselló,Matematicas,7,5,24.0,Femenino,Badajoz,mauricio94@example.com,+34980266974
+9205,Yésica Corbacho,Programacion,7,3,,Masculino,Málaga,timoteomenendez@example.net,+34911 08 46 84
+5533,Manola Heras,Fisica,6,7,20.0,Femenino,Badajoz,xtormo@example.org,+34 980 789 759
+8494,Zaida Carnero,Programacion,4,3,21.0,Femenino,Cádiz,tudelamarisela@example.net,
+9970,Verónica Gómez,Fisica,0,0,20.0,Masculino,Salamanca,pio22@example.org,+34 938 22 79 90
+5217,Sabina Rosell,Fisica,7,4,23.0,Masculino,,nmacias@example.com,+34988111890
+2323,José Ángel Ariño,Programacion,8,7,19.0,Femenino,Baleares,virginia64@example.org,+34826 470 812
+5264,Elodia Casas,Matematicas,6,5,22.0,Femenino,Ourense,dferrando@example.org,+34821 981 087
+2268,Feliciano Aragonés,Fisica,2,0,22.0,Masculino,Córdoba,rufinapaniagua@example.net,
+5879,Patricia Calzada,Matematicas,7,4,23.0,Femenino,Albacete,sguijarro@example.net,+34986163124
+9192,Irma Zorrilla,Fisica,5,4,20.0,Masculino,Valladolid,aureliano15@example.com,+34928 19 46 50
+6411,Odalis Hernandez,Fisica,1,4,22.0,Femenino,Sevilla,timoteojordan@example.org,+34883473265
+4470,Ruperto Carbó,Programacion,8,5,24.0,Femenino,Madrid,galvezambrosio@example.org,+34901 17 31 44
+2798,Rosaura Higueras,Programacion,7,5,18.0,Femenino,La Coruña,qpavon@example.org,+34738899678
+9792,Felipe Correa,Fisica,3,3,19.0,Masculino,Cáceres,iriartemaria-carmen@example.com,+34921 058 554
+2348,Maricruz Ledesma,Programacion,4,1,21.0,Masculino,Teruel,ismaelcastello@example.org,+34 872 65 94 88
+2125,Diana Rivera,Fisica,6,5,23.0,Femenino,La Rioja,pgalindo@example.com,
+8007,Renato Torrijos,Fisica,6,4,22.0,,Tarragona,jose-mariaalmansa@example.org,+34 928 96 74 51
+2947,Jose Miguel Font,Programacion,6,5,19.0,Masculino,Málaga,oliverasemigdio@example.org,+34876102529
+5722,Oriana Calvet,Programacion,3,1,,Masculino,Badajoz,aledaza@example.net,+34 942132857
+7723,Plinio Millán,Fisica,5,5,18.0,Femenino,Ceuta,costamelisa@example.net,+34 872 916 080
+8970,Consuela Bravo,Programacion,8,5,19.0,Femenino,,amadogonzalo@example.org,+34984 43 26 85
+9617,Maricruz Pomares,Fisica,6,5,23.0,Masculino,Badajoz,lupe69@example.org,+34 944581754
+5877,Elba Gomila,Matematicas,6,4,19.0,Femenino,,,+34941 520 401
+9063,Albino Porcel,Fisica,0,0,21.0,Femenino,Baleares,eduantunez@example.org,+34 675 969 682
+7824,Mauricio Bautista,Fisica,7,5,18.0,Masculino,Las Palmas,bbenavides@example.com,+34 976 737 969
+8661,Glauco Hernandez,Matematicas,3,3,19.0,Masculino,Ourense,abarral@example.com,
+7950,Jenny Alfaro,Fisica,6,4,24.0,Femenino,Barcelona,cocaevelia@example.org,+34888 242 737
+5419,Rómulo Busquets,Fisica,1,0,,Femenino,Almería,hortensia23@example.org,+34947 454 535
+5751,Matilde Berrocal,Fisica,5,6,18.0,Femenino,Santa Cruz de Tenerife,magdalena77@example.net,+34 981 80 48 93
+8652,José María Gil,Matematicas,3,3,25.0,Femenino,La Coruña,quique48@example.com,+34884 67 48 75
+1746,Eligio Carro,Matematicas,6,3,20.0,Masculino,La Coruña,federico63@example.com,+34 876 729 602
+4762,Luciano Ramirez,Programacion,7,4,20.0,Masculino,Málaga,fontrosa-maria@example.org,+34800 56 38 96
+7188,Milagros Garmendia,Matematicas,6,4,21.0,Masculino,Ciudad,barriolara@example.net,+34 949868024
+9532,Nereida Lorenzo,Fisica,7,4,18.0,Masculino,Málaga,segarraignacia@example.org,+34936 08 36 81
+1564,Soledad Castelló,Fisica,9,7,25.0,Masculino,Burgos,felicianadiez@example.net,+34822 577 840
+2945,Ester Mendez,Programacion,5,3,20.0,Masculino,Cuenca,xgarmendia@example.com,+34 937 24 10 44
+5268,Dolores Torrent,Programacion,5,1,25.0,Masculino,Madrid,hporcel@example.com,
+5177,Cornelio Valdés,Fisica,5,5,23.0,Masculino,Pontevedra,cayetanoblasco@example.org,+34 901748697
+9837,Primitiva Salazar,Programacion,8,5,23.0,Femenino,Córdoba,macarenaalberto@example.com,+34 849435922
+1711,Nerea Cantero,Matematicas,3,2,22.0,Masculino,Navarra,jarnal@example.org,+34 825060700
+6956,Quique Barrena,Fisica,7,5,18.0,Masculino,Palencia,eusebio63@example.net,+34843 735 836
+1106,Beatriz Hoz,Matematicas,6,5,19.0,Femenino,Cáceres,mayomiguel-angel@example.com,+34 945 567 161
+1754,Rubén Pont,Fisica,6,6,18.0,Masculino,Málaga,visitacioncarbonell@example.net,+34884215021
+8659,Leonor Iborra,Matematicas,9,4,21.0,Femenino,Baleares,vicentaarmengol@example.net,+34 971 436 049
+1937,Marisa Cobos,Programacion,5,3,24.0,Femenino,Toledo,yvillanueva@example.org,+34835 07 05 82
+5509,Ildefonso Tello,Fisica,7,5,24.0,Masculino,Valencia,atilio27@example.net,+34 971426497
+5082,Edmundo Gomez,Matematicas,5,4,20.0,Femenino,Lleida,tamayoremedios@example.net,+34 972 47 32 11
+6484,Ciriaco Montaña,Matematicas,5,3,22.0,Femenino,Ourense,urosello@example.net,+34874 107 029
+5150,Chus Segura,Programacion,4,1,20.0,Masculino,Zaragoza,maite80@example.org,+34 847 73 79 77
+8193,Trinidad Roda,Programacion,4,3,23.0,Masculino,Huelva,amparo79@example.net,+34885 777 771
+9721,Dani Prada,Fisica,2,1,25.0,Masculino,Valladolid,tluz@example.net,+34972 927 046
+3479,Ibán Paniagua,Matematicas,6,3,19.0,Femenino,Navarra,rosa92@example.net,+34 919 037 233
+4134,Benigna Fuster,Fisica,7,6,23.0,Masculino,Valencia,leonsebastian@example.com,+34 964213767
+5094,Esteban Mayo,Matematicas,4,1,21.0,Masculino,Zaragoza,enriquezadelina@example.com,+34926 197 220
+8120,Lucio Menendez,Fisica,7,3,19.0,Masculino,Burgos,tomaspelayo@example.com,+34 933 748 424
+7309,Macaria Ropero,Fisica,6,4,23.0,Masculino,Cádiz,nadia68@example.com,+34 949 95 96 09
+2289,Darío Ferrán,Matematicas,10,6,21.0,Femenino,Huelva,guiomarlluch@example.com,+34821372922
+5748,Manuel Mármol,Matematicas,5,1,24.0,Masculino,Soria,marcianocodina@example.net,+34 713045997
+2397,Clemente Aznar,Fisica,4,3,23.0,Femenino,Valencia,luqueberta@example.org,+34 901 228 916
+2825,Reyna Perea,Programacion,3,3,21.0,Femenino,Granada,donato09@example.net,+34 920 421 597
+1702,Virginia Herrera,Matematicas,3,1,24.0,Femenino,Madrid,eladio93@example.com,+34 701 75 87 24
+7660,Agustín Castells,Programacion,8,4,25.0,Femenino,Huelva,nacio39@example.com,+34 928 47 56 59
+3885,Dan Alberola,Fisica,9,7,23.0,Femenino,La Rioja,saavedraana@example.com,+34 945754655
+5733,Celestino Donoso,Programacion,4,3,22.0,Masculino,Lugo,hectorvalcarcel@example.org,+34984 154 519
+6196,Valeria Armengol,Programacion,9,5,24.0,Femenino,Palencia,ferrandezblas@example.net,+34 871 43 16 71
+1681,Ignacia Menéndez,Matematicas,5,3,22.0,Femenino,Castellón,llopismacaria@example.net,+34 948 327 629
+8936,Carolina Pinilla,Matematicas,2,3,20.0,Femenino,Ceuta,wayuso@example.net,+34 851 410 257
+2769,Seve Tudela,Programacion,5,3,24.0,Femenino,Madrid,arenasaraceli@example.com,+34942 42 67 46
+8521,Amaro Tomas,Matematicas,5,2,22.0,,Sevilla,franchalonso@example.net,+34 877 829 945
+3737,Santos Olmo,Programacion,8,6,19.0,,Ourense,gallardovidal@example.net,+34 981 530 082
+7555,Leocadio Cal,Programacion,8,5,19.0,Masculino,Castellón,acortes@example.com,+34 910 781 888
+8462,Nydia Jove,Fisica,5,3,23.0,Femenino,Baleares,carrillopepita@example.org,+34 722270860
+3155,Aitana Lamas,Programacion,3,3,25.0,Masculino,Ávila,utejedor@example.com,+34885141634
+5723,Tito Diaz,Fisica,7,6,23.0,Femenino,Granada,nildalumbreras@example.net,
+9170,Kike Catalán,Matematicas,7,6,21.0,Femenino,Lugo,ferrerasfernanda@example.org,+34972225176
+5550,Marcio Jerez,Programacion,4,3,20.0,Masculino,Almería,avalencia@example.com,+34 974 477 203
+3982,Telmo Buendía,Fisica,4,4,23.0,Masculino,Huelva,gabino78@example.org,+34875 302 034
+7257,Leoncio Aguirre,Fisica,8,5,20.0,Masculino,Álava,barrancotristan@example.net,+34975034382
+5455,Sol Romeu,Fisica,5,3,20.0,Masculino,Salamanca,juan-manuel81@example.net,+34 843 818 490
+1040,Estrella Llano,Programacion,5,4,21.0,,Lugo,amarilispina@example.com,+34 882 426 279
+5190,Ainara Ramírez,Matematicas,6,5,24.0,Masculino,Castellón,rosauralujan@example.com,+34 845 89 65 43
+8332,Celso Coloma,Programacion,6,4,22.0,Femenino,Valladolid,eparejo@example.com,+34883 604 306
+1696,María Luisa Barba,Fisica,4,5,19.0,Femenino,La Rioja,rufina63@example.com,+34 901 80 55 90
+8295,Marisa Pazos,Programacion,5,2,21.0,Masculino,,delgadorafa@example.org,+34842804543
+2311,Consuela Barragán,Fisica,4,3,24.0,Masculino,,mendizabaljimena@example.net,+34948 01 65 22
+3864,Amanda Diaz,Matematicas,2,3,19.0,Masculino,Burgos,tomasjordana@example.net,+34 846 796 237
+8147,Marcial Lluch,Fisica,0,1,25.0,Masculino,Guipúzcoa,ramona68@example.net,+34 943 57 17 92
+5483,Carmelita Angulo,Fisica,4,3,22.0,Femenino,Teruel,titosala@example.org,+34 833 04 47 76
+5599,Gertrudis Frutos,Matematicas,5,3,25.0,Masculino,Ciudad,mireiaaragones@example.org,
+2703,Marta Losada,Matematicas,7,4,22.0,Femenino,Zaragoza,angeldominguez@example.org,+34 878932585
+6132,Paco Gisbert,Fisica,2,1,21.0,Masculino,Girona,ivanraya@example.com,+34820 584 840
+4531,Claudia Llanos,Matematicas,9,5,21.0,Masculino,Álava,ngallo@example.org,+34871 654 901
+6752,Marco Andrés,Programacion,4,0,18.0,Femenino,Guadalajara,rosacabo@example.net,+34 882313222
+5466,Reyes Reina,Programacion,8,5,20.0,Masculino,Sevilla,tmoya@example.net,+34 823 00 41 32
+6039,Perlita Luz,Matematicas,4,3,18.0,,Guipúzcoa,vrozas@example.com,+34 926100477
+5409,Georgina Rubio,Programacion,4,0,21.0,Masculino,Ciudad,kizquierdo@example.com,+34902 45 96 20
+3197,Consuelo Cañas,Fisica,10,7,18.0,Masculino,Zamora,qcuenca@example.net,
+1524,Dionisio Antón,Matematicas,9,6,23.0,Masculino,Madrid,barrenaandrea@example.org,+34 921372948
+7127,Lina Bosch,Programacion,6,5,23.0,Femenino,Melilla,modesto62@example.net,+34 977 93 39 46
+1657,Zoraida Carrión,Matematicas,1,3,23.0,Masculino,Cáceres,ebanos@example.org,+34 826 15 95 41
+7567,Eliseo Alcántara,Programacion,7,2,19.0,Femenino,Córdoba,pradogema@example.com,+34 873444104
+9095,Dimas Pujol,Matematicas,3,3,22.0,Masculino,Teruel,toribio82@example.com,+34846698504
+6789,Sigfrido Plaza,Fisica,2,0,22.0,Masculino,Burgos,josefina36@example.org,+34820 089 040
+7583,Toribio Patiño,Fisica,7,1,24.0,Masculino,Lleida,zacedo@example.net,+34874999633
+3497,Leonor Olivé,Matematicas,5,3,18.0,Masculino,Pontevedra,hector44@example.com,+34 976 53 73 71
+9983,Benito Casas,Programacion,6,3,23.0,Femenino,Toledo,,+34732 90 27 60
+6005,Manolo Busquets,Programacion,3,3,20.0,Femenino,Toledo,guiomarroca@example.com,+34 982 113 039
+1136,Maura Camps,Matematicas,3,4,24.0,Masculino,Barcelona,sbermudez@example.com,+34901 72 19 39
+3258,Eladio Paredes,Programacion,9,8,21.0,Masculino,,constanza65@example.org,+34971 50 35 34
+9603,Tatiana Fábregas,Programacion,7,3,,Femenino,Zaragoza,amarilisalfaro@example.com,+34 856 79 26 67
+1419,Loreto Muñoz,Matematicas,4,3,18.0,Femenino,Soria,gparra@example.net,+34 806 267 856
+7494,Dominga Jaén,Programacion,4,3,,Femenino,Palencia,ordonezmaria@example.net,+34847511930
+1972,Nieves Leon,Fisica,7,5,21.0,Masculino,Málaga,svinas@example.com,
+3349,Olga Tejedor,Programacion,8,4,24.0,Masculino,Soria,qginer@example.com,+34 926 07 71 12
+4920,Eusebio Cuenca,Matematicas,3,3,24.0,Masculino,Ávila,,+34 874270439
+8319,Edu Francisco,Matematicas,3,3,22.0,Femenino,Huelva,isaiasbolanos@example.net,+34 880853420
+3814,Nerea Maldonado,Matematicas,6,5,23.0,Masculino,Castellón,julie90@example.com,+34941763372
+8410,Isa Donaire,Fisica,6,2,25.0,Femenino,Toledo,claramorante@example.com,+34 974 921 722
+9183,Olalla Redondo,Matematicas,8,5,21.0,Femenino,Tarragona,bernaljulieta@example.net,+34882582375
+3512,Rodrigo Ayala,Matematicas,5,3,20.0,,,uuriarte@example.org,+34 973841123
+6066,Mónica Yáñez,Programacion,10,7,18.0,Masculino,Almería,adrian69@example.com,+34 923 491 978
+2935,Lilia Rosales,Programacion,6,4,25.0,Masculino,La Rioja,reyes18@example.org,+34 830 15 30 59
+7013,Fanny Ugarte,Programacion,8,5,18.0,Masculino,Soria,vazquezcristian@example.net,+34 699 13 74 08
+5952,Paloma Plaza,Programacion,1,0,22.0,Femenino,Cantabria,matadavid@example.com,+34 701614103
+6871,Clementina Nogueira,Programacion,5,3,20.0,Masculino,Huelva,joel68@example.net,+34 981386738
+3880,Rosario Bustos,Matematicas,9,5,23.0,,Asturias,danielamendizabal@example.net,+34 879 80 05 33
+8555,Ciríaco Valentín,Fisica,8,6,20.0,Masculino,Palencia,armando21@example.com,+34 821412290
+5058,Humberto González,Matematicas,4,3,24.0,,Córdoba,elipaniagua@example.org,+34976 13 34 03
+3964,Jesús Roig,Fisica,2,1,23.0,Masculino,Ávila,merche25@example.org,+34876 42 57 65
+6103,Marco Peñas,Matematicas,7,3,18.0,Femenino,Las Palmas,rita53@example.org,+34 911 413 110
+3494,Lorenzo Escobar,Matematicas,7,6,23.0,Masculino,Guipúzcoa,,+34 934 342 556
+4096,Ana Falcó,Fisica,4,3,24.0,Femenino,Ourense,evaristo84@example.com,+34986 50 84 81
+1297,Marcial Clavero,Fisica,6,4,20.0,Masculino,Ávila,ecarbajo@example.net,+34848 242 005
+7094,Elvira Cervantes,Fisica,4,4,18.0,Masculino,Zamora,uvilanova@example.com,+34 967 059 875
+9002,Chus Herrera,Matematicas,4,3,25.0,Masculino,Santa Cruz de Tenerife,alarconomar@example.com,
+5331,Mireia Ruiz,Programacion,4,3,20.0,Femenino,Tarragona,celia34@example.org,+34807271414
+6144,José Manuel Cepeda,Matematicas,7,3,22.0,Masculino,Tarragona,carolinasegarra@example.org,+34 922 133 358
+4668,Heliodoro Amorós,Matematicas,7,4,20.0,Femenino,Girona,vgrau@example.net,+34 822 77 83 14
+6795,Adora Girón,Fisica,7,4,21.0,Masculino,Almería,carmen49@example.net,+34 710 055 586
+4502,Carmela Nadal,Fisica,6,5,18.0,Femenino,Las Palmas,mbelda@example.com,+34 883 99 67 47
+5640,Joan Rivero,Programacion,6,5,23.0,Femenino,Cuenca,abascaltomas@example.net,+34 825998737
+6674,Mercedes Carbonell,Fisica,6,5,20.0,Masculino,Ciudad,,+34925 164 824
+1860,Leocadia Miró,Programacion,3,3,19.0,Femenino,Huelva,morenocasals@example.com,+34983 788 178
+7181,Jordana Sureda,Matematicas,9,3,18.0,Femenino,Teruel,gayaalonso@example.org,+34 985 85 77 35
+1228,Ramona Rovira,Fisica,2,3,18.0,Masculino,La Coruña,iramis@example.net,+34 926 82 03 73
+2079,Jafet Morán,Matematicas,6,3,19.0,Femenino,Asturias,duranhortensia@example.net,+34 988 53 18 08
+6994,Germán Grau,Programacion,4,4,18.0,Masculino,Burgos,novoacustodia@example.org,+34 958 487 104
+1355,Javiera Ureña,Programacion,7,5,25.0,,Zamora,esparzagalo@example.net,+34 873803206
+8233,Luciana Alberto,Programacion,6,5,22.0,,Guadalajara,ricarda29@example.org,+34 697 456 860
+6349,Lucas Casas,Matematicas,3,3,22.0,Masculino,Ciudad,eduardorobledo@example.com,+34 807 08 97 57
+3403,Octavia Carranza,Programacion,3,3,,Femenino,Valladolid,felisa13@example.com,+34978 31 72 77
+8522,Armando Huertas,Programacion,10,5,23.0,Femenino,Salamanca,aragonesamilcar@example.org,+34 743 80 97 23
+1091,Berto Zaragoza,Matematicas,6,4,24.0,Masculino,Cáceres,joaquin80@example.com,+34 882 735 700
+9689,Martín Mascaró,Matematicas,5,4,21.0,Femenino,Albacete,josue61@example.org,+34711468294
+3299,Evita Olmedo,Programacion,6,3,20.0,Femenino,Santa Cruz de Tenerife,baudelio24@example.org,+34 701256350
+5970,Hilda Sola,Fisica,9,7,25.0,Femenino,Teruel,elisabetcosta@example.com,+34 825238190
+1902,Trinidad Solana,Fisica,4,5,22.0,Masculino,Badajoz,andradesantiago@example.net,+34873645755
+8427,Marc Zabaleta,Matematicas,5,3,18.0,Masculino,Madrid,ferrandezfebe@example.org,+34818 076 813
+3727,Hernán Gelabert,Matematicas,3,0,23.0,Masculino,Ceuta,brunopascual@example.net,+34822 41 37 12
+8268,Anna Carlos,Matematicas,8,8,25.0,Femenino,La Coruña,marcmarquez@example.net,+34962 88 79 06
+1300,Sandra Rozas,Matematicas,8,3,19.0,Masculino,Girona,joverandres-felipe@example.org,+34921 585 272
+7400,Reina Mínguez,Matematicas,6,4,23.0,Masculino,Cuenca,vera67@example.org,+34 945 958 244
+3781,Luis Miguel Conesa,Matematicas,5,2,22.0,Femenino,Cantabria,lrocamora@example.net,+34 822 39 32 35
+1846,Luisina Rojas,Fisica,6,3,21.0,Masculino,Girona,rosalindacervantes@example.com,+34972 78 76 31
+2152,Angelita Parejo,Programacion,9,8,25.0,Masculino,Las Palmas,vquiroga@example.net,+34 841877631
+4328,Ani Seguí,Programacion,8,6,21.0,Femenino,La Rioja,zorrillacintia@example.org,+34873937704
+7240,Eric Godoy,Matematicas,3,3,,,Segovia,xmendez@example.net,+34 947733216
+2908,Nadia Vilar,Matematicas,5,4,23.0,Masculino,Segovia,alvaro45@example.org,+34 873 077 626
+7173,Edgardo Manjón,Matematicas,5,3,25.0,Femenino,León,,+34 877 029 363
+8557,Felix Pulido,Programacion,4,1,23.0,Femenino,Girona,isidoro25@example.org,+34 879 19 46 89
+3117,Clara Cánovas,Fisica,7,5,19.0,Femenino,Cantabria,zcolom@example.org,+34975796742
+5793,Francisco Jose Duque,Fisica,10,8,21.0,Femenino,Cádiz,adalberto11@example.net,
+5714,Perla Arroyo,Fisica,4,4,25.0,Masculino,Vizcaya,rvinas@example.org,+34 926 988 443
+9208,Carmen Madrigal,Programacion,5,3,21.0,Masculino,Navarra,vicenta04@example.org,+34 926716752
+7874,Ángela Albero,Matematicas,5,0,18.0,Femenino,Burgos,clotildealberdi@example.net,+34924849787
+6351,Emigdio Martin,Matematicas,5,3,23.0,Femenino,Cuenca,uluis@example.com,+34 843 96 48 42
+8600,Galo Busquets,Fisica,5,3,18.0,Femenino,Castellón,arcelia21@example.org,+34 843 52 88 67
+7100,Olimpia Amat,Programacion,6,5,19.0,Femenino,Palencia,teofilosalgado@example.org,+34924 674 202
+7255,Alcides Manzanares,Programacion,7,5,21.0,Femenino,Santa Cruz de Tenerife,,+34827 118 867
+6708,Modesto Hervás,Fisica,9,8,20.0,Masculino,Cuenca,miguela83@example.com,+34 886 27 94 90
+2560,Pío Céspedes,Fisica,0,0,24.0,Masculino,Asturias,spellicer@example.org,+34 888 42 22 88
+4845,Manola Torrens,Matematicas,5,3,18.0,Femenino,Valencia,ktormo@example.net,+34978 678 038
+1076,Francisco Jose Isern,Fisica,3,1,25.0,Masculino,Cáceres,aroagarzon@example.org,+34973 559 286
+4627,Ángeles Arana,Fisica,5,5,,Femenino,Jaén,cruz38@example.com,+34 985050595
+4349,Nicolás Rodríguez,Matematicas,6,4,20.0,Femenino,Castellón,ulisessebastian@example.com,+34987 09 34 23
+8665,Cristian Nieto,Matematicas,8,5,25.0,Masculino,Toledo,pastorgamez@example.com,+34923 54 27 49
+7654,Dionisia Vaquero,Matematicas,8,5,25.0,Femenino,Cuenca,,+34 885266944
+7508,Clementina Taboada,Fisica,3,3,19.0,Masculino,Ceuta,tania34@example.org,+34825158732
+2548,Nicolasa Escudero,Programacion,10,8,23.0,Masculino,Guadalajara,mario49@example.com,+34 803975247
+2660,Mariano Sala,Programacion,8,5,,Masculino,,castromaura@example.org,+34877 99 88 19
+7741,Zacarías Marquez,Matematicas,9,6,20.0,Masculino,Las Palmas,debora97@example.net,+34861 877 003
+3863,Azeneth Arana,Fisica,1,1,18.0,Femenino,Pontevedra,iaguado@example.org,+34 807 465 624
+3042,Irene Pintor,Programacion,10,8,22.0,Femenino,Albacete,ainoa95@example.org,+34 973 13 59 39
+1068,Amaro Gisbert,Fisica,10,8,22.0,Masculino,Ciudad,benita69@example.net,+34 972 23 64 93
+6321,Edelmira Hoyos,Matematicas,5,4,24.0,Masculino,Ciudad,almudena01@example.com,+34824 96 47 14
+9096,Miguel Salom,Matematicas,8,4,24.0,Femenino,Segovia,sansmorena@example.org,+34 980 467 540
+7090,Rosalina Rosales,Fisica,4,3,25.0,Masculino,Granada,qvillena@example.net,+34826085058
+5571,Delia Soler,Fisica,7,6,24.0,Femenino,Huelva,oliviaparedes@example.net,+34 949 167 347
+2296,María Pilar Iglesia,Fisica,7,5,,Masculino,Navarra,diegobenitez@example.com,+34825967280
+2762,Lina Sierra,Fisica,2,2,25.0,Femenino,Barcelona,jafetcalvet@example.net,+34821 480 982
+8318,José Antonio Alsina,Fisica,5,4,20.0,Masculino,Navarra,zsalinas@example.com,+34 941666139
+6245,Nydia Bou,Fisica,2,1,20.0,Masculino,Córdoba,patinoflorencia@example.com,+34 902036134
+2052,Gil Avilés,Matematicas,5,1,24.0,Masculino,Cádiz,rzurita@example.net,+34 942856974
+3673,Casandra Aller,Fisica,8,5,,Masculino,Asturias,teodoraballester@example.com,+34 973 62 45 06
+9142,Adora Córdoba,Fisica,6,4,25.0,Femenino,Zamora,hgrande@example.com,+34828 959 856
+8013,Fabián Huguet,Programacion,4,3,20.0,Masculino,Melilla,benitogilberto@example.net,
+2157,Candela Abascal,Programacion,7,4,21.0,Masculino,Valladolid,palomarsoraya@example.com,+34985 215 766
+2602,Modesta Reguera,Programacion,3,0,18.0,Femenino,Álava,vilapatricia@example.net,+34849 999 600
+6539,María Ros,Matematicas,6,3,22.0,Masculino,Badajoz,pilar83@example.org,+34936306796
+9907,Miguel Ángel Murillo,Fisica,6,4,21.0,Masculino,Zamora,fortunata08@example.org,+34 949 566 595
+3637,Joaquina Nicolás,Matematicas,4,5,24.0,Masculino,Ourense,caseszaira@example.net,+34 928464307
+7115,Chita Losada,Fisica,7,5,25.0,Masculino,Huesca,gaguilar@example.com,+34827101082
+8647,Berta Cano,Matematicas,3,2,25.0,Masculino,Huesca,nazaretalmagro@example.com,+34 842316101
+6598,Paz Barberá,Matematicas,6,3,19.0,Femenino,Salamanca,baenafelicidad@example.net,+34 842 86 39 19
+8429,Paola Mate,Matematicas,10,7,25.0,Femenino,Asturias,barrenavalentin@example.org,+34 882736995
+7235,Rafaela Valenzuela,Matematicas,6,5,19.0,Femenino,Cuenca,leyre22@example.com,+34 800 679 685
+5584,Chema Maestre,Programacion,7,4,23.0,Masculino,Jaén,portilloale@example.net,+34882 955 249
+8452,Nélida Roig,Matematicas,4,3,21.0,Femenino,Burgos,vilaltadamian@example.net,+34 828 595 739
+1999,Rosendo Tejero,Fisica,9,4,24.0,Femenino,Almería,victorinosolana@example.com,+34 872 503 064
+3471,Asunción Marco,Fisica,4,3,23.0,Masculino,Pontevedra,qparejo@example.com,+34873848705
+1105,Aurora Aranda,Programacion,6,4,25.0,Masculino,Guipúzcoa,primitivorocha@example.org,+34 806 459 720
+7831,César Santiago,Matematicas,3,1,22.0,Femenino,Santa Cruz de Tenerife,evaristo33@example.net,+34 817 23 00 56
+5473,Marcela Palau,Fisica,5,3,19.0,Femenino,Santa Cruz de Tenerife,miguel-angelzurita@example.org,+34880 71 06 98
+6558,Quique Collado,Matematicas,6,5,23.0,Masculino,,bienvenida91@example.org,+34 827 907 250
+3432,Manola Huertas,Matematicas,8,7,23.0,Masculino,La Rioja,victor69@example.org,+34928119302
+9371,Rosalía Duarte,Fisica,5,3,25.0,Masculino,Valencia,palominoelisabet@example.net,+34986 29 52 07
+1611,Rosenda Boada,Fisica,5,3,18.0,Femenino,Toledo,onofre68@example.org,
+1964,Olga Mendez,Matematicas,8,3,19.0,Masculino,Segovia,modestogalvez@example.com,+34800757861
+8962,Brígida Talavera,Matematicas,8,4,22.0,Femenino,Ávila,octaviocarvajal@example.net,+34735 65 04 88
+7641,Consuelo Montaña,Matematicas,5,4,23.0,Femenino,Valencia,andres-felipejaume@example.org,+34827 443 359
+9924,Lorena Falcó,Fisica,5,3,18.0,Femenino,Madrid,bbaron@example.org,+34 944162399
+6008,Vicente Español,Matematicas,6,3,21.0,Femenino,Barcelona,carlos67@example.com,+34831385688
+2026,Buenaventura Guillen,Programacion,7,5,24.0,Masculino,Barcelona,regina93@example.net,+34 873 09 55 77
+3273,Jennifer Salmerón,Matematicas,5,3,22.0,Masculino,Cantabria,hbarriga@example.org,+34822 166 820
+2886,Rodolfo Rojas,Fisica,6,3,23.0,Femenino,,primitivobello@example.net,+34 846 52 68 32
+8428,Lina Segura,Matematicas,4,3,18.0,Masculino,Huesca,mferreras@example.com,+34 984 69 12 50
+3383,Pancho Amorós,Fisica,10,8,18.0,Masculino,Baleares,teremanjon@example.net,+34 988348559
+6247,Ricarda Sierra,Programacion,6,3,22.0,Masculino,Málaga,itziar86@example.net,+34 974 63 11 13
+5373,Vera Dueñas,Fisica,2,0,,Masculino,Baleares,manuela73@example.com,+34849 807 618
+4961,Vicenta Losa,Fisica,8,6,20.0,Masculino,Guadalajara,oscar95@example.com,+34921007385
+3050,Piedad Bertrán,Fisica,4,3,,Femenino,Cáceres,anieto@example.com,+34 844436402
+1701,Josefa Bastida,Matematicas,8,5,19.0,Femenino,Albacete,teresita23@example.com,+34983424761
+7318,Rico Frías,Fisica,10,5,20.0,,Sevilla,ibarba@example.org,+34982 47 98 38
+6230,Lucio Vilanova,Programacion,7,4,23.0,Femenino,Alicante,julietagarriga@example.net,+34873 80 44 80
+3336,Reyna Bravo,Matematicas,7,5,19.0,Femenino,Soria,ybarba@example.org,+34 878 24 70 73
+9423,Ágata Mancebo,Programacion,7,4,25.0,Femenino,Pontevedra,qserna@example.com,+34 853 502 576
+4773,Alexandra Guitart,Programacion,2,1,22.0,Masculino,Almería,gvilaplana@example.org,+34 854 525 088
+9577,Virginia Barba,Matematicas,6,5,19.0,,Ciudad,pagustin@example.net,+34 921356146
+4929,Fabiola Porras,Fisica,10,8,24.0,Masculino,Melilla,rozasjulieta@example.com,+34 879 94 57 44
+1264,Mireia Bayo,Fisica,1,3,,Masculino,Cáceres,ulises48@example.org,+34 825 28 07 56
+6679,Félix Oller,Fisica,4,4,22.0,Femenino,Ciudad,barrigadesiderio@example.com,+34 848 40 50 91
+2024,Elvira Bello,Fisica,2,1,25.0,Masculino,Pontevedra,qraya@example.net,+34900 425 129
+1163,María Del Carmen Garrido,Fisica,3,3,18.0,Femenino,Girona,queroramiro@example.net,+34 948 658 580
+8194,Florentino Doménech,Programacion,4,4,24.0,Masculino,Castellón,albanocorbacho@example.com,+34 842 15 12 34
+6310,Cebrián Calvo,Programacion,6,5,21.0,Femenino,Cantabria,roldanvalentin@example.org,+34 856 632 148
+6999,Clímaco Lerma,Matematicas,5,5,20.0,Femenino,Navarra,jose-antonio66@example.net,+34 980 54 15 47
+3996,Jordana Mur,Fisica,2,1,20.0,Masculino,,melerosandra@example.net,+34 800 40 25 34
+7815,Itziar Arribas,Fisica,4,3,22.0,Femenino,Lugo,chaparrorufina@example.org,+34983723034
+4713,Mariana Pedro,Fisica,7,5,19.0,Femenino,Jaén,soriaangela@example.org,+34988 48 99 09
+3307,Isa Noriega,Programacion,7,3,19.0,Masculino,,diana75@example.com,+34 837 23 63 88
+1259,Adela Arias,Matematicas,7,5,21.0,Masculino,La Coruña,verajuan-francisco@example.net,+34 947 948 101
+6236,Candelas Alsina,Fisica,5,3,18.0,Masculino,Santa Cruz de Tenerife,,+34980962117
+9356,Eusebia Tamayo,Matematicas,6,4,25.0,Femenino,Tarragona,carbajozoraida@example.org,+34 822954218
+7570,Melisa Bonilla,Programacion,5,3,19.0,Femenino,Murcia,agomis@example.com,+34 972 33 51 28
+6353,Octavio Jerez,Fisica,0,0,25.0,Femenino,,leandro57@example.net,+34 974914402
+3181,Juan Antonio Noguera,Programacion,6,4,19.0,Femenino,,febe77@example.com,+34866 27 19 80
+9886,Paz Tovar,Fisica,4,2,23.0,Masculino,Girona,rupertomendez@example.com,+34939781416
+4331,Eva María Mendez,Matematicas,5,5,18.0,Femenino,Salamanca,hernandotur@example.net,
+1670,Francisco Javier Pareja,Fisica,6,3,21.0,Femenino,Badajoz,mauraquiroga@example.net,+34 825 043 561
+2241,Jenaro Cardona,Fisica,8,4,19.0,Femenino,León,valeria22@example.net,+34871784821
+1652,Julie Agudo,Programacion,4,3,,Masculino,,cerrohilda@example.com,+34971 23 39 27
+8684,Ester Pont,Matematicas,7,5,25.0,Masculino,Asturias,silvio51@example.com,+34941 291 865
+5300,Josefina Flores,Matematicas,6,5,22.0,Masculino,,clemente53@example.org,+34 978 01 60 40
+5810,Victor Company,Fisica,6,3,18.0,Femenino,Vizcaya,camponazaret@example.com,+34832 690 158
+1427,Amparo Medina,Programacion,8,8,19.0,Femenino,Huesca,salvador79@example.com,+34 823142163
+5334,Ainoa Cañete,Fisica,5,3,21.0,Masculino,Segovia,carmelaalfonso@example.net,+34 948823748
+3803,Ofelia Lerma,Programacion,5,4,20.0,Masculino,Jaén,candela15@example.net,+34880837933
+9235,Dimas Franco,Fisica,6,4,22.0,Masculino,,vpedrosa@example.com,+34 928 161 625
+9755,Lucía Ferreras,Programacion,10,7,22.0,Masculino,Cáceres,fmari@example.com,+34 927 37 13 71
+1674,Gabriel Fajardo,Fisica,8,7,22.0,Masculino,Murcia,zacariasmontalban@example.org,+34 947 75 86 59
+9978,Águeda Abellán,Matematicas,5,3,22.0,Masculino,Badajoz,ccoello@example.net,+34920788827
+1002,Benjamín Expósito,Matematicas,7,5,,Femenino,Segovia,dionisio44@example.com,+34925 927 383
+8846,María Del Carmen Nieto,Programacion,2,1,20.0,Femenino,La Rioja,luchopozuelo@example.org,+34949732640
+4340,Virgilio Alcaraz,Programacion,4,3,20.0,Femenino,Lleida,saturninofigueroa@example.net,+34 847 643 145
+2600,Jacinta Conesa,Fisica,6,3,20.0,Femenino,Valladolid,renataroman@example.com,+34 986 41 44 81
+5990,Loreto Abascal,Fisica,4,3,24.0,Femenino,Madrid,xreig@example.com,+34 848 153 284
+1764,Tamara Salvador,Matematicas,3,1,24.0,Masculino,Sevilla,luis90@example.net,+34 826 263 086
+2795,Cristina Arjona,Programacion,9,8,21.0,Femenino,Ourense,icuenca@example.org,
+3010,Loida Pedrero,Programacion,5,4,19.0,Masculino,La Rioja,pladavid@example.com,+34879 00 58 37
+5227,Fabián Posada,Matematicas,8,5,20.0,Femenino,Navarra,victoriano22@example.org,+34928800962
+4718,Gervasio Benito,Programacion,8,5,20.0,Femenino,,herminia54@example.org,+34 807 28 61 13
+7548,Bienvenida Olivera,Fisica,8,6,25.0,Masculino,Burgos,flora04@example.net,+34 847 230 758
+5922,Loida Carbajo,Programacion,4,4,21.0,Femenino,Cáceres,hoyosmarta@example.com,+34978 618 846
+1981,Irma Castillo,Programacion,10,8,18.0,Masculino,Ourense,palmiraanguita@example.net,+34 881 46 80 75
+9367,Pascuala Pelayo,Fisica,6,5,21.0,Femenino,Valencia,viveskike@example.com,+34800929160
+4764,Gabriela Asenjo,Fisica,7,7,18.0,Masculino,Málaga,olimpiaadadia@example.com,+34 877 620 934
+5206,Cornelio Tapia,Matematicas,8,7,24.0,Masculino,León,condeani@example.net,+34984074060
+6714,Silvestre Pellicer,Matematicas,1,1,22.0,Masculino,Tarragona,maria-del-carmenconesa@example.com,+34887 51 26 17
+8658,Custodio Cobo,Programacion,1,0,21.0,Masculino,Valladolid,lsandoval@example.net,+34825 168 069
+5165,Carmelo Rincón,Fisica,5,2,22.0,Femenino,Madrid,lupita57@example.com,+34 985 70 43 09
+8257,Montserrat Domínguez,Programacion,10,8,18.0,Masculino,Castellón,anitaarnal@example.org,+34848 098 287
+1493,Lupe Manjón,Fisica,4,3,21.0,Femenino,Badajoz,apoloniaalberola@example.org,+34 963375488
+6400,Ximena Contreras,Fisica,8,3,18.0,Femenino,Cádiz,azorincalista@example.net,+34 986382666
+5452,Odalis Saldaña,Programacion,2,1,18.0,Femenino,Córdoba,dafnealegria@example.net,+34 827649831
+1889,Juliana Ibañez,Programacion,5,5,22.0,Femenino,Huelva,felix85@example.org,+34 827 876 806
+6197,Eulalia Pinto,Programacion,5,2,18.0,,Melilla,teodora60@example.net,+34712605145
+2137,Valentín Fernandez,Fisica,9,5,19.0,,Toledo,mcases@example.net,+34 844 068 957
+3609,María Jesús Lucena,Fisica,4,3,20.0,Femenino,Almería,,+34 882 88 76 95
+9323,Andrés Belmonte,Programacion,4,4,24.0,Femenino,Zaragoza,paulino99@example.net,+34926677231
+6024,Dalila Yuste,Fisica,9,5,21.0,Masculino,Málaga,federico39@example.net,+34847 720 189
+4187,Gustavo Bello,Fisica,4,5,22.0,Masculino,Guadalajara,,+34820614473
+2713,Martín Alcolea,Programacion,4,4,20.0,Femenino,Valladolid,fdalmau@example.net,+34 841 675 751
+4811,Florencio Herranz,Fisica,10,7,22.0,Masculino,Jaén,emarosello@example.org,+34815 715 219
+1075,Feliciana Ricart,Matematicas,6,4,19.0,Femenino,Huelva,riverawilfredo@example.com,+34879 192 963
+4089,Jose Angel Tejada,Programacion,8,6,23.0,Masculino,,,+34988119943
+7447,Rogelio Hoz,Matematicas,5,3,20.0,Masculino,Jaén,apolinar33@example.org,+34886066498
+1330,Maximiano Atienza,Matematicas,5,5,21.0,Masculino,Málaga,tovarazahara@example.org,+34938103556
+7566,Noé Adadia,Matematicas,4,0,23.0,Femenino,Huelva,baenabernardino@example.com,+34820 695 228
+7772,Amancio Benitez,Matematicas,8,4,18.0,Masculino,Zamora,labril@example.org,+34 887725375
+4317,Víctor Rius,Matematicas,5,3,23.0,Femenino,Asturias,criadolucia@example.com,+34 888 82 94 16
+1870,Remedios Núñez,Programacion,7,5,18.0,Femenino,Albacete,alberoricardo@example.org,+34 987404249
+2572,Fortunato Valle,Programacion,10,6,20.0,Masculino,Ourense,qplana@example.org,+34 987219658
+6597,Amaro Gallardo,Fisica,7,5,22.0,Femenino,Ceuta,lbarcena@example.com,+34988 102 915
+9739,Nicanor Villa,Programacion,9,7,24.0,Masculino,Pontevedra,fabio72@example.org,+34 978 120 305
+4527,Miriam Roselló,Matematicas,6,3,24.0,Masculino,Barcelona,millanaureliano@example.com,+34 883466289
+1960,Cintia Barba,Programacion,6,2,21.0,,Valladolid,serrabienvenida@example.org,+34 825632868
+2032,Diego Mayoral,Matematicas,4,0,18.0,Masculino,Santa Cruz de Tenerife,manuelaclavero@example.com,+34882 409 698
+4011,Magdalena Feliu,Matematicas,5,3,20.0,Femenino,Palencia,llanosusana@example.org,+34 922761726
+4068,Lorenzo Galiano,Programacion,5,3,20.0,Femenino,Palencia,carbonellanna@example.com,+34 944613592
+4463,María Cristina Estévez,Matematicas,2,2,19.0,Femenino,Málaga,umanzanares@example.org,
+8629,Rosa Miralles,Matematicas,8,6,,Masculino,Salamanca,ygimenez@example.com,+34719 874 056
+1082,Aroa Ochoa,Matematicas,4,3,21.0,Femenino,Valencia,sgaray@example.net,+34985540623
+4843,Édgar Vergara,Matematicas,3,3,21.0,Masculino,Valencia,cadenasnatalia@example.com,+34 800143133
+8432,Quique Marcos,Matematicas,10,8,22.0,Femenino,Navarra,almudena75@example.org,+34849 424 292
+9239,Azahar Giralt,Programacion,7,6,22.0,Femenino,Segovia,aguilamarcial@example.net,+34824 06 73 30
+5396,Luis Ángel Bolaños,Programacion,6,3,19.0,Femenino,Melilla,iabad@example.org,+34 926692773
+3123,Lisandro Grande,Programacion,9,5,20.0,Masculino,Salamanca,ximenaibanez@example.com,+34 879353948
+7449,Custodia Tejero,Programacion,6,3,22.0,Femenino,Guipúzcoa,montanacipriano@example.org,+34 827018727
+5815,Vilma Ribes,Programacion,10,4,18.0,,Melilla,garciacasemiro@example.org,+34 874954874
+4174,Jennifer Cerezo,Programacion,3,1,25.0,Masculino,Álava,sernalucia@example.net,+34988 41 73 48
+5670,Juan Luis Iniesta,Matematicas,7,5,19.0,Femenino,Asturias,pellicerbernardo@example.org,+34 943 37 78 49
+8651,Silvia Barrena,Programacion,2,0,24.0,Femenino,Badajoz,brunildagisbert@example.net,+34979 659 241
+7482,Agustina Castillo,Programacion,10,6,23.0,Femenino,Albacete,cristianalegre@example.net,+34854165268
+4390,José Ángel Quintero,Fisica,9,6,21.0,,Córdoba,adoracionpalacios@example.com,+34922 501 473
+3467,Bernardo Mariscal,Programacion,6,5,25.0,Masculino,Ávila,beldamoreno@example.net,+34 986 577 848
+1924,Cipriano Domingo,Fisica,5,3,18.0,Masculino,Pontevedra,mtorrijos@example.net,+34985 896 345
+6051,Albina Quesada,Programacion,7,3,23.0,Masculino,Albacete,hierrootilia@example.com,+34690 16 26 71
+7369,Edelmiro Zaragoza,Matematicas,4,3,21.0,Masculino,Vizcaya,vcepeda@example.net,+34 848 73 36 93
+6209,Román Sanmartín,Programacion,8,5,23.0,Masculino,Jaén,amormanjon@example.org,+34 976 28 14 66
+1458,Alejandro Llorens,Fisica,2,0,20.0,Femenino,Albacete,driera@example.org,+34 824777642
+2537,Maite Chico,Programacion,5,2,19.0,Masculino,Jaén,correamanu@example.org,+34 888 769 417
+8573,Abigaíl Ripoll,Matematicas,2,1,24.0,Masculino,Segovia,sevillaignacia@example.net,+34 826 28 20 36
+6017,Nélida Arroyo,Programacion,10,5,18.0,Femenino,Ourense,valeria41@example.org,+34 945 171 213
+4722,Carmen Blanca,Matematicas,7,7,23.0,Femenino,Albacete,galapastor@example.org,
+3680,Tamara Terrón,Matematicas,4,3,23.0,Masculino,,taviles@example.net,+34902 866 810
+2449,Paco Ballesteros,Fisica,8,5,20.0,Masculino,Huesca,hoyoscandida@example.com,+34 832 27 10 96
+6332,Prudencio Dueñas,Matematicas,6,3,20.0,Masculino,Huelva,uriartepaca@example.com,
+2671,Edmundo Corral,Programacion,4,3,24.0,Femenino,Badajoz,ismael93@example.com,
+9504,Faustino Ugarte,Fisica,6,4,18.0,Femenino,Castellón,dsantamaria@example.net,+34987 17 17 55
+9533,Olga Muñoz,Fisica,6,4,19.0,Masculino,Lleida,celia99@example.com,+34 978 524 370
+6550,Noelia Alsina,Matematicas,9,5,25.0,Masculino,Huelva,herasgaspar@example.net,+34879886212
+6331,Paca Mateo,Fisica,6,3,25.0,Femenino,Cáceres,juan-franciscovalenzuela@example.net,+34 975309658
+4462,Hilda Arrieta,Programacion,6,3,19.0,Masculino,Valladolid,contrerastecla@example.org,+34 945 370 773
+2416,Amarilis Pelayo,Fisica,5,4,21.0,Masculino,La Coruña,silvia87@example.org,+34 985 971 391
+8164,Roque Raya,Programacion,5,2,20.0,Femenino,Segovia,naciocalvet@example.com,+34 974 456 658
+7869,Luciana Martín,Matematicas,6,4,22.0,Femenino,Santa Cruz de Tenerife,becerraherminia@example.org,+34 800 291 230
+5335,Chuy Rodriguez,Matematicas,9,5,19.0,Masculino,,eugeniapino@example.net,+34 701 24 75 35
+1677,Paulina Carranza,Fisica,10,5,22.0,Masculino,Granada,casemiromelendez@example.org,+34 947 94 67 93
+6059,María Ángeles Alcalá,Fisica,6,4,20.0,Femenino,Huelva,ealeman@example.com,+34902 515 672
+1686,Apolonia Gálvez,Matematicas,5,4,20.0,Femenino,Castellón,crescencia98@example.net,+34 844 852 300
+1744,Teófilo Nicolás,Fisica,5,4,22.0,Masculino,Almería,galindoroman@example.net,+34708 25 41 62
+1425,Eloy Paz,Fisica,6,4,25.0,Masculino,Huelva,azahar68@example.org,+34 983 77 30 04
+4135,Narciso Arribas,Fisica,6,3,25.0,Femenino,Valencia,eveliaferrero@example.org,
+6177,Leonel Guerrero,Matematicas,5,3,22.0,Femenino,Cádiz,jose14@example.org,+34944 06 13 29
+8780,Lalo Estévez,Matematicas,2,1,25.0,Femenino,La Rioja,tnavarro@example.com,+34983 317 784
+7695,Flavia Ribes,Matematicas,7,3,25.0,Masculino,Zamora,nmancebo@example.org,+34854 427 930
+5801,Olegario Fajardo,Programacion,5,4,18.0,Femenino,Zaragoza,patriciamarcos@example.org,+34 949350721
+6829,Celestino Casares,Programacion,6,5,22.0,Femenino,Lugo,chus92@example.com,+34 848 133 441
+9543,Isaura Carnero,Matematicas,6,3,21.0,Masculino,Palencia,smartorell@example.com,+34917390453
+1936,Aurelio Villalba,Matematicas,10,7,18.0,Masculino,Albacete,toribiobermudez@example.org,+34928 665 267
+3567,Benito Bustamante,Matematicas,4,1,25.0,Masculino,Madrid,amorbernardino@example.com,+34971 42 21 48
+9547,Eloy Pont,Programacion,10,8,18.0,Femenino,Burgos,vicenta18@example.org,+34 880528773
+9901,Macaria Ros,Matematicas,5,4,,Femenino,Navarra,armassalomon@example.net,+34885783815
+9873,Aureliano Beltran,Programacion,2,0,23.0,,La Coruña,fabriciocontreras@example.org,+34972063488
+9988,Javiera Palomar,Fisica,10,8,20.0,Masculino,Melilla,pomarescristian@example.org,+34689615642
+8414,Aránzazu Torrijos,Fisica,3,0,24.0,Masculino,Pontevedra,ascension12@example.org,+34954 22 91 61
+8034,Modesta Giner,Fisica,6,4,21.0,Femenino,Segovia,vilaefrain@example.org,+34825 888 432
+3901,Jose Ignacio Galan,Programacion,5,3,20.0,Femenino,La Rioja,ybosch@example.com,+34841 28 68 38
+5875,Inmaculada Castell,Fisica,6,6,21.0,Masculino,Las Palmas,parraamarilis@example.net,+34807912080
+5611,Borja Agustí,Fisica,5,4,22.0,Femenino,Albacete,qmorcillo@example.net,+34 873 00 41 09
