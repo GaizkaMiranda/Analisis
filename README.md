@@ -7,7 +7,7 @@
 
 ## Explicación de los pasos seguidos
 
-1. **Importación de librerías**: Se importaron librerías necesarias como `numpy`, `pandas`, `faker`, y `matplotlib` para generar y visualizar los datos.
+1. **Importación de librerías**: Se importaron librerías necesarias como `numpy`, `pandas`, `faker`, y `matplotlib` para generar y visualizar los datos. Ademas, se usan librerias como `elasticsearch`, `python-dotenv` y `requests` para almacenar datos en elastic y visualizarlos con kibana
 2. **Generación de datos aleatorios**: Utilizamos la librería `Faker` para crear nombres y otros datos realistas en español, y `numpy` para generar las notas y horas de estudio de manera aleatoria.
 3. **Creación de un DataFrame**: Los datos generados se organizaron en un diccionario y se convirtió en un DataFrame de `pandas` con las columnas requeridas.
 4. **Generación de archivos CSV**: Se dividió la información en dos archivos CSV: uno con los datos de los alumnos y otro con las notas de las asignaturas.
@@ -17,13 +17,19 @@
 
 ## Instrucciones de uso
 
-1. **Instalar dependencias**: Asegúrate de tener las librerías necesarias instaladas en tu entorno de Python. Puedes hacerlo ejecutando:
+1. **Levantar contenedores**: Levantaremos kibana y elastic haciendo uso del docker-compose.yml. Puedes hacerlo ejecutando:
    ```bash
-   pip install numpy pandas faker matplotlib
+   docker-compose up
 
-2. **Ejecutar el código**: Para generar los archivos CSV y las visualizaciones, simplemente ejecuta el archivo de Python. Asegúrate de que los archivos .csv se generen correctamente en el directorio de trabajo.
+2. **Instalar dependencias**: Asegúrate de tener las librerías necesarias instaladas en tu entorno de Python. Puedes hacerlo ejecutando:
+   ```bash
+   pip install -r requirements.txt
 
-3. **Explorar los archivos CSV**: Los archivos generados se guardarán con los siguientes nombres:
+   Otra opción sería crear un nuevo kernel a partir del archivo requirements.txt
+
+3. **Ejecutar el código**: Para generar los archivos CSV y las visualizaciones, simplemente ejecuta el archivo de Python. Asegúrate de que los archivos .csv se generen correctamente en el directorio de trabajo. Antes de hacerlo, asegúrate de que los contenedores estan corriendo. En caso de que no lo esten, no pasa nada, puedes ejecutar todo aunque el ultimo bloque dara error. Una vez todo esta levantado, puedes ejecutar el bloque que ha dado error y listo.
+
+4. **Explorar los archivos CSV**: Los archivos generados se guardarán con los siguientes nombres:
 
 alumnos_deusto.csv: Contiene la información completa de los alumnos.
 
@@ -31,13 +37,18 @@ alumnos.csv: Contiene solo los nombres de los alumnos.
 
 notas.csv: Contiene las asignaturas y sus correspondientes notas.
 
-4. **Ver los gráficos**: Al ejecutar el código, se mostrarán histogramas sobre la distribución de las notas y las horas de estudio.
+5. **Ver los gráficos**: Al ejecutar el código, se mostrarán histogramas sobre la distribución de las notas y las horas de estudio.
 
+6. **Acceder a elastic**: Para comprobar que los datos se han almacenado correctamente, puedes acceder a elastic abriendo http://localhost:5601/ y usanso el usuario `elastic` y la contraseña `admín1` (Se puede cambiar en el .env antes de ejecutar los contenedores.)
+
+7. **Importar el dashboard**: Para comprobar de una manera mas visual que realmente hay datos, navegar a Stack Management > Saved Objects e importar el archivo vista.ndjson
+
+8. **Visualizar el dashboard**: Una vez importado, para ver los datos, ve a Analytics > Dashboard y seleccionar el dashboard importado.
 
 ## Posibles vías de mejora
 1. **Ampliar la generación de datos**: Se podrían añadir más campos, como dirección, fecha de nacimiento o información sobre las clases.
 
-2. **Mejora de la visualización**: Se pueden agregar más tipos de gráficos o hacer una visualización interactiva para analizar más a fondo los datos.
+2. **Automatización completa del despliegue**: Crear un script que automatice la ejecución, ejecutando el jupyter notebook y añadiendo el dashboard.
 
 3. **Análisis predictivo**: Se podría aplicar un modelo de Machine Learning para predecir las notas de los estudiantes en función de sus horas de estudio.
 
