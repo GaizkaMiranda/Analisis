@@ -66,3 +66,5 @@ notas.csv: Contiene las asignaturas y sus correspondientes notas.
 1. **Uso de otro generador de datos**: En lugar de Faker, podríamos haber utilizado otro generador de datos más específico para el contexto de la simulación.
 
 2. **Aplicación de análisis más profundos**: En lugar de solo generar estadísticas descriptivas, podríamos aplicar técnicas más avanzadas de análisis de datos, como el análisis de correlación entre las horas de estudio y las notas.
+3. **PostgreSQL para gestión de datos**: PostgreSQL maneja grandes volúmenes de datos mejor que archivos CSV o SQLite y soporta consultas complejas y optimización de rendimiento.
+
